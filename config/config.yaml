@@ -1,0 +1,26 @@
+# KC Graph and Parameter Graph
+dataset_dir: "./data/dataset"
+graph_dir: "./data/KC_tree"
+
+# Output Paths
+EM_output_dir: "./output/EM-Results/"
+KT_output_dir: "./output/KT-Results/"
+ 
+
+# EM
+dataset: "XES3G5M" # "XES3G5M" or "MOOCRadar"
+root_node: 'Application_Module' # XES3G5M: 'Application_Module / Computation_Module / Counting_Module', MOOCRadar: 'Wine_Knowledge / Circuit_Design / Education_Theory'
+burn_in_size: 10
+early_stopping: false
+max_step: 20
+early_stopping_threshold: 0.01
+
+# KT
+save_intermediate_graph: false # save the intermediate graphs for all updates
+
+# Parameters Initialization
+initial_r_diff: [0.9, 0.8, 0.75]
+initial_gamma_root: 0.1
+initial_transition: 0.1
+initial_phi: 0.7 # overall emission, only for visualization, not used in the model
+initial_epsilon: 0.1

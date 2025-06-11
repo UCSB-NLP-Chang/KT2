@@ -1,0 +1,15 @@
+deployment_name: "gpt-4o-mini"
+api_version: "[PUT YOUR API VERSION HERE]"
+api_base: "[PUT YOUR API BASE HERE]"
+api_key: "[PUT YOUR API KEY HERE]"
+
+dataset: "MOOCRadar"
+data_dir: "./preprocess/full_data/"
+output_dir: "./preprocess/full_data/"
+
+# Final dataset dir
+dataset_dir: "./data/dataset"
+graph_dir: "./data/KC_tree"
+
+times_of_attempt: 3 #Number of attempts for each example
+handle_fails: false #Turn on to retry the failed examples

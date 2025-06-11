@@ -1,0 +1,80 @@
+{
+    "班集体形成基础": {
+        "name": "班集体形成基础",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "教育理论与实践"
+        ]
+    },
+    "反馈": {
+        "name": "反馈",
+        "question_count": 129,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "教育理论与实践"
+        ]
+    },
+    "教育理论与实践": {
+        "name": "教育理论与实践",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "班集体形成基础",
+            "班主任管理与师生关系",
+            "反馈"
+        ],
+        "parents": []
+    },
+    "班主任管理与师生关系": {
+        "name": "班主任管理与师生关系",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "教育理论与实践"
+        ]
+    }
+}

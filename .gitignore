@@ -1,0 +1,29 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / PyCharm project files
+.vscode/
+.idea/
+
+# Model checkpoints and logs
+*.pt
+*.pth
+*.ckpt
+*.log
+
+# Output files
+output/
+outputs/
+results/
+*.out
+*.err
+
+# System files
+.DS_Store
+*.swp

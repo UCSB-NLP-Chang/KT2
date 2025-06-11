@@ -1,0 +1,4082 @@
+{
+    "金融市场": {
+        "name": "金融市场",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "个人来源": {
+        "name": "个人来源",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "学术资源平台": {
+        "name": "学术资源平台",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "算法": {
+        "name": "算法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "服务器": {
+        "name": "服务器",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "德育教育": {
+        "name": "德育教育",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "控制系统": {
+        "name": "控制系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据对象": {
+        "name": "数据对象",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "临床研究与实践": {
+        "name": "临床研究与实践",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "零点漂移": {
+        "name": "零点漂移",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "管排修正系数": {
+        "name": "管排修正系数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "细分市场评价": {
+        "name": "细分市场评价",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "灾害与突发事件": {
+        "name": "灾害与突发事件",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "法律责任": {
+        "name": "法律责任",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "放大电路设计": {
+        "name": "放大电路设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "大数据": {
+        "name": "大数据",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "PHP编程知识": {
+        "name": "PHP编程知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济增长理论": {
+        "name": "经济增长理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "命题演算的公理系统": {
+        "name": "命题演算的公理系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "酸碱平衡紊乱": {
+        "name": "酸碱平衡紊乱",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "呼吸系统疾病": {
+        "name": "呼吸系统疾病",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "个人信息与信息保护": {
+        "name": "个人信息与信息保护",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据平滑": {
+        "name": "数据平滑",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "弹性力学": {
+        "name": "弹性力学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "气体性质": {
+        "name": "气体性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "热力学与相变": {
+        "name": "热力学与相变",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "牧草种子知识": {
+        "name": "牧草种子知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "商业与产业": {
+        "name": "商业与产业",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "内容元素与信息来源": {
+        "name": "内容元素与信息来源",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "希腊哲学": {
+        "name": "希腊哲学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "职位性权利": {
+        "name": "职位性权利",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "动量与能量守恒定律": {
+        "name": "动量与能量守恒定律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "全球化与文化交流": {
+        "name": "全球化与文化交流",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "生物与地理科学": {
+        "name": "生物与地理科学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "文化与思想人物": {
+        "name": "文化与思想人物",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据处理与编程知识": {
+        "name": "数据处理与编程知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "财务指标": {
+        "name": "财务指标",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "运动与振动": {
+        "name": "运动与振动",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据管理与分析": {
+        "name": "数据管理与分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "白酒知识": {
+        "name": "白酒知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "时间管理与复杂度": {
+        "name": "时间管理与复杂度",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "市场营销战略": {
+        "name": "市场营销战略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "效应概念": {
+        "name": "效应概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "传热规律转变判据": {
+        "name": "传热规律转变判据",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "市场概念": {
+        "name": "市场概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "理想运放": {
+        "name": "理想运放",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "绩效评价指标": {
+        "name": "绩效评价指标",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "贝叶斯分类": {
+        "name": "贝叶斯分类",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "坐标系统": {
+        "name": "坐标系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "酸价": {
+        "name": "酸价",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "磁性及磁性材料": {
+        "name": "磁性及磁性材料",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "物质帮助": {
+        "name": "物质帮助",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多媒体与技术应用": {
+        "name": "多媒体与技术应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "光学性质": {
+        "name": "光学性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "办公与设计软件应用": {
+        "name": "办公与设计软件应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "信息化教学资源": {
+        "name": "信息化教学资源",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "研究对象": {
+        "name": "研究对象",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "税务管理": {
+        "name": "税务管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "身体成分分析": {
+        "name": "身体成分分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "热传递系数": {
+        "name": "热传递系数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "逻辑与对立": {
+        "name": "逻辑与对立",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "学习方法与策略": {
+        "name": "学习方法与策略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "计算机与信息系统相关术语": {
+        "name": "计算机与信息系统相关术语",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "交易": {
+        "name": "交易",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "财务报表": {
+        "name": "财务报表",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "贝叶斯分类方法": {
+        "name": "贝叶斯分类方法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "复合材料和生物材料": {
+        "name": "复合材料和生物材料",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "领导力概念": {
+        "name": "领导力概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济活动": {
+        "name": "经济活动",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "介质": {
+        "name": "介质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数学理论": {
+        "name": "数学理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "文件系统": {
+        "name": "文件系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "旋转与运动": {
+        "name": "旋转与运动",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "逻辑与概率理论": {
+        "name": "逻辑与概率理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "厨房与卫生间": {
+        "name": "厨房与卫生间",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中国特色社会主义理论体系": {
+        "name": "中国特色社会主义理论体系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "流体动力学": {
+        "name": "流体动力学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "微课类型": {
+        "name": "微课类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "位置与偏倚": {
+        "name": "位置与偏倚",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "住宅建筑与政策": {
+        "name": "住宅建筑与政策",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教育理念": {
+        "name": "教育理念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "辐射热管理": {
+        "name": "辐射热管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "散热器": {
+        "name": "散热器",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中国历史人物": {
+        "name": "中国历史人物",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "陶瓷及陶瓷材料": {
+        "name": "陶瓷及陶瓷材料",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济指标": {
+        "name": "经济指标",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "原子结构与杂化理论": {
+        "name": "原子结构与杂化理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "机器学习概念": {
+        "name": "机器学习概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "财经报道原则": {
+        "name": "财经报道原则",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "有机化学反应": {
+        "name": "有机化学反应",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "混凝土": {
+        "name": "混凝土",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "线性理论": {
+        "name": "线性理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "二阶张量": {
+        "name": "二阶张量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "大数据知识": {
+        "name": "大数据知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "反应物浓度": {
+        "name": "反应物浓度",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "企业类型与品牌": {
+        "name": "企业类型与品牌",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "调查性报道": {
+        "name": "调查性报道",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "级数与收敛性": {
+        "name": "级数与收敛性",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "面向对象的程序设计": {
+        "name": "面向对象的程序设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "建筑用地使用权": {
+        "name": "建筑用地使用权",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "排序算法": {
+        "name": "排序算法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "竞争战略": {
+        "name": "竞争战略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "逻辑表达方式": {
+        "name": "逻辑表达方式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "向量运算": {
+        "name": "向量运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "建筑热湿环境": {
+        "name": "建筑热湿环境",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "哲学思想体系": {
+        "name": "哲学思想体系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中国古代文化": {
+        "name": "中国古代文化",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "班集体形成基础": {
+        "name": "班集体形成基础",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "虚拟货币": {
+        "name": "虚拟货币",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "香气化学": {
+        "name": "香气化学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "程序设计范式": {
+        "name": "程序设计范式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "癌症类型": {
+        "name": "癌症类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "摄影技术": {
+        "name": "摄影技术",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "化学键与配合物": {
+        "name": "化学键与配合物",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "约束与优先级管理": {
+        "name": "约束与优先级管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济学知识体系": {
+        "name": "经济学知识体系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "货币政策": {
+        "name": "货币政策",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "服务平台": {
+        "name": "服务平台",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "算法设计与应用": {
+        "name": "算法设计与应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "电子取景器": {
+        "name": "电子取景器",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教育目的与功能": {
+        "name": "教育目的与功能",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "话题": {
+        "name": "话题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "地理与发展": {
+        "name": "地理与发展",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "力的概念": {
+        "name": "力的概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "电路设计与分析": {
+        "name": "电路设计与分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "特征与性质": {
+        "name": "特征与性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "法律与政治制度": {
+        "name": "法律与政治制度",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "泌尿系统与代谢疾病": {
+        "name": "泌尿系统与代谢疾病",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "离子化学": {
+        "name": "离子化学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "合同法基本概念": {
+        "name": "合同法基本概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "道尔顿气体分压定律": {
+        "name": "道尔顿气体分压定律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "维度与降维": {
+        "name": "维度与降维",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据库系统": {
+        "name": "数据库系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "合同法": {
+        "name": "合同法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "结果": {
+        "name": "结果",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "生产与机会": {
+        "name": "生产与机会",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "内存管理": {
+        "name": "内存管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "失业与失业保险": {
+        "name": "失业与失业保险",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "微分运算": {
+        "name": "微分运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "流体物理性质": {
+        "name": "流体物理性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教育研究与实践": {
+        "name": "教育研究与实践",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "平方试探策略": {
+        "name": "平方试探策略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "赔偿与代偿": {
+        "name": "赔偿与代偿",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "泰勒分析与近似方法": {
+        "name": "泰勒分析与近似方法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "人工智能概论": {
+        "name": "人工智能概论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "辐射传热": {
+        "name": "辐射传热",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "库存管理": {
+        "name": "库存管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "调查研究": {
+        "name": "调查研究",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "管理学概念": {
+        "name": "管理学概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "信息技术与管理": {
+        "name": "信息技术与管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "晶体与半导体结构": {
+        "name": "晶体与半导体结构",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "计算机系统管理": {
+        "name": "计算机系统管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "哲学思想": {
+        "name": "哲学思想",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "酸性性质": {
+        "name": "酸性性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "生物与环境设计": {
+        "name": "生物与环境设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "资产管理": {
+        "name": "资产管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "新闻传播与实践": {
+        "name": "新闻传播与实践",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济体系与发展": {
+        "name": "经济体系与发展",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "资源管理": {
+        "name": "资源管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "酸碱质子理论": {
+        "name": "酸碱质子理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "写作手法": {
+        "name": "写作手法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "传热学概念": {
+        "name": "传热学概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "概率分布函数": {
+        "name": "概率分布函数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "文件格式与内容管理": {
+        "name": "文件格式与内容管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数制与转换": {
+        "name": "数制与转换",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "危机管理": {
+        "name": "危机管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "战略管理": {
+        "name": "战略管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "小数定标规范化": {
+        "name": "小数定标规范化",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "白酒": {
+        "name": "白酒",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "指导思想": {
+        "name": "指导思想",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "网络技术": {
+        "name": "网络技术",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "急救与应急管理": {
+        "name": "急救与应急管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "免疫细胞与体液": {
+        "name": "免疫细胞与体液",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "化学理论": {
+        "name": "化学理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "病毒感染": {
+        "name": "病毒感染",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "秦朝历史": {
+        "name": "秦朝历史",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "电学原理": {
+        "name": "电学原理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "生殖与发育": {
+        "name": "生殖与发育",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中东政治与历史": {
+        "name": "中东政治与历史",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "行列式的基本性质": {
+        "name": "行列式的基本性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "有机反应类型": {
+        "name": "有机反应类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "消费者行为学": {
+        "name": "消费者行为学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "大曲知识": {
+        "name": "大曲知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "质点运动理论": {
+        "name": "质点运动理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "酸性": {
+        "name": "酸性",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "时间片": {
+        "name": "时间片",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教育发展概念": {
+        "name": "教育发展概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "原则体系": {
+        "name": "原则体系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "函数分析": {
+        "name": "函数分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "军事历史与组织": {
+        "name": "军事历史与组织",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "速度与加速度": {
+        "name": "速度与加速度",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "物理学基本原则": {
+        "name": "物理学基本原则",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "人文精神与价值观": {
+        "name": "人文精神与价值观",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "化学概念": {
+        "name": "化学概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "随机变量及其性质": {
+        "name": "随机变量及其性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "求导运算": {
+        "name": "求导运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "钢管椅": {
+        "name": "钢管椅",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "运算类型": {
+        "name": "运算类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "内含报酬率": {
+        "name": "内含报酬率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "心理学理论": {
+        "name": "心理学理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "假设检验问题": {
+        "name": "假设检验问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "材料科学与工程": {
+        "name": "材料科学与工程",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "操作系统": {
+        "name": "操作系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "社会主义理论": {
+        "name": "社会主义理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "思维方式": {
+        "name": "思维方式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "离群点": {
+        "name": "离群点",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "国家与阶级关系": {
+        "name": "国家与阶级关系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中美军事冲突": {
+        "name": "中美军事冲突",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "酸碱平衡与反应类型": {
+        "name": "酸碱平衡与反应类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "喀布尔": {
+        "name": "喀布尔",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "货币类型": {
+        "name": "货币类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "量子数与数值概念": {
+        "name": "量子数与数值概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中国文化概念": {
+        "name": "中国文化概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数组与维数": {
+        "name": "数组与维数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "神经信号传导": {
+        "name": "神经信号传导",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据结构": {
+        "name": "数据结构",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济学概念": {
+        "name": "经济学概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "身体形态与评估": {
+        "name": "身体形态与评估",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "运动学": {
+        "name": "运动学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "成本与价格分析": {
+        "name": "成本与价格分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "树结构与算法": {
+        "name": "树结构与算法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据分析方法": {
+        "name": "数据分析方法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "科技与支付系统": {
+        "name": "科技与支付系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济发展与增长": {
+        "name": "经济发展与增长",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "免疫与反应机制": {
+        "name": "免疫与反应机制",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "准确性": {
+        "name": "准确性",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "市场营销策略": {
+        "name": "市场营销策略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "支付宝": {
+        "name": "支付宝",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "能量与功": {
+        "name": "能量与功",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "物权法律关系": {
+        "name": "物权法律关系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中东战争与冲突": {
+        "name": "中东战争与冲突",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "国际贸易与经济指标": {
+        "name": "国际贸易与经济指标",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "功能概念": {
+        "name": "功能概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "简单函数的极限问题": {
+        "name": "简单函数的极限问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "纯滚动": {
+        "name": "纯滚动",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "现代教学媒体": {
+        "name": "现代教学媒体",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "分布函数": {
+        "name": "分布函数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "文言": {
+        "name": "文言",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "运动饮食": {
+        "name": "运动饮食",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "赤纬": {
+        "name": "赤纬",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "形态学": {
+        "name": "形态学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "科学理论与方法": {
+        "name": "科学理论与方法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "课程理论与实践": {
+        "name": "课程理论与实践",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "营销策略": {
+        "name": "营销策略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "化学能量与反应": {
+        "name": "化学能量与反应",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "服务平台管理": {
+        "name": "服务平台管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "有机化合物合成与结构": {
+        "name": "有机化合物合成与结构",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "投资收益率": {
+        "name": "投资收益率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "发酵化学": {
+        "name": "发酵化学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "财经报道知识": {
+        "name": "财经报道知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "算法优化与分析": {
+        "name": "算法优化与分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "信息系统与管理": {
+        "name": "信息系统与管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "状态与特性": {
+        "name": "状态与特性",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中印军事冲突与地缘政治": {
+        "name": "中印军事冲突与地缘政治",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "运动类型": {
+        "name": "运动类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "零件": {
+        "name": "零件",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "茶文化": {
+        "name": "茶文化",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "热交换与传热": {
+        "name": "热交换与传热",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "神经生物学": {
+        "name": "神经生物学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "金融工具与机构": {
+        "name": "金融工具与机构",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "目标设定与规划": {
+        "name": "目标设定与规划",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "函数极值与极限": {
+        "name": "函数极值与极限",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "锁定与噪声控制": {
+        "name": "锁定与噪声控制",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "反馈": {
+        "name": "反馈",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "性质与特性": {
+        "name": "性质与特性",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "MBTI理论": {
+        "name": "MBTI理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "一元弱酸的解离平衡常数": {
+        "name": "一元弱酸的解离平衡常数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "骨骼解剖学": {
+        "name": "骨骼解剖学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "时间复杂度": {
+        "name": "时间复杂度",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "概率分布": {
+        "name": "概率分布",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "换热器类型": {
+        "name": "换热器类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "生命科学": {
+        "name": "生命科学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "人与自然": {
+        "name": "人与自然",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "利率与汇率": {
+        "name": "利率与汇率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中国历史改革与革命": {
+        "name": "中国历史改革与革命",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "晋书": {
+        "name": "晋书",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "风险管理": {
+        "name": "风险管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "通货膨胀与汇率": {
+        "name": "通货膨胀与汇率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "市场营销学": {
+        "name": "市场营销学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "个人权利保护": {
+        "name": "个人权利保护",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "应急决策": {
+        "name": "应急决策",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济理论概述": {
+        "name": "经济理论概述",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "工程图绘制": {
+        "name": "工程图绘制",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教育目的选择": {
+        "name": "教育目的选择",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "投影技术": {
+        "name": "投影技术",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "方程理论": {
+        "name": "方程理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "热导率研究": {
+        "name": "热导率研究",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "计算机科学与技术": {
+        "name": "计算机科学与技术",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "行列式的计算": {
+        "name": "行列式的计算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "微课学习策略": {
+        "name": "微课学习策略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "进程管理": {
+        "name": "进程管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "计算机科学概念": {
+        "name": "计算机科学概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "互联网金融产品": {
+        "name": "互联网金融产品",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中东与中国历史政治研究": {
+        "name": "中东与中国历史政治研究",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济理论": {
+        "name": "经济理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "反应类型": {
+        "name": "反应类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "有机与无机化学知识": {
+        "name": "有机与无机化学知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "沟通与谈判": {
+        "name": "沟通与谈判",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "应急管理系统": {
+        "name": "应急管理系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "化学与物理性质": {
+        "name": "化学与物理性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "对象研究": {
+        "name": "对象研究",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "种子管理与研究": {
+        "name": "种子管理与研究",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "极限运算": {
+        "name": "极限运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "创业知识": {
+        "name": "创业知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "特征值的特征向量": {
+        "name": "特征值的特征向量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教育制度与发展": {
+        "name": "教育制度与发展",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "技术概念": {
+        "name": "技术概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "经济增长率": {
+        "name": "经济增长率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "货币与金融市场": {
+        "name": "货币与金融市场",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "泛型程序设计": {
+        "name": "泛型程序设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "市场营销知识": {
+        "name": "市场营销知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教学方法与设计": {
+        "name": "教学方法与设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "积极心理学": {
+        "name": "积极心理学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "特征值": {
+        "name": "特征值",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "信息检索技术": {
+        "name": "信息检索技术",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "合同法知识": {
+        "name": "合同法知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "模型理论": {
+        "name": "模型理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "心血管急救与疾病": {
+        "name": "心血管急救与疾病",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "交易与转移": {
+        "name": "交易与转移",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "建筑环境设计": {
+        "name": "建筑环境设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "物理定律与定理": {
+        "name": "物理定律与定理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "肝脏疾病与代谢": {
+        "name": "肝脏疾病与代谢",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "函数理论": {
+        "name": "函数理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "建筑景观": {
+        "name": "建筑景观",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "导数求解方法": {
+        "name": "导数求解方法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "流体力学": {
+        "name": "流体力学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "荀子": {
+        "name": "荀子",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "产品管理": {
+        "name": "产品管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "心血管疾病风险因素": {
+        "name": "心血管疾病风险因素",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "韩国财阀": {
+        "name": "韩国财阀",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "价值理论": {
+        "name": "价值理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "矩阵理论": {
+        "name": "矩阵理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "空间规划": {
+        "name": "空间规划",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据处理与分析": {
+        "name": "数据处理与分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "有限元分析": {
+        "name": "有限元分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "文化艺术": {
+        "name": "文化艺术",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "组织与评估设计": {
+        "name": "组织与评估设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "手表": {
+        "name": "手表",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "统计学与测量": {
+        "name": "统计学与测量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "值的类型": {
+        "name": "值的类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "植物景观与设计": {
+        "name": "植物景观与设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "电阻": {
+        "name": "电阻",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "真实汇率": {
+        "name": "真实汇率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "物理性质": {
+        "name": "物理性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "产业区位与发展": {
+        "name": "产业区位与发展",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "自拍照": {
+        "name": "自拍照",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "物化": {
+        "name": "物化",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中国石油文化": {
+        "name": "中国石油文化",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "土地使用权与抵押权": {
+        "name": "土地使用权与抵押权",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "平台多元化": {
+        "name": "平台多元化",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "供应链合作与管理": {
+        "name": "供应链合作与管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "OLAP技术": {
+        "name": "OLAP技术",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "沸腾传热": {
+        "name": "沸腾传热",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "团队协作与组合": {
+        "name": "团队协作与组合",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "白酒香型": {
+        "name": "白酒香型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "承诺到达": {
+        "name": "承诺到达",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "财经报道与传播": {
+        "name": "财经报道与传播",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "力学理论": {
+        "name": "力学理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "物理学": {
+        "name": "物理学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "石油与能源产业": {
+        "name": "石油与能源产业",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "概念框架": {
+        "name": "概念框架",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "甘特图": {
+        "name": "甘特图",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "第一电离能": {
+        "name": "第一电离能",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "正态分布理论": {
+        "name": "正态分布理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "伽拉提亚的掳掠": {
+        "name": "伽拉提亚的掳掠",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "国内生产总值概念": {
+        "name": "国内生产总值概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "社会与政治关系": {
+        "name": "社会与政治关系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "行为理论": {
+        "name": "行为理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "物权与权利": {
+        "name": "物权与权利",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "法律与责任": {
+        "name": "法律与责任",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "简谐运动": {
+        "name": "简谐运动",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "轴测图与轴点策略": {
+        "name": "轴测图与轴点策略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "参数": {
+        "name": "参数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中国历史": {
+        "name": "中国历史",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "学习环境的特征": {
+        "name": "学习环境的特征",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "反应速率": {
+        "name": "反应速率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "高斯消元法": {
+        "name": "高斯消元法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "积分理论": {
+        "name": "积分理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教育活动": {
+        "name": "教育活动",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "自由与能量": {
+        "name": "自由与能量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "流行病学": {
+        "name": "流行病学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "有机酸和代谢紊乱": {
+        "name": "有机酸和代谢紊乱",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "曲线分析": {
+        "name": "曲线分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "函数概念": {
+        "name": "函数概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "资产负债表": {
+        "name": "资产负债表",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "现金流量管理": {
+        "name": "现金流量管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "流动特性": {
+        "name": "流动特性",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "马克思": {
+        "name": "马克思",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "暖通空调系统": {
+        "name": "暖通空调系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "热力学与化学反应": {
+        "name": "热力学与化学反应",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "材料科学": {
+        "name": "材料科学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "广告": {
+        "name": "广告",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "速率分布函数": {
+        "name": "速率分布函数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数学期望": {
+        "name": "数学期望",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "辐射热传递": {
+        "name": "辐射热传递",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "抵押权": {
+        "name": "抵押权",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "方程求解方法": {
+        "name": "方程求解方法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "临界条件": {
+        "name": "临界条件",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "骨骼损伤与愈合": {
+        "name": "骨骼损伤与愈合",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "市场结构": {
+        "name": "市场结构",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "边际替代率": {
+        "name": "边际替代率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "汉朝历史人物": {
+        "name": "汉朝历史人物",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "国际关系与协议": {
+        "name": "国际关系与协议",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "所有者权益变动表": {
+        "name": "所有者权益变动表",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "设计领域": {
+        "name": "设计领域",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "建筑环境与生态设计": {
+        "name": "建筑环境与生态设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "加权残值法": {
+        "name": "加权残值法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "运算放大器与电路设计": {
+        "name": "运算放大器与电路设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "电气电路知识": {
+        "name": "电气电路知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "商业模式": {
+        "name": "商业模式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "向量与空间理论": {
+        "name": "向量与空间理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "研究设计": {
+        "name": "研究设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "货币": {
+        "name": "货币",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据处理技术": {
+        "name": "数据处理技术",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "尺寸测量": {
+        "name": "尺寸测量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "无机化学化合物": {
+        "name": "无机化学化合物",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "政治体制与制度改革": {
+        "name": "政治体制与制度改革",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "电容": {
+        "name": "电容",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "作者": {
+        "name": "作者",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "金属及合金材料": {
+        "name": "金属及合金材料",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "系统特性": {
+        "name": "系统特性",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "生物与自然科学": {
+        "name": "生物与自然科学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "六度分隔理论": {
+        "name": "六度分隔理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "规划与设计": {
+        "name": "规划与设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "学校教育制度": {
+        "name": "学校教育制度",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "植物景观规划设计": {
+        "name": "植物景观规划设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "推理与论证": {
+        "name": "推理与论证",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "命题理论": {
+        "name": "命题理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "访问内存": {
+        "name": "访问内存",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "边界层理论": {
+        "name": "边界层理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据库": {
+        "name": "数据库",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "红黑树": {
+        "name": "红黑树",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "货币政策与供应": {
+        "name": "货币政策与供应",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "体温调节": {
+        "name": "体温调节",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "大气压": {
+        "name": "大气压",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "电学概念": {
+        "name": "电学概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "平衡理论": {
+        "name": "平衡理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "研究方法论": {
+        "name": "研究方法论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "简谐振动与波动": {
+        "name": "简谐振动与波动",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "电子学": {
+        "name": "电子学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "历史研究": {
+        "name": "历史研究",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "运算放大器知识": {
+        "name": "运算放大器知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "媒体叙事策略": {
+        "name": "媒体叙事策略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "热力学理论": {
+        "name": "热力学理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教育理论与实践": {
+        "name": "教育理论与实践",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "电流": {
+        "name": "电流",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "班主任管理与师生关系": {
+        "name": "班主任管理与师生关系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "偏差与异常分析": {
+        "name": "偏差与异常分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "决策理论": {
+        "name": "决策理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "最小势能原理": {
+        "name": "最小势能原理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "生长效率": {
+        "name": "生长效率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "集成运放电路": {
+        "name": "集成运放电路",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "白酒评鉴知识": {
+        "name": "白酒评鉴知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "礼乐制度": {
+        "name": "礼乐制度",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "点的特性": {
+        "name": "点的特性",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "马克思主义理论": {
+        "name": "马克思主义理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "文化与哲学": {
+        "name": "文化与哲学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据管理": {
+        "name": "数据管理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "切线方程": {
+        "name": "切线方程",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "老白干香型白酒": {
+        "name": "老白干香型白酒",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "三项原则": {
+        "name": "三项原则",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "应变场": {
+        "name": "应变场",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "后现代主义课程理论": {
+        "name": "后现代主义课程理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数字系统": {
+        "name": "数字系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据管理系统": {
+        "name": "数据管理系统",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据规范化": {
+        "name": "数据规范化",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "实践经验": {
+        "name": "实践经验",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "算子理论": {
+        "name": "算子理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "EI数据库": {
+        "name": "EI数据库",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "传热学": {
+        "name": "传热学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "艺术作品": {
+        "name": "艺术作品",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "超链接": {
+        "name": "超链接",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "类型分类": {
+        "name": "类型分类",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "频率响应": {
+        "name": "频率响应",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "分析方法": {
+        "name": "分析方法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "概率论": {
+        "name": "概率论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中心地理论": {
+        "name": "中心地理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "玻璃材料": {
+        "name": "玻璃材料",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "行列式的几何意义": {
+        "name": "行列式的几何意义",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "植物景观设计与规划": {
+        "name": "植物景观设计与规划",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "稳态导热分析": {
+        "name": "稳态导热分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "反应特性": {
+        "name": "反应特性",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "行为科学": {
+        "name": "行为科学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "盈利能力指标": {
+        "name": "盈利能力指标",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数学运算": {
+        "name": "数学运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "结构类型": {
+        "name": "结构类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教育功能": {
+        "name": "教育功能",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "行列式知识": {
+        "name": "行列式知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "阶次概念": {
+        "name": "阶次概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "热力学第二定律": {
+        "name": "热力学第二定律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "力学": {
+        "name": "力学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教师专业发展": {
+        "name": "教师专业发展",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "LU分解": {
+        "name": "LU分解",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "基本子空间的正交关系": {
+        "name": "基本子空间的正交关系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "编程基础知识": {
+        "name": "编程基础知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "检索词汇": {
+        "name": "检索词汇",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "财务报表分析": {
+        "name": "财务报表分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "浓度": {
+        "name": "浓度",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "相似性与特征分析": {
+        "name": "相似性与特征分析",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "社会主义发展理论": {
+        "name": "社会主义发展理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "石油产业": {
+        "name": "石油产业",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "线性代数解法": {
+        "name": "线性代数解法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "无穷小理论": {
+        "name": "无穷小理论",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "疾病类型": {
+        "name": "疾病类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "循证医学与流行病学": {
+        "name": "循证医学与流行病学",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "教学环境与设计": {
+        "name": "教学环境与设计",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中国古代": {
+        "name": "中国古代",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "循环机制": {
+        "name": "循环机制",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "编程知识": {
+        "name": "编程知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据管理与处理": {
+        "name": "数据管理与处理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    }
+}

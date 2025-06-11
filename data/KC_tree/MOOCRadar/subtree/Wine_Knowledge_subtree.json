@@ -1,0 +1,100 @@
+{
+    "白酒知识": {
+        "name": "白酒知识",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "老白干香型白酒",
+            "白酒评鉴知识",
+            "白酒香型",
+            "白酒"
+        ],
+        "parents": []
+    },
+    "白酒": {
+        "name": "白酒",
+        "question_count": 14,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "白酒知识"
+        ]
+    },
+    "白酒香型": {
+        "name": "白酒香型",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "白酒知识"
+        ]
+    },
+    "白酒评鉴知识": {
+        "name": "白酒评鉴知识",
+        "question_count": 40,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "白酒知识"
+        ]
+    },
+    "老白干香型白酒": {
+        "name": "老白干香型白酒",
+        "question_count": 18,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "白酒知识"
+        ]
+    }
+}

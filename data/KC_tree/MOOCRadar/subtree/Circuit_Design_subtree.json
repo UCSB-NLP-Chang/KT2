@@ -1,0 +1,180 @@
+{
+    "放大电路设计": {
+        "name": "放大电路设计",
+        "question_count": 224,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "理想运放": {
+        "name": "理想运放",
+        "question_count": 15,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "电路设计与分析": {
+        "name": "电路设计与分析",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "运算放大器与电路设计": {
+        "name": "运算放大器与电路设计",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "理想运放",
+            "电子学",
+            "电学概念",
+            "运算放大器知识",
+            "放大电路设计",
+            "电路设计与分析",
+            "电气电路知识",
+            "集成运放电路"
+        ],
+        "parents": []
+    },
+    "电气电路知识": {
+        "name": "电气电路知识",
+        "question_count": 61,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "电学概念": {
+        "name": "电学概念",
+        "question_count": 17,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "电子学": {
+        "name": "电子学",
+        "question_count": 101,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "运算放大器知识": {
+        "name": "运算放大器知识",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "集成运放电路": {
+        "name": "集成运放电路",
+        "question_count": 16,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    }
+}

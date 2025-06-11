@@ -1,0 +1,1177 @@
+{
+    "整数换元法": {
+        "name": "整数换元法",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数"
+        ]
+    },
+    "整数加减巧算之位值原理": {
+        "name": "整数加减巧算之位值原理",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数加减"
+        ]
+    },
+    "等差数列求和": {
+        "name": "等差数列求和",
+        "question_count": 75,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "整数": {
+        "name": "整数",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "认识万以内的数",
+            "整数换元法",
+            "整数提取公因数",
+            "整数分配律",
+            "整数乘除",
+            "整数加减",
+            "四则混合运算"
+        ],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "普通型": {
+        "name": "普通型",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "直接运算型"
+        ]
+    },
+    "方程基础": {
+        "name": "方程基础",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "数列规律": {
+        "name": "数列规律",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数列与数表"
+        ]
+    },
+    "整数好朋友数": {
+        "name": "整数好朋友数",
+        "question_count": 60,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘除法巧算"
+        ]
+    },
+    "反解未知数型": {
+        "name": "反解未知数型",
+        "question_count": 14,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "定义新运算"
+        ]
+    },
+    "单位换算": {
+        "name": "单位换算",
+        "question_count": 30,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "数列与数表": {
+        "name": "数列与数表",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数列规律",
+            "等差数列",
+            "数表规律"
+        ],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "等差数列求公差": {
+        "name": "等差数列求公差",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "等差数列": {
+        "name": "等差数列",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "等差数列截断求和",
+            "等差数列求通项",
+            "等差数列求和",
+            "中项定理应用",
+            "等差数列求公差",
+            "等差数列求项数"
+        ],
+        "parents": [
+            "数列与数表"
+        ]
+    },
+    "整数乘除混合运算": {
+        "name": "整数乘除混合运算",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘除"
+        ]
+    },
+    "等差数列求通项": {
+        "name": "等差数列求通项",
+        "question_count": 56,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "小数基础": {
+        "name": "小数基础",
+        "question_count": 43,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "小数"
+        ]
+    },
+    "长方形数表": {
+        "name": "长方形数表",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "连续自然数长方形数表之已知数求位置",
+            "连续自然数长方形数表之已知位置求数"
+        ],
+        "parents": [
+            "数表规律"
+        ]
+    },
+    "整数除法运算": {
+        "name": "整数除法运算",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "表外除法计算",
+            "除法竖式"
+        ],
+        "parents": [
+            "整数乘除"
+        ]
+    },
+    "整数乘法巧算之提取公因数（普通型）": {
+        "name": "整数乘法巧算之提取公因数（普通型）",
+        "question_count": 69,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数提取公因数"
+        ]
+    },
+    "表外乘法计算": {
+        "name": "表外乘法计算",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘法运算"
+        ]
+    },
+    "整数加减巧算之凑整法": {
+        "name": "整数加减巧算之凑整法",
+        "question_count": 52,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数加减"
+        ]
+    },
+    "多位数中的提公因数": {
+        "name": "多位数中的提公因数",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数提取公因数"
+        ]
+    },
+    "四则混合运算": {
+        "name": "四则混合运算",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数"
+        ]
+    },
+    "整数构造提取": {
+        "name": "整数构造提取",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整数利用积/商不变性质",
+            "整数倍数关系"
+        ],
+        "parents": [
+            "整数提取公因数"
+        ]
+    },
+    "等差数列求项数": {
+        "name": "等差数列求项数",
+        "question_count": 37,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "整数乘法运算": {
+        "name": "整数乘法运算",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "表外乘法计算",
+            "乘法竖式"
+        ],
+        "parents": [
+            "整数乘除"
+        ]
+    },
+    "认识万以内的数": {
+        "name": "认识万以内的数",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数"
+        ]
+    },
+    "整数倍数关系": {
+        "name": "整数倍数关系",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数构造提取"
+        ]
+    },
+    "整数乘除": {
+        "name": "整数乘除",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整数乘除混合运算",
+            "整数除法运算",
+            "整数乘除法巧算",
+            "整数乘法运算"
+        ],
+        "parents": [
+            "整数"
+        ]
+    },
+    "整数除法巧算之类分配律": {
+        "name": "整数除法巧算之类分配律",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数分配律"
+        ]
+    },
+    "小数": {
+        "name": "小数",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "小数的意义",
+            "小数加减",
+            "小数基础"
+        ],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "整数利用积/商不变性质": {
+        "name": "整数利用积/商不变性质",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数构造提取"
+        ]
+    },
+    "分数": {
+        "name": "分数",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "整数提取公因数": {
+        "name": "整数提取公因数",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多位数中的提公因数",
+            "整数构造提取",
+            "整数乘法巧算之提取公因数（普通型）",
+            "整数除法巧算之提取公除数（普通型）"
+        ],
+        "parents": [
+            "整数"
+        ]
+    },
+    "拆数法构造分配律": {
+        "name": "拆数法构造分配律",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘法巧算之分配律"
+        ]
+    },
+    "比较与估算": {
+        "name": "比较与估算",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "整数加减": {
+        "name": "整数加减",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整数加减巧算之位值原理",
+            "整数加减巧算之凑整法"
+        ],
+        "parents": [
+            "整数"
+        ]
+    },
+    "表外除法计算": {
+        "name": "表外除法计算",
+        "question_count": 16,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数除法运算"
+        ]
+    },
+    "数表规律": {
+        "name": "数表规律",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数与图结合找规律（单图）",
+            "长方形数表"
+        ],
+        "parents": [
+            "数列与数表"
+        ]
+    },
+    "等差数列截断求和": {
+        "name": "等差数列截断求和",
+        "question_count": 19,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "定义新运算": {
+        "name": "定义新运算",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "反解未知数型",
+            "直接运算型"
+        ],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "连续自然数长方形数表之已知位置求数": {
+        "name": "连续自然数长方形数表之已知位置求数",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "长方形数表"
+        ]
+    },
+    "数与图结合找规律（单图）": {
+        "name": "数与图结合找规律（单图）",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数表规律"
+        ]
+    },
+    "乘除法抵消": {
+        "name": "乘除法抵消",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘除法巧算"
+        ]
+    },
+    "乘法竖式": {
+        "name": "乘法竖式",
+        "question_count": 45,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘法运算"
+        ]
+    },
+    "直接运用分配律": {
+        "name": "直接运用分配律",
+        "question_count": 20,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘法巧算之分配律"
+        ]
+    },
+    "小数的意义": {
+        "name": "小数的意义",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "小数"
+        ]
+    },
+    "中项定理应用": {
+        "name": "中项定理应用",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "整数分配律": {
+        "name": "整数分配律",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整数乘法巧算之分配律",
+            "整数除法巧算之类分配律"
+        ],
+        "parents": [
+            "整数"
+        ]
+    },
+    "整数乘法巧算之分配律": {
+        "name": "整数乘法巧算之分配律",
+        "question_count": 7,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "直接运用分配律",
+            "拆数法构造分配律"
+        ],
+        "parents": [
+            "整数分配律"
+        ]
+    },
+    "特殊乘积": {
+        "name": "特殊乘积",
+        "question_count": 20,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘除法巧算"
+        ]
+    },
+    "小数加减": {
+        "name": "小数加减",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "小数"
+        ]
+    },
+    "整数乘除法巧算": {
+        "name": "整数乘除法巧算",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "特殊乘积",
+            "整数好朋友数",
+            "乘除法抵消"
+        ],
+        "parents": [
+            "整数乘除"
+        ]
+    },
+    "计算模块": {
+        "name": "计算模块",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "比较与估算",
+            "方程基础",
+            "单位换算",
+            "整数",
+            "数列与数表",
+            "分数",
+            "小数",
+            "定义新运算"
+        ],
+        "parents": []
+    },
+    "连续自然数长方形数表之已知数求位置": {
+        "name": "连续自然数长方形数表之已知数求位置",
+        "question_count": 16,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "长方形数表"
+        ]
+    },
+    "直接运算型": {
+        "name": "直接运算型",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "普通型"
+        ],
+        "parents": [
+            "定义新运算"
+        ]
+    },
+    "除法竖式": {
+        "name": "除法竖式",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数除法运算"
+        ]
+    },
+    "整数除法巧算之提取公除数（普通型）": {
+        "name": "整数除法巧算之提取公除数（普通型）",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数提取公因数"
+        ]
+    }
+}

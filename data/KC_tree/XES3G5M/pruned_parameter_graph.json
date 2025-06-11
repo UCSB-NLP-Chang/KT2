@@ -1,0 +1,3050 @@
+{
+    "路程速度时间": {
+        "name": "路程速度时间",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "综合型转化": {
+        "name": "综合型转化",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数换元法": {
+        "name": "整数换元法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄问题之和倍型": {
+        "name": "年龄问题之和倍型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "列方程解应用题": {
+        "name": "列方程解应用题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "容斥求平均数": {
+        "name": "容斥求平均数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "长方形周长": {
+        "name": "长方形周长",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "几何方法整体减空白": {
+        "name": "几何方法整体减空白",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "一笔画判断": {
+        "name": "一笔画判断",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "能力": {
+        "name": "能力",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "立体图形": {
+        "name": "立体图形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "移多补少": {
+        "name": "移多补少",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "二量和倍问题": {
+        "name": "二量和倍问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "体育比赛": {
+        "name": "体育比赛",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "对象转化为物品": {
+        "name": "对象转化为物品",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "实心方阵": {
+        "name": "实心方阵",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "余数的性质": {
+        "name": "余数的性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "归纳递推": {
+        "name": "归纳递推",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "条件型逻辑推理": {
+        "name": "条件型逻辑推理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "单人简单行程问题": {
+        "name": "单人简单行程问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年、月、日": {
+        "name": "年、月、日",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "火柴棒摆算式": {
+        "name": "火柴棒摆算式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "火柴棒摆数": {
+        "name": "火柴棒摆数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "奇数与偶数的加减规律": {
+        "name": "奇数与偶数的加减规律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "已知两量之间倍数关系和两量之和，求两个量": {
+        "name": "已知两量之间倍数关系和两量之和，求两个量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "角的认知": {
+        "name": "角的认知",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数加减巧算之位值原理": {
+        "name": "整数加减巧算之位值原理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "奇数与偶数的混合计算": {
+        "name": "奇数与偶数的混合计算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "等差数列求和": {
+        "name": "等差数列求和",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "巧求周长": {
+        "name": "巧求周长",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "长方形正方形组合图形周长": {
+        "name": "长方形正方形组合图形周长",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "余数问题": {
+        "name": "余数问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "分割与剪拼": {
+        "name": "分割与剪拼",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "和幻方": {
+        "name": "和幻方",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "染色计数问题": {
+        "name": "染色计数问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "长方形组合图形周长": {
+        "name": "长方形组合图形周长",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "环形操作周期问题": {
+        "name": "环形操作周期问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数": {
+        "name": "整数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "应用题": {
+        "name": "应用题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄问题基本关系": {
+        "name": "年龄问题基本关系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "实心方阵基本问题": {
+        "name": "实心方阵基本问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "指定数字与页码的对应问题": {
+        "name": "指定数字与页码的对应问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "已知两量之间倍数关系和两量之差，求两个量": {
+        "name": "已知两量之间倍数关系和两量之差，求两个量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "普通型": {
+        "name": "普通型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "方程基础": {
+        "name": "方程基础",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "标准标数法": {
+        "name": "标准标数法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "恰好分完": {
+        "name": "恰好分完",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "格点构造数图形": {
+        "name": "格点构造数图形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "乘法原理里的其他类型": {
+        "name": "乘法原理里的其他类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "乘法拆数（应用）": {
+        "name": "乘法拆数（应用）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "加法拆数（指定个数）": {
+        "name": "加法拆数（指定个数）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "周期问题": {
+        "name": "周期问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "封闭型": {
+        "name": "封闭型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "周长": {
+        "name": "周长",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图形认知平行四边形": {
+        "name": "图形认知平行四边形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "长方形和正方形": {
+        "name": "长方形和正方形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数字个数": {
+        "name": "数字个数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "式与方程": {
+        "name": "式与方程",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "时间中的周期问题": {
+        "name": "时间中的周期问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "页码数量": {
+        "name": "页码数量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数列规律": {
+        "name": "数列规律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数好朋友数": {
+        "name": "整数好朋友数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "不规则四边形": {
+        "name": "不规则四边形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "求第几个数是多少问题": {
+        "name": "求第几个数是多少问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "两量和倍": {
+        "name": "两量和倍",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "一笔画的应用": {
+        "name": "一笔画的应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "反解未知数型": {
+        "name": "反解未知数型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "单位换算": {
+        "name": "单位换算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "幻方": {
+        "name": "幻方",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "直线和交点": {
+        "name": "直线和交点",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "操作与策略": {
+        "name": "操作与策略",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数列与数表": {
+        "name": "数列与数表",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整除特征": {
+        "name": "整除特征",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "等差数列求公差": {
+        "name": "等差数列求公差",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "拆数数字可重复": {
+        "name": "拆数数字可重复",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "等差数列": {
+        "name": "等差数列",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄差": {
+        "name": "年龄差",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "空间与图形": {
+        "name": "空间与图形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "抽屉原理": {
+        "name": "抽屉原理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "除法中四量关系": {
+        "name": "除法中四量关系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "三量容斥": {
+        "name": "三量容斥",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图论问题": {
+        "name": "图论问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "倍的基本计算": {
+        "name": "倍的基本计算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "火车问题": {
+        "name": "火车问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "有序枚举": {
+        "name": "有序枚举",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多量容斥的几何计数": {
+        "name": "多量容斥的几何计数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "复式条形统计图": {
+        "name": "复式条形统计图",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "二量和差问题": {
+        "name": "二量和差问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "综合题普通型": {
+        "name": "综合题普通型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数的运算": {
+        "name": "数的运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "已知各个数，求平均数": {
+        "name": "已知各个数，求平均数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "枚举法": {
+        "name": "枚举法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数学游戏": {
+        "name": "数学游戏",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数乘除混合运算": {
+        "name": "整数乘除混合运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "等差数列求通项": {
+        "name": "等差数列求通项",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "原型题": {
+        "name": "原型题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "分类枚举法数图形": {
+        "name": "分类枚举法数图形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "差倍": {
+        "name": "差倍",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "小数基础": {
+        "name": "小数基础",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "智巧趣题": {
+        "name": "智巧趣题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "行程模块": {
+        "name": "行程模块",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图文加法竖式数字谜": {
+        "name": "图文加法竖式数字谜",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "长方形数表": {
+        "name": "长方形数表",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "代数式": {
+        "name": "代数式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "等量代换": {
+        "name": "等量代换",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "分组法解鸡兔同笼": {
+        "name": "分组法解鸡兔同笼",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "余数问题带余除法": {
+        "name": "余数问题带余除法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "奇数与偶数": {
+        "name": "奇数与偶数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "两条对角线垂直的四边形的面积求法": {
+        "name": "两条对角线垂直的四边形的面积求法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "几何思想平移": {
+        "name": "几何思想平移",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "简单抽屉原理": {
+        "name": "简单抽屉原理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图形认知角": {
+        "name": "图形认知角",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数除法运算": {
+        "name": "整数除法运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数乘法巧算之提取公因数（普通型）": {
+        "name": "整数乘法巧算之提取公因数（普通型）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数分拆": {
+        "name": "整数分拆",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "表外乘法计算": {
+        "name": "表外乘法计算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "加乘原理": {
+        "name": "加乘原理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "等式填符号": {
+        "name": "等式填符号",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数加减巧算之凑整法": {
+        "name": "整数加减巧算之凑整法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "间隔问题": {
+        "name": "间隔问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "空心方阵基本问题": {
+        "name": "空心方阵基本问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据整理": {
+        "name": "数据整理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "基本排列的周期问题": {
+        "name": "基本排列的周期问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄问题之变倍型": {
+        "name": "年龄问题之变倍型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "等差数列实际应用": {
+        "name": "等差数列实际应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "同时出发": {
+        "name": "同时出发",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多位数中的提公因数": {
+        "name": "多位数中的提公因数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多量鸡兔同笼": {
+        "name": "多量鸡兔同笼",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "乘法竖式谜": {
+        "name": "乘法竖式谜",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "物品搭配": {
+        "name": "物品搭配",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "运算律": {
+        "name": "运算律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图形认知": {
+        "name": "图形认知",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "四则混合运算": {
+        "name": "四则混合运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "半真半假": {
+        "name": "半真半假",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数构造提取": {
+        "name": "整数构造提取",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "三角形": {
+        "name": "三角形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "等差数列求项数": {
+        "name": "等差数列求项数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "集合": {
+        "name": "集合",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "课内题型": {
+        "name": "课内题型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "和差倍问题": {
+        "name": "和差倍问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "巧填算符": {
+        "name": "巧填算符",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "假设法解鸡兔同笼": {
+        "name": "假设法解鸡兔同笼",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "梯形面积公式": {
+        "name": "梯形面积公式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "单一变量还原问题": {
+        "name": "单一变量还原问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "对应法数图形": {
+        "name": "对应法数图形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "字典排序法": {
+        "name": "字典排序法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "实心方阵的增减": {
+        "name": "实心方阵的增减",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数字与页码的对应问题": {
+        "name": "数字与页码的对应问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "一般组数问题": {
+        "name": "一般组数问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "页码问题": {
+        "name": "页码问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "几何图形": {
+        "name": "几何图形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "简单拆分": {
+        "name": "简单拆分",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "角度的计算": {
+        "name": "角度的计算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "小马虎题型": {
+        "name": "小马虎题型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "扫雷游戏": {
+        "name": "扫雷游戏",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图形规律": {
+        "name": "图形规律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数乘法运算": {
+        "name": "整数乘法运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数字谜": {
+        "name": "数字谜",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "综合题": {
+        "name": "综合题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "盈亏问题": {
+        "name": "盈亏问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "认识万以内的数": {
+        "name": "认识万以内的数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数字组数（不可重复）": {
+        "name": "数字组数（不可重复）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数倍数关系": {
+        "name": "整数倍数关系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "平均数问题": {
+        "name": "平均数问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数乘除": {
+        "name": "整数乘除",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "奇数阶幻方填法": {
+        "name": "奇数阶幻方填法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "加法拆数（不完全相同数）": {
+        "name": "加法拆数（不完全相同数）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "非整数倍差倍不足": {
+        "name": "非整数倍差倍不足",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "梯形的概念": {
+        "name": "梯形的概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "变型题": {
+        "name": "变型题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "横式数字谜": {
+        "name": "横式数字谜",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "鸡兔同笼问题": {
+        "name": "鸡兔同笼问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "几何模型": {
+        "name": "几何模型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "除法竖式谜": {
+        "name": "除法竖式谜",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "两端植树问题": {
+        "name": "两端植树问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "有特殊要求的组数问题": {
+        "name": "有特殊要求的组数问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄问题之差倍型": {
+        "name": "年龄问题之差倍型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "综合与实践": {
+        "name": "综合与实践",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "直线型两端都有": {
+        "name": "直线型两端都有",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "逻辑推理": {
+        "name": "逻辑推理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "添线、删线法": {
+        "name": "添线、删线法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数除法巧算之类分配律": {
+        "name": "整数除法巧算之类分配律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "小数": {
+        "name": "小数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "常规图形枚举计数": {
+        "name": "常规图形枚举计数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图形的认识": {
+        "name": "图形的认识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "变形方阵": {
+        "name": "变形方阵",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数利用积/商不变性质": {
+        "name": "整数利用积/商不变性质",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "比较型逻辑推理": {
+        "name": "比较型逻辑推理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "平行四边形的概念": {
+        "name": "平行四边形的概念",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "几何模块": {
+        "name": "几何模块",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "真假话": {
+        "name": "真假话",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "追及问题": {
+        "name": "追及问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数拆分应用": {
+        "name": "整数拆分应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "分数": {
+        "name": "分数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "点线排布的实际应用": {
+        "name": "点线排布的实际应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "最不利原则": {
+        "name": "最不利原则",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "分割图形（不需等分）": {
+        "name": "分割图形（不需等分）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "几何计数": {
+        "name": "几何计数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数的周期": {
+        "name": "数的周期",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "日期中的周期": {
+        "name": "日期中的周期",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "假设型逻辑推理": {
+        "name": "假设型逻辑推理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "枚举法综合": {
+        "name": "枚举法综合",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图形基础知识": {
+        "name": "图形基础知识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数提取公因数": {
+        "name": "整数提取公因数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "同时出发相向而行": {
+        "name": "同时出发相向而行",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "和差问题": {
+        "name": "和差问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多笔画": {
+        "name": "多笔画",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据收集和整理": {
+        "name": "数据收集和整理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "偶数阶幻方填法": {
+        "name": "偶数阶幻方填法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多量和倍问题": {
+        "name": "多量和倍问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "正方形和长方形": {
+        "name": "正方形和长方形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "植树应用题": {
+        "name": "植树应用题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "直线型": {
+        "name": "直线型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "卡片组数": {
+        "name": "卡片组数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "工程应用题": {
+        "name": "工程应用题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "两量还原问题": {
+        "name": "两量还原问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "面积": {
+        "name": "面积",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "组合模块最值问题": {
+        "name": "组合模块最值问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "拆数法构造分配律": {
+        "name": "拆数法构造分配律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "比较与估算": {
+        "name": "比较与估算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多笔画运用": {
+        "name": "多笔画运用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数独": {
+        "name": "数独",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图形认知梯形": {
+        "name": "图形认知梯形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "奇数与偶数的应用": {
+        "name": "奇数与偶数的应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "竖式数字谜": {
+        "name": "竖式数字谜",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "三角形面积": {
+        "name": "三角形面积",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "组合模块": {
+        "name": "组合模块",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多量和倍": {
+        "name": "多量和倍",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "变形幻方": {
+        "name": "变形幻方",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数加减": {
+        "name": "整数加减",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "方阵问题": {
+        "name": "方阵问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "课内知识点": {
+        "name": "课内知识点",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "找暗和": {
+        "name": "找暗和",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "标数法": {
+        "name": "标数法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数与运算": {
+        "name": "数与运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "平行四边形的面积公式": {
+        "name": "平行四边形的面积公式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "巧填括号型": {
+        "name": "巧填括号型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "单归一问题": {
+        "name": "单归一问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多量还原问题": {
+        "name": "多量还原问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "简单的数独游戏": {
+        "name": "简单的数独游戏",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "双归一问题": {
+        "name": "双归一问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "统计与概率": {
+        "name": "统计与概率",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "调运中的统筹": {
+        "name": "调运中的统筹",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "一笔画": {
+        "name": "一笔画",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "长方形和正方形面积公式": {
+        "name": "长方形和正方形面积公式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "双人简单行程问题": {
+        "name": "双人简单行程问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "几何思想与方法": {
+        "name": "几何思想与方法",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "实心方阵综合问题": {
+        "name": "实心方阵综合问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "归一归总问题": {
+        "name": "归一归总问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "知少求多": {
+        "name": "知少求多",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "时间中的周期": {
+        "name": "时间中的周期",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "表外除法计算": {
+        "name": "表外除法计算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄问题之当当型": {
+        "name": "年龄问题之当当型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "认识线段": {
+        "name": "认识线段",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "幻方数字关系": {
+        "name": "幻方数字关系",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "直接求平均数": {
+        "name": "直接求平均数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "操作问题": {
+        "name": "操作问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数表规律": {
+        "name": "数表规律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄问题": {
+        "name": "年龄问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数学趣题": {
+        "name": "数学趣题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "乘法计数": {
+        "name": "乘法计数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "逆运算": {
+        "name": "逆运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "组数": {
+        "name": "组数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "加乘原理综合": {
+        "name": "加乘原理综合",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "两人相遇与追及问题": {
+        "name": "两人相遇与追及问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "公式法求梯形面积": {
+        "name": "公式法求梯形面积",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "和倍问题": {
+        "name": "和倍问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "等差数列截断求和": {
+        "name": "等差数列截断求和",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "组数问题": {
+        "name": "组数问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "加权平均数": {
+        "name": "加权平均数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "知识点": {
+        "name": "知识点",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数四则混合运算": {
+        "name": "整数四则混合运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "单循环赛": {
+        "name": "单循环赛",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "烙饼问题": {
+        "name": "烙饼问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "奇偶点问题": {
+        "name": "奇偶点问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多笔画变一笔画": {
+        "name": "多笔画变一笔画",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "盈亏转化题型": {
+        "name": "盈亏转化题型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "二量容斥": {
+        "name": "二量容斥",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "倍数问题": {
+        "name": "倍数问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "最短路线": {
+        "name": "最短路线",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "奇数与偶数的认识": {
+        "name": "奇数与偶数的认识",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "定义新运算": {
+        "name": "定义新运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "图形剪拼": {
+        "name": "图形剪拼",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "排队问题": {
+        "name": "排队问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "连续自然数长方形数表之已知位置求数": {
+        "name": "连续自然数长方形数表之已知位置求数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "24点游戏": {
+        "name": "24点游戏",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "公式法长方形正方形周长": {
+        "name": "公式法长方形正方形周长",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "还原问题": {
+        "name": "还原问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "相遇问题": {
+        "name": "相遇问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "火柴棒问题": {
+        "name": "火柴棒问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "必填符号型": {
+        "name": "必填符号型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "点线排布": {
+        "name": "点线排布",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "空心方阵": {
+        "name": "空心方阵",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多量差倍": {
+        "name": "多量差倍",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "高斯记号": {
+        "name": "高斯记号",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "暗差型二量差倍问题": {
+        "name": "暗差型二量差倍问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "空心方阵的增减": {
+        "name": "空心方阵的增减",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数与图结合找规律（单图）": {
+        "name": "数与图结合找规律（单图）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "倒扣型": {
+        "name": "倒扣型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数的运算的实际应用（应用题）": {
+        "name": "数的运算的实际应用（应用题）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整除性质的应用": {
+        "name": "整除性质的应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "简单时间统筹问题": {
+        "name": "简单时间统筹问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "乘除法抵消": {
+        "name": "乘除法抵消",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "乘法竖式": {
+        "name": "乘法竖式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "余数特征": {
+        "name": "余数特征",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "淘汰赛": {
+        "name": "淘汰赛",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多量和差问题": {
+        "name": "多量和差问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "基本型": {
+        "name": "基本型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "角": {
+        "name": "角",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "两量差倍": {
+        "name": "两量差倍",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多人相遇与追及问题": {
+        "name": "多人相遇与追及问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数表": {
+        "name": "数表",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "减法竖式谜": {
+        "name": "减法竖式谜",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "不同时出发": {
+        "name": "不同时出发",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数学广角": {
+        "name": "数学广角",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "敲钟问题": {
+        "name": "敲钟问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "直接运用分配律": {
+        "name": "直接运用分配律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "直线型行程问题": {
+        "name": "直线型行程问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "非整数倍差倍剩余": {
+        "name": "非整数倍差倍剩余",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "小数的意义": {
+        "name": "小数的意义",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数论模块": {
+        "name": "数论模块",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "学习能力": {
+        "name": "学习能力",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "时间总和问题": {
+        "name": "时间总和问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "已知两量之间倍数关系和一份量，求多份量": {
+        "name": "已知两量之间倍数关系和一份量，求多份量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "中项定理应用": {
+        "name": "中项定理应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "加法竖式谜": {
+        "name": "加法竖式谜",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数分配律": {
+        "name": "整数分配律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "常见的量": {
+        "name": "常见的量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数乘法巧算之分配律": {
+        "name": "整数乘法巧算之分配律",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "统筹规划": {
+        "name": "统筹规划",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "乘法原理": {
+        "name": "乘法原理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "元、角、分": {
+        "name": "元、角、分",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "直线型两端都没有": {
+        "name": "直线型两端都没有",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄轴": {
+        "name": "年龄轴",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "陷阱型不规则图形求周长": {
+        "name": "陷阱型不规则图形求周长",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数码综合问题": {
+        "name": "数码综合问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "测量": {
+        "name": "测量",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数差倍": {
+        "name": "整数差倍",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "梯形的面积公式": {
+        "name": "梯形的面积公式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "四边形": {
+        "name": "四边形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整除": {
+        "name": "整除",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "特殊点或区域": {
+        "name": "特殊点或区域",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "亏亏问题": {
+        "name": "亏亏问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "逻辑绘图": {
+        "name": "逻辑绘图",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "平行四边形": {
+        "name": "平行四边形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "树形图": {
+        "name": "树形图",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "非数字排列": {
+        "name": "非数字排列",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "应用题模块": {
+        "name": "应用题模块",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "盈亏基本类型盈亏问题": {
+        "name": "盈亏基本类型盈亏问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数据分类": {
+        "name": "数据分类",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "特殊乘积": {
+        "name": "特殊乘积",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "小数加减": {
+        "name": "小数加减",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数乘除法巧算": {
+        "name": "整数乘除法巧算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "简单统计表": {
+        "name": "简单统计表",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "盈亏基本类型": {
+        "name": "盈亏基本类型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "计算模块": {
+        "name": "计算模块",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数列操作周期问题": {
+        "name": "数列操作周期问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "连续自然数长方形数表之已知数求位置": {
+        "name": "连续自然数长方形数表之已知数求位置",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄和": {
+        "name": "年龄和",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "直接运算型": {
+        "name": "直接运算型",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "正方形": {
+        "name": "正方形",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "拓展思维": {
+        "name": "拓展思维",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "字母表示数": {
+        "name": "字母表示数",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "除法竖式": {
+        "name": "除法竖式",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "追及与相遇结合": {
+        "name": "追及与相遇结合",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "平均速度": {
+        "name": "平均速度",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "年龄问题基本关系和差问题": {
+        "name": "年龄问题基本关系和差问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "计数模块": {
+        "name": "计数模块",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "容斥原理": {
+        "name": "容斥原理",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "归总问题": {
+        "name": "归总问题",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "数字个数应用": {
+        "name": "数字个数应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "整数除法巧算之提取公除数（普通型）": {
+        "name": "整数除法巧算之提取公除数（普通型）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "公式类": {
+        "name": "公式类",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "找矛盾": {
+        "name": "找矛盾",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "乘除法应用": {
+        "name": "乘除法应用",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "多边形内角和": {
+        "name": "多边形内角和",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "混合运算": {
+        "name": "混合运算",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "路线遍历": {
+        "name": "路线遍历",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "加法拆数（应用）": {
+        "name": "加法拆数（应用）",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "不同时出发相向而行": {
+        "name": "不同时出发相向而行",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    },
+    "地点上的统筹": {
+        "name": "地点上的统筹",
+        "gamma": 0.1,
+        "gamma_root": null,
+        "phi": 0.7,
+        "epsilon": 0.1,
+        "r_diff": null
+    }
+}

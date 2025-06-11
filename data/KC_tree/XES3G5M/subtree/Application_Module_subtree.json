@@ -1,0 +1,2012 @@
+{
+    "综合型转化": {
+        "name": "综合型转化",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏转化题型"
+        ]
+    },
+    "年龄问题之和倍型": {
+        "name": "年龄问题之和倍型",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "列方程解应用题": {
+        "name": "列方程解应用题",
+        "question_count": 43,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "容斥求平均数": {
+        "name": "容斥求平均数",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "综合题"
+        ]
+    },
+    "移多补少": {
+        "name": "移多补少",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "平均数问题"
+        ]
+    },
+    "二量和倍问题": {
+        "name": "二量和倍问题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "两量和倍"
+        ],
+        "parents": [
+            "和倍问题"
+        ]
+    },
+    "对象转化为物品": {
+        "name": "对象转化为物品",
+        "question_count": 20,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏转化题型"
+        ]
+    },
+    "实心方阵": {
+        "name": "实心方阵",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "实心方阵综合问题",
+            "实心方阵基本问题",
+            "实心方阵的增减"
+        ],
+        "parents": [
+            "方阵问题"
+        ]
+    },
+    "环形操作周期问题": {
+        "name": "环形操作周期问题",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "周期问题"
+        ]
+    },
+    "年龄问题基本关系": {
+        "name": "年龄问题基本关系",
+        "question_count": 7,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "年龄和",
+            "年龄问题基本关系和差问题",
+            "年龄差"
+        ],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "实心方阵基本问题": {
+        "name": "实心方阵基本问题",
+        "question_count": 85,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "实心方阵"
+        ]
+    },
+    "指定数字与页码的对应问题": {
+        "name": "指定数字与页码的对应问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "页码数量"
+        ],
+        "parents": [
+            "页码问题"
+        ]
+    },
+    "恰好分完": {
+        "name": "恰好分完",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏基本类型"
+        ]
+    },
+    "周期问题": {
+        "name": "周期问题",
+        "question_count": 7,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "基本排列的周期问题",
+            "时间中的周期问题",
+            "数列操作周期问题",
+            "环形操作周期问题"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "封闭型": {
+        "name": "封闭型",
+        "question_count": 17,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "间隔问题"
+        ]
+    },
+    "数字个数": {
+        "name": "数字个数",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数字与页码的对应问题"
+        ]
+    },
+    "时间中的周期问题": {
+        "name": "时间中的周期问题",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "时间中的周期",
+            "日期中的周期"
+        ],
+        "parents": [
+            "周期问题"
+        ]
+    },
+    "页码数量": {
+        "name": "页码数量",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "指定数字与页码的对应问题"
+        ]
+    },
+    "求第几个数是多少问题": {
+        "name": "求第几个数是多少问题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数列操作周期问题"
+        ]
+    },
+    "两量和倍": {
+        "name": "两量和倍",
+        "question_count": 74,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "二量和倍问题"
+        ]
+    },
+    "年龄差": {
+        "name": "年龄差",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题基本关系"
+        ]
+    },
+    "倍的基本计算": {
+        "name": "倍的基本计算",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和差倍问题"
+        ]
+    },
+    "二量和差问题": {
+        "name": "二量和差问题",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和差问题"
+        ]
+    },
+    "综合题普通型": {
+        "name": "综合题普通型",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "综合题"
+        ]
+    },
+    "已知各个数，求平均数": {
+        "name": "已知各个数，求平均数",
+        "question_count": 8,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "平均数问题"
+        ]
+    },
+    "原型题": {
+        "name": "原型题",
+        "question_count": 57,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "基本型"
+        ]
+    },
+    "差倍": {
+        "name": "差倍",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量差倍",
+            "两量差倍"
+        ],
+        "parents": [
+            "和差倍问题"
+        ]
+    },
+    "分组法解鸡兔同笼": {
+        "name": "分组法解鸡兔同笼",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "鸡兔同笼问题"
+        ]
+    },
+    "间隔问题": {
+        "name": "间隔问题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "封闭型",
+            "直线型两端都有",
+            "直线型两端都没有"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "空心方阵基本问题": {
+        "name": "空心方阵基本问题",
+        "question_count": 46,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "空心方阵"
+        ]
+    },
+    "基本排列的周期问题": {
+        "name": "基本排列的周期问题",
+        "question_count": 101,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "周期问题"
+        ]
+    },
+    "年龄问题之变倍型": {
+        "name": "年龄问题之变倍型",
+        "question_count": 13,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "等差数列实际应用": {
+        "name": "等差数列实际应用",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "多量鸡兔同笼": {
+        "name": "多量鸡兔同笼",
+        "question_count": 37,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "鸡兔同笼问题"
+        ]
+    },
+    "和差倍问题": {
+        "name": "和差倍问题",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "倍的基本计算",
+            "和倍问题",
+            "差倍",
+            "和差问题"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "假设法解鸡兔同笼": {
+        "name": "假设法解鸡兔同笼",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "倒扣型",
+            "基本型"
+        ],
+        "parents": [
+            "鸡兔同笼问题"
+        ]
+    },
+    "单一变量还原问题": {
+        "name": "单一变量还原问题",
+        "question_count": 83,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "实心方阵的增减": {
+        "name": "实心方阵的增减",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "实心方阵"
+        ]
+    },
+    "数字与页码的对应问题": {
+        "name": "数字与页码的对应问题",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数字个数应用",
+            "数字个数"
+        ],
+        "parents": [
+            "页码问题"
+        ]
+    },
+    "页码问题": {
+        "name": "页码问题",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数码综合问题",
+            "指定数字与页码的对应问题",
+            "数字与页码的对应问题"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "小马虎题型": {
+        "name": "小马虎题型",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "综合题": {
+        "name": "综合题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "容斥求平均数",
+            "综合题普通型"
+        ],
+        "parents": [
+            "平均数问题"
+        ]
+    },
+    "盈亏问题": {
+        "name": "盈亏问题",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "盈亏基本类型",
+            "盈亏转化题型"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "平均数问题": {
+        "name": "平均数问题",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "已知各个数，求平均数",
+            "公式类",
+            "综合题",
+            "移多补少"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "非整数倍差倍不足": {
+        "name": "非整数倍差倍不足",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "两量差倍"
+        ]
+    },
+    "变型题": {
+        "name": "变型题",
+        "question_count": 58,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "基本型"
+        ]
+    },
+    "鸡兔同笼问题": {
+        "name": "鸡兔同笼问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量鸡兔同笼",
+            "分组法解鸡兔同笼",
+            "假设法解鸡兔同笼"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "两端植树问题": {
+        "name": "两端植树问题",
+        "question_count": 40,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "直线型两端都有"
+        ]
+    },
+    "年龄问题之差倍型": {
+        "name": "年龄问题之差倍型",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "直线型两端都有": {
+        "name": "直线型两端都有",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "敲钟问题",
+            "两端植树问题"
+        ],
+        "parents": [
+            "间隔问题"
+        ]
+    },
+    "变形方阵": {
+        "name": "变形方阵",
+        "question_count": 8,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "方阵问题"
+        ]
+    },
+    "数的周期": {
+        "name": "数的周期",
+        "question_count": 30,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数列操作周期问题"
+        ]
+    },
+    "日期中的周期": {
+        "name": "日期中的周期",
+        "question_count": 116,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "时间中的周期问题"
+        ]
+    },
+    "和差问题": {
+        "name": "和差问题",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量和差问题",
+            "二量和差问题"
+        ],
+        "parents": [
+            "和差倍问题"
+        ]
+    },
+    "多量和倍问题": {
+        "name": "多量和倍问题",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量和倍"
+        ],
+        "parents": [
+            "和倍问题"
+        ]
+    },
+    "两量还原问题": {
+        "name": "两量还原问题",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "多量和倍": {
+        "name": "多量和倍",
+        "question_count": 53,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "多量和倍问题"
+        ]
+    },
+    "方阵问题": {
+        "name": "方阵问题",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "变形方阵",
+            "实心方阵",
+            "空心方阵"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "找暗和": {
+        "name": "找暗和",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和倍问题"
+        ]
+    },
+    "单归一问题": {
+        "name": "单归一问题",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "归一归总问题"
+        ]
+    },
+    "多量还原问题": {
+        "name": "多量还原问题",
+        "question_count": 35,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "双归一问题": {
+        "name": "双归一问题",
+        "question_count": 65,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "归一归总问题"
+        ]
+    },
+    "实心方阵综合问题": {
+        "name": "实心方阵综合问题",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "实心方阵"
+        ]
+    },
+    "归一归总问题": {
+        "name": "归一归总问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "乘除法应用",
+            "单归一问题",
+            "双归一问题",
+            "归总问题"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "知少求多": {
+        "name": "知少求多",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和倍问题"
+        ]
+    },
+    "时间中的周期": {
+        "name": "时间中的周期",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "时间中的周期问题"
+        ]
+    },
+    "年龄问题之当当型": {
+        "name": "年龄问题之当当型",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "年龄轴"
+        ],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "直接求平均数": {
+        "name": "直接求平均数",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "公式类"
+        ]
+    },
+    "年龄问题": {
+        "name": "年龄问题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "年龄问题之变倍型",
+            "年龄问题之差倍型",
+            "年龄问题基本关系",
+            "年龄问题之和倍型",
+            "年龄问题之当当型"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "逆运算": {
+        "name": "逆运算",
+        "question_count": 45,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "和倍问题": {
+        "name": "和倍问题",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "知少求多",
+            "二量和倍问题",
+            "多量和倍问题",
+            "找暗和"
+        ],
+        "parents": [
+            "和差倍问题"
+        ]
+    },
+    "加权平均数": {
+        "name": "加权平均数",
+        "question_count": 15,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "公式类"
+        ]
+    },
+    "盈亏转化题型": {
+        "name": "盈亏转化题型",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "对象转化为物品",
+            "综合型转化"
+        ],
+        "parents": [
+            "盈亏问题"
+        ]
+    },
+    "还原问题": {
+        "name": "还原问题",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "逆运算",
+            "单一变量还原问题",
+            "多量还原问题",
+            "两量还原问题",
+            "小马虎题型"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "空心方阵": {
+        "name": "空心方阵",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "空心方阵的增减",
+            "空心方阵基本问题"
+        ],
+        "parents": [
+            "方阵问题"
+        ]
+    },
+    "多量差倍": {
+        "name": "多量差倍",
+        "question_count": 18,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "差倍"
+        ]
+    },
+    "暗差型二量差倍问题": {
+        "name": "暗差型二量差倍问题",
+        "question_count": 47,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "两量差倍"
+        ]
+    },
+    "空心方阵的增减": {
+        "name": "空心方阵的增减",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "空心方阵"
+        ]
+    },
+    "倒扣型": {
+        "name": "倒扣型",
+        "question_count": 20,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "假设法解鸡兔同笼"
+        ]
+    },
+    "多量和差问题": {
+        "name": "多量和差问题",
+        "question_count": 16,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和差问题"
+        ]
+    },
+    "基本型": {
+        "name": "基本型",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "原型题",
+            "变型题"
+        ],
+        "parents": [
+            "假设法解鸡兔同笼"
+        ]
+    },
+    "两量差倍": {
+        "name": "两量差倍",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "非整数倍差倍不足",
+            "非整数倍差倍剩余",
+            "整数差倍",
+            "暗差型二量差倍问题"
+        ],
+        "parents": [
+            "差倍"
+        ]
+    },
+    "敲钟问题": {
+        "name": "敲钟问题",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "直线型两端都有"
+        ]
+    },
+    "非整数倍差倍剩余": {
+        "name": "非整数倍差倍剩余",
+        "question_count": 31,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "两量差倍"
+        ]
+    },
+    "直线型两端都没有": {
+        "name": "直线型两端都没有",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "间隔问题"
+        ]
+    },
+    "年龄轴": {
+        "name": "年龄轴",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题之当当型"
+        ]
+    },
+    "数码综合问题": {
+        "name": "数码综合问题",
+        "question_count": 13,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "页码问题"
+        ]
+    },
+    "整数差倍": {
+        "name": "整数差倍",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "两量差倍"
+        ]
+    },
+    "亏亏问题": {
+        "name": "亏亏问题",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏基本类型"
+        ]
+    },
+    "应用题模块": {
+        "name": "应用题模块",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "列方程解应用题",
+            "等差数列实际应用",
+            "间隔问题",
+            "归一归总问题",
+            "周期问题",
+            "还原问题",
+            "鸡兔同笼问题",
+            "页码问题",
+            "年龄问题",
+            "平均数问题",
+            "和差倍问题",
+            "盈亏问题",
+            "方阵问题"
+        ],
+        "parents": []
+    },
+    "盈亏基本类型盈亏问题": {
+        "name": "盈亏基本类型盈亏问题",
+        "question_count": 97,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏基本类型"
+        ]
+    },
+    "盈亏基本类型": {
+        "name": "盈亏基本类型",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "恰好分完",
+            "盈亏基本类型盈亏问题",
+            "亏亏问题"
+        ],
+        "parents": [
+            "盈亏问题"
+        ]
+    },
+    "数列操作周期问题": {
+        "name": "数列操作周期问题",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "求第几个数是多少问题",
+            "数的周期"
+        ],
+        "parents": [
+            "周期问题"
+        ]
+    },
+    "年龄和": {
+        "name": "年龄和",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题基本关系"
+        ]
+    },
+    "年龄问题基本关系和差问题": {
+        "name": "年龄问题基本关系和差问题",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题基本关系"
+        ]
+    },
+    "归总问题": {
+        "name": "归总问题",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "归一归总问题"
+        ]
+    },
+    "数字个数应用": {
+        "name": "数字个数应用",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数字与页码的对应问题"
+        ]
+    },
+    "公式类": {
+        "name": "公式类",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "加权平均数",
+            "直接求平均数"
+        ],
+        "parents": [
+            "平均数问题"
+        ]
+    },
+    "乘除法应用": {
+        "name": "乘除法应用",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "归一归总问题"
+        ]
+    }
+}

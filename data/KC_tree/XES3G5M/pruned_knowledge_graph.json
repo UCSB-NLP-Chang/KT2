@@ -1,0 +1,7735 @@
+{
+    "路程速度时间": {
+        "name": "路程速度时间",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "平均速度",
+            "双人简单行程问题",
+            "单人简单行程问题"
+        ],
+        "parents": [
+            "直线型行程问题"
+        ]
+    },
+    "综合型转化": {
+        "name": "综合型转化",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏转化题型"
+        ]
+    },
+    "整数换元法": {
+        "name": "整数换元法",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数"
+        ]
+    },
+    "年龄问题之和倍型": {
+        "name": "年龄问题之和倍型",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "列方程解应用题": {
+        "name": "列方程解应用题",
+        "question_count": 43,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "容斥求平均数": {
+        "name": "容斥求平均数",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "综合题"
+        ]
+    },
+    "长方形周长": {
+        "name": "长方形周长",
+        "question_count": 13,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "长方形和正方形"
+        ]
+    },
+    "几何方法整体减空白": {
+        "name": "几何方法整体减空白",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "几何思想与方法"
+        ]
+    },
+    "一笔画判断": {
+        "name": "一笔画判断",
+        "question_count": 40,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "一笔画"
+        ]
+    },
+    "能力": {
+        "name": "能力",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "立体图形": {
+        "name": "立体图形",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "几何模块"
+        ]
+    },
+    "移多补少": {
+        "name": "移多补少",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "平均数问题"
+        ]
+    },
+    "二量和倍问题": {
+        "name": "二量和倍问题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "两量和倍"
+        ],
+        "parents": [
+            "和倍问题"
+        ]
+    },
+    "体育比赛": {
+        "name": "体育比赛",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "淘汰赛",
+            "单循环赛"
+        ],
+        "parents": [
+            "逻辑推理"
+        ]
+    },
+    "对象转化为物品": {
+        "name": "对象转化为物品",
+        "question_count": 20,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏转化题型"
+        ]
+    },
+    "实心方阵": {
+        "name": "实心方阵",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "实心方阵综合问题",
+            "实心方阵基本问题",
+            "实心方阵的增减"
+        ],
+        "parents": [
+            "方阵问题"
+        ]
+    },
+    "余数的性质": {
+        "name": "余数的性质",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "余数问题"
+        ]
+    },
+    "归纳递推": {
+        "name": "归纳递推",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "操作与策略"
+        ]
+    },
+    "条件型逻辑推理": {
+        "name": "条件型逻辑推理",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "逻辑推理"
+        ]
+    },
+    "单人简单行程问题": {
+        "name": "单人简单行程问题",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "路程速度时间"
+        ]
+    },
+    "年、月、日": {
+        "name": "年、月、日",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "常见的量"
+        ]
+    },
+    "火柴棒摆算式": {
+        "name": "火柴棒摆算式",
+        "question_count": 11,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "火柴棒问题"
+        ]
+    },
+    "火柴棒摆数": {
+        "name": "火柴棒摆数",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "火柴棒问题"
+        ]
+    },
+    "奇数与偶数的加减规律": {
+        "name": "奇数与偶数的加减规律",
+        "question_count": 35,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "奇数与偶数"
+        ]
+    },
+    "已知两量之间倍数关系和两量之和，求两个量": {
+        "name": "已知两量之间倍数关系和两量之和，求两个量",
+        "question_count": 44,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "倍数问题"
+        ]
+    },
+    "角的认知": {
+        "name": "角的认知",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图形认知角"
+        ]
+    },
+    "整数加减巧算之位值原理": {
+        "name": "整数加减巧算之位值原理",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数加减"
+        ]
+    },
+    "奇数与偶数的混合计算": {
+        "name": "奇数与偶数的混合计算",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "奇数与偶数"
+        ]
+    },
+    "等差数列求和": {
+        "name": "等差数列求和",
+        "question_count": 75,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "巧求周长": {
+        "name": "巧求周长",
+        "question_count": 51,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "几何思想与方法"
+        ]
+    },
+    "长方形正方形组合图形周长": {
+        "name": "长方形正方形组合图形周长",
+        "question_count": 31,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "长方形和正方形"
+        ]
+    },
+    "余数问题": {
+        "name": "余数问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "余数的性质",
+            "余数问题带余除法"
+        ],
+        "parents": [
+            "数论模块"
+        ]
+    },
+    "分割与剪拼": {
+        "name": "分割与剪拼",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "图形剪拼",
+            "分割图形（不需等分）"
+        ],
+        "parents": [
+            "几何思想与方法"
+        ]
+    },
+    "和幻方": {
+        "name": "和幻方",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "偶数阶幻方填法",
+            "奇数阶幻方填法"
+        ],
+        "parents": [
+            "幻方"
+        ]
+    },
+    "染色计数问题": {
+        "name": "染色计数问题",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "长方形组合图形周长": {
+        "name": "长方形组合图形周长",
+        "question_count": 42,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "长方形和正方形"
+        ]
+    },
+    "环形操作周期问题": {
+        "name": "环形操作周期问题",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "周期问题"
+        ]
+    },
+    "整数": {
+        "name": "整数",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "认识万以内的数",
+            "整数换元法",
+            "整数提取公因数",
+            "整数分配律",
+            "整数乘除",
+            "整数加减",
+            "四则混合运算"
+        ],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "应用题": {
+        "name": "应用题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "工程应用题",
+            "植树应用题",
+            "倍数问题",
+            "等量代换"
+        ],
+        "parents": [
+            "知识点"
+        ]
+    },
+    "年龄问题基本关系": {
+        "name": "年龄问题基本关系",
+        "question_count": 7,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "年龄和",
+            "年龄问题基本关系和差问题",
+            "年龄差"
+        ],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "实心方阵基本问题": {
+        "name": "实心方阵基本问题",
+        "question_count": 85,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "实心方阵"
+        ]
+    },
+    "指定数字与页码的对应问题": {
+        "name": "指定数字与页码的对应问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "页码数量"
+        ],
+        "parents": [
+            "页码问题"
+        ]
+    },
+    "已知两量之间倍数关系和两量之差，求两个量": {
+        "name": "已知两量之间倍数关系和两量之差，求两个量",
+        "question_count": 47,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "倍数问题"
+        ]
+    },
+    "普通型": {
+        "name": "普通型",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "直接运算型"
+        ]
+    },
+    "方程基础": {
+        "name": "方程基础",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "标准标数法": {
+        "name": "标准标数法",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "最短路线"
+        ],
+        "parents": [
+            "标数法"
+        ]
+    },
+    "恰好分完": {
+        "name": "恰好分完",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏基本类型"
+        ]
+    },
+    "格点构造数图形": {
+        "name": "格点构造数图形",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "分类枚举法数图形"
+        ]
+    },
+    "乘法原理里的其他类型": {
+        "name": "乘法原理里的其他类型",
+        "question_count": 43,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "乘法原理"
+        ]
+    },
+    "乘法拆数（应用）": {
+        "name": "乘法拆数（应用）",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数拆分应用"
+        ]
+    },
+    "加法拆数（指定个数）": {
+        "name": "加法拆数（指定个数）",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "简单拆分"
+        ]
+    },
+    "周期问题": {
+        "name": "周期问题",
+        "question_count": 7,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "基本排列的周期问题",
+            "时间中的周期问题",
+            "数列操作周期问题",
+            "环形操作周期问题"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "封闭型": {
+        "name": "封闭型",
+        "question_count": 17,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "间隔问题"
+        ]
+    },
+    "周长": {
+        "name": "周长",
+        "question_count": 17,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "测量"
+        ]
+    },
+    "图形认知平行四边形": {
+        "name": "图形认知平行四边形",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "平行四边形的概念",
+            "平行四边形的面积公式"
+        ],
+        "parents": [
+            "图形认知"
+        ]
+    },
+    "长方形和正方形": {
+        "name": "长方形和正方形",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "长方形周长",
+            "长方形正方形组合图形周长",
+            "长方形组合图形周长",
+            "长方形和正方形面积公式"
+        ],
+        "parents": [
+            "图形认知"
+        ]
+    },
+    "数字个数": {
+        "name": "数字个数",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数字与页码的对应问题"
+        ]
+    },
+    "式与方程": {
+        "name": "式与方程",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "知识点"
+        ]
+    },
+    "时间中的周期问题": {
+        "name": "时间中的周期问题",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "时间中的周期",
+            "日期中的周期"
+        ],
+        "parents": [
+            "周期问题"
+        ]
+    },
+    "页码数量": {
+        "name": "页码数量",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "指定数字与页码的对应问题"
+        ]
+    },
+    "数列规律": {
+        "name": "数列规律",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数列与数表"
+        ]
+    },
+    "整数好朋友数": {
+        "name": "整数好朋友数",
+        "question_count": 60,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘除法巧算"
+        ]
+    },
+    "不规则四边形": {
+        "name": "不规则四边形",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "陷阱型不规则图形求周长",
+            "两条对角线垂直的四边形的面积求法"
+        ],
+        "parents": [
+            "图形认知"
+        ]
+    },
+    "求第几个数是多少问题": {
+        "name": "求第几个数是多少问题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数列操作周期问题"
+        ]
+    },
+    "两量和倍": {
+        "name": "两量和倍",
+        "question_count": 74,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "二量和倍问题"
+        ]
+    },
+    "一笔画的应用": {
+        "name": "一笔画的应用",
+        "question_count": 60,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "一笔画"
+        ]
+    },
+    "反解未知数型": {
+        "name": "反解未知数型",
+        "question_count": 14,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "定义新运算"
+        ]
+    },
+    "单位换算": {
+        "name": "单位换算",
+        "question_count": 30,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "幻方": {
+        "name": "幻方",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "变形幻方",
+            "和幻方",
+            "幻方数字关系"
+        ],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "直线和交点": {
+        "name": "直线和交点",
+        "question_count": 41,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "点线排布"
+        ]
+    },
+    "操作与策略": {
+        "name": "操作与策略",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "操作问题",
+            "统筹规划",
+            "归纳递推"
+        ],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "数列与数表": {
+        "name": "数列与数表",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数列规律",
+            "等差数列",
+            "数表规律"
+        ],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "整除特征": {
+        "name": "整除特征",
+        "question_count": 39,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整除"
+        ]
+    },
+    "等差数列求公差": {
+        "name": "等差数列求公差",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "拆数数字可重复": {
+        "name": "拆数数字可重复",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "枚举法"
+        ]
+    },
+    "等差数列": {
+        "name": "等差数列",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "等差数列截断求和",
+            "等差数列求通项",
+            "等差数列求和",
+            "中项定理应用",
+            "等差数列求公差",
+            "等差数列求项数"
+        ],
+        "parents": [
+            "数列与数表"
+        ]
+    },
+    "年龄差": {
+        "name": "年龄差",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题基本关系"
+        ]
+    },
+    "空间与图形": {
+        "name": "空间与图形",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "图形基础知识",
+            "几何图形"
+        ],
+        "parents": [
+            "课内题型"
+        ]
+    },
+    "抽屉原理": {
+        "name": "抽屉原理",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "简单抽屉原理",
+            "最不利原则"
+        ],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "除法中四量关系": {
+        "name": "除法中四量关系",
+        "question_count": 64,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "余数问题带余除法"
+        ]
+    },
+    "三量容斥": {
+        "name": "三量容斥",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "容斥原理"
+        ]
+    },
+    "图论问题": {
+        "name": "图论问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "路线遍历",
+            "一笔画",
+            "多笔画"
+        ],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "倍的基本计算": {
+        "name": "倍的基本计算",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和差倍问题"
+        ]
+    },
+    "火车问题": {
+        "name": "火车问题",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "行程模块"
+        ]
+    },
+    "有序枚举": {
+        "name": "有序枚举",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "枚举法"
+        ]
+    },
+    "多量容斥的几何计数": {
+        "name": "多量容斥的几何计数",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "容斥原理"
+        ]
+    },
+    "复式条形统计图": {
+        "name": "复式条形统计图",
+        "question_count": 18,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数据整理"
+        ]
+    },
+    "二量和差问题": {
+        "name": "二量和差问题",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和差问题"
+        ]
+    },
+    "综合题普通型": {
+        "name": "综合题普通型",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "综合题"
+        ]
+    },
+    "数的运算": {
+        "name": "数的运算",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "知识点"
+        ]
+    },
+    "已知各个数，求平均数": {
+        "name": "已知各个数，求平均数",
+        "question_count": 8,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "平均数问题"
+        ]
+    },
+    "枚举法": {
+        "name": "枚举法",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "拆数数字可重复",
+            "有序枚举"
+        ],
+        "parents": [
+            "枚举法综合"
+        ]
+    },
+    "数学游戏": {
+        "name": "数学游戏",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "逻辑绘图",
+            "扫雷游戏",
+            "数独"
+        ],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "整数乘除混合运算": {
+        "name": "整数乘除混合运算",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘除"
+        ]
+    },
+    "等差数列求通项": {
+        "name": "等差数列求通项",
+        "question_count": 56,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "原型题": {
+        "name": "原型题",
+        "question_count": 57,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "基本型"
+        ]
+    },
+    "分类枚举法数图形": {
+        "name": "分类枚举法数图形",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "格点构造数图形",
+            "常规图形枚举计数"
+        ],
+        "parents": [
+            "几何计数"
+        ]
+    },
+    "差倍": {
+        "name": "差倍",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量差倍",
+            "两量差倍"
+        ],
+        "parents": [
+            "和差倍问题"
+        ]
+    },
+    "小数基础": {
+        "name": "小数基础",
+        "question_count": 43,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "小数"
+        ]
+    },
+    "智巧趣题": {
+        "name": "智巧趣题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数表",
+            "数学趣题",
+            "点线排布"
+        ],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "行程模块": {
+        "name": "行程模块",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "火车问题",
+            "直线型行程问题"
+        ],
+        "parents": [
+            "拓展思维"
+        ]
+    },
+    "图文加法竖式数字谜": {
+        "name": "图文加法竖式数字谜",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "竖式数字谜"
+        ]
+    },
+    "长方形数表": {
+        "name": "长方形数表",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "连续自然数长方形数表之已知数求位置",
+            "连续自然数长方形数表之已知位置求数"
+        ],
+        "parents": [
+            "数表规律"
+        ]
+    },
+    "代数式": {
+        "name": "代数式",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等量代换"
+        ]
+    },
+    "等量代换": {
+        "name": "等量代换",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "字母表示数",
+            "代数式"
+        ],
+        "parents": [
+            "应用题"
+        ]
+    },
+    "分组法解鸡兔同笼": {
+        "name": "分组法解鸡兔同笼",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "鸡兔同笼问题"
+        ]
+    },
+    "余数问题带余除法": {
+        "name": "余数问题带余除法",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "余数特征",
+            "除法中四量关系"
+        ],
+        "parents": [
+            "余数问题"
+        ]
+    },
+    "奇数与偶数": {
+        "name": "奇数与偶数",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "奇数与偶数的混合计算",
+            "奇数与偶数的加减规律",
+            "奇数与偶数的应用",
+            "奇数与偶数的认识"
+        ],
+        "parents": [
+            "数论模块"
+        ]
+    },
+    "两条对角线垂直的四边形的面积求法": {
+        "name": "两条对角线垂直的四边形的面积求法",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "不规则四边形"
+        ]
+    },
+    "几何思想平移": {
+        "name": "几何思想平移",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "几何思想与方法"
+        ]
+    },
+    "简单抽屉原理": {
+        "name": "简单抽屉原理",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "抽屉原理"
+        ]
+    },
+    "图形认知角": {
+        "name": "图形认知角",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多边形内角和",
+            "角的认知",
+            "角度的计算"
+        ],
+        "parents": [
+            "图形认知"
+        ]
+    },
+    "整数除法运算": {
+        "name": "整数除法运算",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "表外除法计算",
+            "除法竖式"
+        ],
+        "parents": [
+            "整数乘除"
+        ]
+    },
+    "整数乘法巧算之提取公因数（普通型）": {
+        "name": "整数乘法巧算之提取公因数（普通型）",
+        "question_count": 69,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数提取公因数"
+        ]
+    },
+    "整数分拆": {
+        "name": "整数分拆",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "简单拆分",
+            "整数拆分应用"
+        ],
+        "parents": [
+            "枚举法综合"
+        ]
+    },
+    "表外乘法计算": {
+        "name": "表外乘法计算",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘法运算"
+        ]
+    },
+    "加乘原理": {
+        "name": "加乘原理",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "加乘原理综合",
+            "乘法原理",
+            "染色计数问题",
+            "排队问题",
+            "组数问题"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "等式填符号": {
+        "name": "等式填符号",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "巧填括号型",
+            "必填符号型"
+        ],
+        "parents": [
+            "巧填算符"
+        ]
+    },
+    "整数加减巧算之凑整法": {
+        "name": "整数加减巧算之凑整法",
+        "question_count": 52,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数加减"
+        ]
+    },
+    "间隔问题": {
+        "name": "间隔问题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "封闭型",
+            "直线型两端都有",
+            "直线型两端都没有"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "空心方阵基本问题": {
+        "name": "空心方阵基本问题",
+        "question_count": 46,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "空心方阵"
+        ]
+    },
+    "数据整理": {
+        "name": "数据整理",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "复式条形统计图",
+            "简单统计表",
+            "树形图"
+        ],
+        "parents": [
+            "数据收集和整理"
+        ]
+    },
+    "基本排列的周期问题": {
+        "name": "基本排列的周期问题",
+        "question_count": 101,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "周期问题"
+        ]
+    },
+    "年龄问题之变倍型": {
+        "name": "年龄问题之变倍型",
+        "question_count": 13,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "等差数列实际应用": {
+        "name": "等差数列实际应用",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "同时出发": {
+        "name": "同时出发",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "追及问题"
+        ]
+    },
+    "多位数中的提公因数": {
+        "name": "多位数中的提公因数",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数提取公因数"
+        ]
+    },
+    "多量鸡兔同笼": {
+        "name": "多量鸡兔同笼",
+        "question_count": 37,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "鸡兔同笼问题"
+        ]
+    },
+    "乘法竖式谜": {
+        "name": "乘法竖式谜",
+        "question_count": 41,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "竖式数字谜"
+        ]
+    },
+    "物品搭配": {
+        "name": "物品搭配",
+        "question_count": 31,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "乘法原理"
+        ]
+    },
+    "运算律": {
+        "name": "运算律",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数与运算"
+        ]
+    },
+    "图形认知": {
+        "name": "图形认知",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "平行四边形",
+            "正方形和长方形",
+            "不规则四边形",
+            "长方形和正方形",
+            "图形认知平行四边形",
+            "图形认知梯形",
+            "图形认知角"
+        ],
+        "parents": [
+            "直线型"
+        ]
+    },
+    "四则混合运算": {
+        "name": "四则混合运算",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数"
+        ]
+    },
+    "半真半假": {
+        "name": "半真半假",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "真假话"
+        ]
+    },
+    "整数构造提取": {
+        "name": "整数构造提取",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整数利用积/商不变性质",
+            "整数倍数关系"
+        ],
+        "parents": [
+            "整数提取公因数"
+        ]
+    },
+    "三角形": {
+        "name": "三角形",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "几何图形"
+        ]
+    },
+    "等差数列求项数": {
+        "name": "等差数列求项数",
+        "question_count": 37,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "集合": {
+        "name": "集合",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数学广角"
+        ]
+    },
+    "课内题型": {
+        "name": "课内题型",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "综合与实践",
+            "空间与图形"
+        ],
+        "parents": []
+    },
+    "和差倍问题": {
+        "name": "和差倍问题",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "倍的基本计算",
+            "和倍问题",
+            "差倍",
+            "和差问题"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "巧填算符": {
+        "name": "巧填算符",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "24点游戏",
+            "等式填符号"
+        ],
+        "parents": [
+            "数字谜"
+        ]
+    },
+    "假设法解鸡兔同笼": {
+        "name": "假设法解鸡兔同笼",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "倒扣型",
+            "基本型"
+        ],
+        "parents": [
+            "鸡兔同笼问题"
+        ]
+    },
+    "梯形面积公式": {
+        "name": "梯形面积公式",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "面积"
+        ]
+    },
+    "单一变量还原问题": {
+        "name": "单一变量还原问题",
+        "question_count": 83,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "对应法数图形": {
+        "name": "对应法数图形",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "乘法计数"
+        ],
+        "parents": [
+            "几何计数"
+        ]
+    },
+    "字典排序法": {
+        "name": "字典排序法",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "非数字排列",
+            "组数"
+        ],
+        "parents": [
+            "枚举法综合"
+        ]
+    },
+    "实心方阵的增减": {
+        "name": "实心方阵的增减",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "实心方阵"
+        ]
+    },
+    "数字与页码的对应问题": {
+        "name": "数字与页码的对应问题",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数字个数应用",
+            "数字个数"
+        ],
+        "parents": [
+            "页码问题"
+        ]
+    },
+    "一般组数问题": {
+        "name": "一般组数问题",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组数问题"
+        ]
+    },
+    "页码问题": {
+        "name": "页码问题",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数码综合问题",
+            "指定数字与页码的对应问题",
+            "数字与页码的对应问题"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "几何图形": {
+        "name": "几何图形",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "三角形",
+            "四边形"
+        ],
+        "parents": [
+            "空间与图形"
+        ]
+    },
+    "简单拆分": {
+        "name": "简单拆分",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "加法拆数（不完全相同数）",
+            "加法拆数（指定个数）"
+        ],
+        "parents": [
+            "整数分拆"
+        ]
+    },
+    "角度的计算": {
+        "name": "角度的计算",
+        "question_count": 50,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图形认知角"
+        ]
+    },
+    "小马虎题型": {
+        "name": "小马虎题型",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "扫雷游戏": {
+        "name": "扫雷游戏",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数学游戏"
+        ]
+    },
+    "图形规律": {
+        "name": "图形规律",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "整数乘法运算": {
+        "name": "整数乘法运算",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "表外乘法计算",
+            "乘法竖式"
+        ],
+        "parents": [
+            "整数乘除"
+        ]
+    },
+    "数字谜": {
+        "name": "数字谜",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "横式数字谜",
+            "竖式数字谜",
+            "巧填算符"
+        ],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "综合题": {
+        "name": "综合题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "容斥求平均数",
+            "综合题普通型"
+        ],
+        "parents": [
+            "平均数问题"
+        ]
+    },
+    "盈亏问题": {
+        "name": "盈亏问题",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "盈亏基本类型",
+            "盈亏转化题型"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "认识万以内的数": {
+        "name": "认识万以内的数",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数"
+        ]
+    },
+    "数字组数（不可重复）": {
+        "name": "数字组数（不可重复）",
+        "question_count": 35,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组数"
+        ]
+    },
+    "整数倍数关系": {
+        "name": "整数倍数关系",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数构造提取"
+        ]
+    },
+    "平均数问题": {
+        "name": "平均数问题",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "已知各个数，求平均数",
+            "公式类",
+            "综合题",
+            "移多补少"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "整数乘除": {
+        "name": "整数乘除",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整数乘除混合运算",
+            "整数除法运算",
+            "整数乘除法巧算",
+            "整数乘法运算"
+        ],
+        "parents": [
+            "整数"
+        ]
+    },
+    "奇数阶幻方填法": {
+        "name": "奇数阶幻方填法",
+        "question_count": 57,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和幻方"
+        ]
+    },
+    "加法拆数（不完全相同数）": {
+        "name": "加法拆数（不完全相同数）",
+        "question_count": 15,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "简单拆分"
+        ]
+    },
+    "非整数倍差倍不足": {
+        "name": "非整数倍差倍不足",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "两量差倍"
+        ]
+    },
+    "梯形的概念": {
+        "name": "梯形的概念",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图形认知梯形"
+        ]
+    },
+    "变型题": {
+        "name": "变型题",
+        "question_count": 58,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "基本型"
+        ]
+    },
+    "横式数字谜": {
+        "name": "横式数字谜",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数字谜"
+        ]
+    },
+    "鸡兔同笼问题": {
+        "name": "鸡兔同笼问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量鸡兔同笼",
+            "分组法解鸡兔同笼",
+            "假设法解鸡兔同笼"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "几何模型": {
+        "name": "几何模型",
+        "question_count": 17,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "直线型"
+        ]
+    },
+    "除法竖式谜": {
+        "name": "除法竖式谜",
+        "question_count": 20,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "竖式数字谜"
+        ]
+    },
+    "两端植树问题": {
+        "name": "两端植树问题",
+        "question_count": 40,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "直线型两端都有"
+        ]
+    },
+    "有特殊要求的组数问题": {
+        "name": "有特殊要求的组数问题",
+        "question_count": 11,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组数问题"
+        ]
+    },
+    "年龄问题之差倍型": {
+        "name": "年龄问题之差倍型",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "综合与实践": {
+        "name": "综合与实践",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "课内题型"
+        ]
+    },
+    "直线型两端都有": {
+        "name": "直线型两端都有",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "敲钟问题",
+            "两端植树问题"
+        ],
+        "parents": [
+            "间隔问题"
+        ]
+    },
+    "逻辑推理": {
+        "name": "逻辑推理",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "比较型逻辑推理",
+            "条件型逻辑推理",
+            "假设型逻辑推理",
+            "体育比赛"
+        ],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "添线、删线法": {
+        "name": "添线、删线法",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "几何计数"
+        ]
+    },
+    "整数除法巧算之类分配律": {
+        "name": "整数除法巧算之类分配律",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数分配律"
+        ]
+    },
+    "小数": {
+        "name": "小数",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "小数的意义",
+            "小数加减",
+            "小数基础"
+        ],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "常规图形枚举计数": {
+        "name": "常规图形枚举计数",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "角",
+            "认识线段",
+            "正方形"
+        ],
+        "parents": [
+            "分类枚举法数图形"
+        ]
+    },
+    "图形的认识": {
+        "name": "图形的认识",
+        "question_count": 42,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "知识点"
+        ]
+    },
+    "变形方阵": {
+        "name": "变形方阵",
+        "question_count": 8,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "方阵问题"
+        ]
+    },
+    "整数利用积/商不变性质": {
+        "name": "整数利用积/商不变性质",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数构造提取"
+        ]
+    },
+    "比较型逻辑推理": {
+        "name": "比较型逻辑推理",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "逻辑推理"
+        ]
+    },
+    "平行四边形的概念": {
+        "name": "平行四边形的概念",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图形认知平行四边形"
+        ]
+    },
+    "几何模块": {
+        "name": "几何模块",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "立体图形",
+            "直线型"
+        ],
+        "parents": [
+            "拓展思维"
+        ]
+    },
+    "真假话": {
+        "name": "真假话",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "半真半假",
+            "找矛盾"
+        ],
+        "parents": [
+            "假设型逻辑推理"
+        ]
+    },
+    "追及问题": {
+        "name": "追及问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "不同时出发",
+            "同时出发"
+        ],
+        "parents": [
+            "两人相遇与追及问题"
+        ]
+    },
+    "整数拆分应用": {
+        "name": "整数拆分应用",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "乘法拆数（应用）",
+            "加法拆数（应用）"
+        ],
+        "parents": [
+            "整数分拆"
+        ]
+    },
+    "分数": {
+        "name": "分数",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "点线排布的实际应用": {
+        "name": "点线排布的实际应用",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "点线排布"
+        ]
+    },
+    "最不利原则": {
+        "name": "最不利原则",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "抽屉原理"
+        ]
+    },
+    "分割图形（不需等分）": {
+        "name": "分割图形（不需等分）",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "分割与剪拼"
+        ]
+    },
+    "几何计数": {
+        "name": "几何计数",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "添线、删线法",
+            "对应法数图形",
+            "分类枚举法数图形"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "数的周期": {
+        "name": "数的周期",
+        "question_count": 30,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数列操作周期问题"
+        ]
+    },
+    "日期中的周期": {
+        "name": "日期中的周期",
+        "question_count": 116,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "时间中的周期问题"
+        ]
+    },
+    "假设型逻辑推理": {
+        "name": "假设型逻辑推理",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "真假话"
+        ],
+        "parents": [
+            "逻辑推理"
+        ]
+    },
+    "枚举法综合": {
+        "name": "枚举法综合",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "字典排序法",
+            "整数分拆",
+            "枚举法"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "图形基础知识": {
+        "name": "图形基础知识",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "空间与图形"
+        ]
+    },
+    "整数提取公因数": {
+        "name": "整数提取公因数",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多位数中的提公因数",
+            "整数构造提取",
+            "整数乘法巧算之提取公因数（普通型）",
+            "整数除法巧算之提取公除数（普通型）"
+        ],
+        "parents": [
+            "整数"
+        ]
+    },
+    "同时出发相向而行": {
+        "name": "同时出发相向而行",
+        "question_count": 46,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "相遇问题"
+        ]
+    },
+    "和差问题": {
+        "name": "和差问题",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量和差问题",
+            "二量和差问题"
+        ],
+        "parents": [
+            "和差倍问题"
+        ]
+    },
+    "多笔画": {
+        "name": "多笔画",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多笔画变一笔画",
+            "多笔画运用"
+        ],
+        "parents": [
+            "图论问题"
+        ]
+    },
+    "数据收集和整理": {
+        "name": "数据收集和整理",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数据分类",
+            "数据整理"
+        ],
+        "parents": [
+            "知识点"
+        ]
+    },
+    "偶数阶幻方填法": {
+        "name": "偶数阶幻方填法",
+        "question_count": 7,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和幻方"
+        ]
+    },
+    "多量和倍问题": {
+        "name": "多量和倍问题",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量和倍"
+        ],
+        "parents": [
+            "和倍问题"
+        ]
+    },
+    "正方形和长方形": {
+        "name": "正方形和长方形",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图形认知"
+        ]
+    },
+    "植树应用题": {
+        "name": "植树应用题",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "应用题"
+        ]
+    },
+    "直线型": {
+        "name": "直线型",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "几何模型",
+            "几何思想与方法",
+            "图形认知"
+        ],
+        "parents": [
+            "几何模块"
+        ]
+    },
+    "卡片组数": {
+        "name": "卡片组数",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组数"
+        ]
+    },
+    "工程应用题": {
+        "name": "工程应用题",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "应用题"
+        ]
+    },
+    "两量还原问题": {
+        "name": "两量还原问题",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "面积": {
+        "name": "面积",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "三角形面积",
+            "梯形面积公式"
+        ],
+        "parents": [
+            "测量"
+        ]
+    },
+    "组合模块最值问题": {
+        "name": "组合模块最值问题",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组合模块"
+        ]
+    },
+    "拆数法构造分配律": {
+        "name": "拆数法构造分配律",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘法巧算之分配律"
+        ]
+    },
+    "比较与估算": {
+        "name": "比较与估算",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "多笔画运用": {
+        "name": "多笔画运用",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "多笔画"
+        ]
+    },
+    "数独": {
+        "name": "数独",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数学游戏"
+        ]
+    },
+    "图形认知梯形": {
+        "name": "图形认知梯形",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "梯形的概念",
+            "梯形的面积公式"
+        ],
+        "parents": [
+            "图形认知"
+        ]
+    },
+    "奇数与偶数的应用": {
+        "name": "奇数与偶数的应用",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "奇数与偶数"
+        ]
+    },
+    "竖式数字谜": {
+        "name": "竖式数字谜",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "除法竖式谜",
+            "乘法竖式谜",
+            "图文加法竖式数字谜",
+            "减法竖式谜",
+            "加法竖式谜"
+        ],
+        "parents": [
+            "数字谜"
+        ]
+    },
+    "三角形面积": {
+        "name": "三角形面积",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "面积"
+        ]
+    },
+    "组合模块": {
+        "name": "组合模块",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "组合模块最值问题",
+            "图形规律",
+            "逻辑推理",
+            "数学游戏",
+            "数字谜",
+            "操作与策略",
+            "幻方",
+            "图论问题",
+            "智巧趣题",
+            "抽屉原理"
+        ],
+        "parents": [
+            "拓展思维"
+        ]
+    },
+    "多量和倍": {
+        "name": "多量和倍",
+        "question_count": 53,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "多量和倍问题"
+        ]
+    },
+    "变形幻方": {
+        "name": "变形幻方",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "幻方"
+        ]
+    },
+    "整数加减": {
+        "name": "整数加减",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整数加减巧算之位值原理",
+            "整数加减巧算之凑整法"
+        ],
+        "parents": [
+            "整数"
+        ]
+    },
+    "方阵问题": {
+        "name": "方阵问题",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "变形方阵",
+            "实心方阵",
+            "空心方阵"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "课内知识点": {
+        "name": "课内知识点",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数与运算"
+        ],
+        "parents": []
+    },
+    "找暗和": {
+        "name": "找暗和",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和倍问题"
+        ]
+    },
+    "标数法": {
+        "name": "标数法",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "特殊点或区域",
+            "标准标数法"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "数与运算": {
+        "name": "数与运算",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数的运算的实际应用（应用题）",
+            "运算律",
+            "混合运算"
+        ],
+        "parents": [
+            "课内知识点"
+        ]
+    },
+    "平行四边形的面积公式": {
+        "name": "平行四边形的面积公式",
+        "question_count": 50,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图形认知平行四边形"
+        ]
+    },
+    "巧填括号型": {
+        "name": "巧填括号型",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等式填符号"
+        ]
+    },
+    "单归一问题": {
+        "name": "单归一问题",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "归一归总问题"
+        ]
+    },
+    "多量还原问题": {
+        "name": "多量还原问题",
+        "question_count": 35,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "简单的数独游戏": {
+        "name": "简单的数独游戏",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数学广角"
+        ]
+    },
+    "双归一问题": {
+        "name": "双归一问题",
+        "question_count": 65,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "归一归总问题"
+        ]
+    },
+    "统计与概率": {
+        "name": "统计与概率",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "调运中的统筹": {
+        "name": "调运中的统筹",
+        "question_count": 16,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "统筹规划"
+        ]
+    },
+    "一笔画": {
+        "name": "一笔画",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "奇偶点问题",
+            "一笔画判断",
+            "一笔画的应用"
+        ],
+        "parents": [
+            "图论问题"
+        ]
+    },
+    "长方形和正方形面积公式": {
+        "name": "长方形和正方形面积公式",
+        "question_count": 116,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "长方形和正方形"
+        ]
+    },
+    "双人简单行程问题": {
+        "name": "双人简单行程问题",
+        "question_count": 30,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "路程速度时间"
+        ]
+    },
+    "几何思想与方法": {
+        "name": "几何思想与方法",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "几何方法整体减空白",
+            "几何思想平移",
+            "分割与剪拼",
+            "巧求周长"
+        ],
+        "parents": [
+            "直线型"
+        ]
+    },
+    "实心方阵综合问题": {
+        "name": "实心方阵综合问题",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "实心方阵"
+        ]
+    },
+    "归一归总问题": {
+        "name": "归一归总问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "乘除法应用",
+            "单归一问题",
+            "双归一问题",
+            "归总问题"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "知少求多": {
+        "name": "知少求多",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和倍问题"
+        ]
+    },
+    "时间中的周期": {
+        "name": "时间中的周期",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "时间中的周期问题"
+        ]
+    },
+    "表外除法计算": {
+        "name": "表外除法计算",
+        "question_count": 16,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数除法运算"
+        ]
+    },
+    "年龄问题之当当型": {
+        "name": "年龄问题之当当型",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "年龄轴"
+        ],
+        "parents": [
+            "年龄问题"
+        ]
+    },
+    "认识线段": {
+        "name": "认识线段",
+        "question_count": 39,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "常规图形枚举计数"
+        ]
+    },
+    "幻方数字关系": {
+        "name": "幻方数字关系",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "幻方"
+        ]
+    },
+    "直接求平均数": {
+        "name": "直接求平均数",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "公式类"
+        ]
+    },
+    "操作问题": {
+        "name": "操作问题",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "操作与策略"
+        ]
+    },
+    "数表规律": {
+        "name": "数表规律",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数与图结合找规律（单图）",
+            "长方形数表"
+        ],
+        "parents": [
+            "数列与数表"
+        ]
+    },
+    "年龄问题": {
+        "name": "年龄问题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "年龄问题之变倍型",
+            "年龄问题之差倍型",
+            "年龄问题基本关系",
+            "年龄问题之和倍型",
+            "年龄问题之当当型"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "数学趣题": {
+        "name": "数学趣题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "火柴棒问题"
+        ],
+        "parents": [
+            "智巧趣题"
+        ]
+    },
+    "乘法计数": {
+        "name": "乘法计数",
+        "question_count": 30,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "对应法数图形"
+        ]
+    },
+    "逆运算": {
+        "name": "逆运算",
+        "question_count": 45,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "还原问题"
+        ]
+    },
+    "组数": {
+        "name": "组数",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "卡片组数",
+            "数字组数（不可重复）"
+        ],
+        "parents": [
+            "字典排序法"
+        ]
+    },
+    "加乘原理综合": {
+        "name": "加乘原理综合",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "两人相遇与追及问题": {
+        "name": "两人相遇与追及问题",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "追及与相遇结合",
+            "追及问题",
+            "相遇问题"
+        ],
+        "parents": [
+            "直线型行程问题"
+        ]
+    },
+    "公式法求梯形面积": {
+        "name": "公式法求梯形面积",
+        "question_count": 19,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "四边形"
+        ]
+    },
+    "和倍问题": {
+        "name": "和倍问题",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "知少求多",
+            "二量和倍问题",
+            "多量和倍问题",
+            "找暗和"
+        ],
+        "parents": [
+            "和差倍问题"
+        ]
+    },
+    "等差数列截断求和": {
+        "name": "等差数列截断求和",
+        "question_count": 19,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "组数问题": {
+        "name": "组数问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "有特殊要求的组数问题",
+            "一般组数问题"
+        ],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "加权平均数": {
+        "name": "加权平均数",
+        "question_count": 15,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "公式类"
+        ]
+    },
+    "知识点": {
+        "name": "知识点",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "式与方程",
+            "图形的认识",
+            "数学广角",
+            "应用题",
+            "数据收集和整理",
+            "测量",
+            "常见的量",
+            "数的运算"
+        ],
+        "parents": []
+    },
+    "整数四则混合运算": {
+        "name": "整数四则混合运算",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "混合运算"
+        ]
+    },
+    "单循环赛": {
+        "name": "单循环赛",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "体育比赛"
+        ]
+    },
+    "烙饼问题": {
+        "name": "烙饼问题",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "简单时间统筹问题"
+        ]
+    },
+    "奇偶点问题": {
+        "name": "奇偶点问题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "一笔画"
+        ]
+    },
+    "多笔画变一笔画": {
+        "name": "多笔画变一笔画",
+        "question_count": 13,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "多笔画"
+        ]
+    },
+    "盈亏转化题型": {
+        "name": "盈亏转化题型",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "对象转化为物品",
+            "综合型转化"
+        ],
+        "parents": [
+            "盈亏问题"
+        ]
+    },
+    "二量容斥": {
+        "name": "二量容斥",
+        "question_count": 139,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "容斥原理"
+        ]
+    },
+    "倍数问题": {
+        "name": "倍数问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "已知两量之间倍数关系和一份量，求多份量",
+            "已知两量之间倍数关系和两量之和，求两个量",
+            "已知两量之间倍数关系和两量之差，求两个量"
+        ],
+        "parents": [
+            "应用题"
+        ]
+    },
+    "最短路线": {
+        "name": "最短路线",
+        "question_count": 107,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "标准标数法"
+        ]
+    },
+    "奇数与偶数的认识": {
+        "name": "奇数与偶数的认识",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "奇数与偶数"
+        ]
+    },
+    "定义新运算": {
+        "name": "定义新运算",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "反解未知数型",
+            "直接运算型"
+        ],
+        "parents": [
+            "计算模块"
+        ]
+    },
+    "图形剪拼": {
+        "name": "图形剪拼",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "分割与剪拼"
+        ]
+    },
+    "排队问题": {
+        "name": "排队问题",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "连续自然数长方形数表之已知位置求数": {
+        "name": "连续自然数长方形数表之已知位置求数",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "长方形数表"
+        ]
+    },
+    "24点游戏": {
+        "name": "24点游戏",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "巧填算符"
+        ]
+    },
+    "公式法长方形正方形周长": {
+        "name": "公式法长方形正方形周长",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "四边形"
+        ]
+    },
+    "还原问题": {
+        "name": "还原问题",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "逆运算",
+            "单一变量还原问题",
+            "多量还原问题",
+            "两量还原问题",
+            "小马虎题型"
+        ],
+        "parents": [
+            "应用题模块"
+        ]
+    },
+    "相遇问题": {
+        "name": "相遇问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "不同时出发相向而行",
+            "同时出发相向而行"
+        ],
+        "parents": [
+            "两人相遇与追及问题"
+        ]
+    },
+    "火柴棒问题": {
+        "name": "火柴棒问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "火柴棒摆算式",
+            "火柴棒摆数"
+        ],
+        "parents": [
+            "数学趣题"
+        ]
+    },
+    "必填符号型": {
+        "name": "必填符号型",
+        "question_count": 48,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等式填符号"
+        ]
+    },
+    "点线排布": {
+        "name": "点线排布",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "点线排布的实际应用",
+            "直线和交点"
+        ],
+        "parents": [
+            "智巧趣题"
+        ]
+    },
+    "空心方阵": {
+        "name": "空心方阵",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "空心方阵的增减",
+            "空心方阵基本问题"
+        ],
+        "parents": [
+            "方阵问题"
+        ]
+    },
+    "多量差倍": {
+        "name": "多量差倍",
+        "question_count": 18,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "差倍"
+        ]
+    },
+    "高斯记号": {
+        "name": "高斯记号",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数论模块"
+        ]
+    },
+    "暗差型二量差倍问题": {
+        "name": "暗差型二量差倍问题",
+        "question_count": 47,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "两量差倍"
+        ]
+    },
+    "空心方阵的增减": {
+        "name": "空心方阵的增减",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "空心方阵"
+        ]
+    },
+    "数与图结合找规律（单图）": {
+        "name": "数与图结合找规律（单图）",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数表规律"
+        ]
+    },
+    "倒扣型": {
+        "name": "倒扣型",
+        "question_count": 20,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "假设法解鸡兔同笼"
+        ]
+    },
+    "数的运算的实际应用（应用题）": {
+        "name": "数的运算的实际应用（应用题）",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数与运算"
+        ]
+    },
+    "整除性质的应用": {
+        "name": "整除性质的应用",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整除"
+        ]
+    },
+    "简单时间统筹问题": {
+        "name": "简单时间统筹问题",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "烙饼问题",
+            "时间总和问题"
+        ],
+        "parents": [
+            "统筹规划"
+        ]
+    },
+    "乘除法抵消": {
+        "name": "乘除法抵消",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘除法巧算"
+        ]
+    },
+    "乘法竖式": {
+        "name": "乘法竖式",
+        "question_count": 45,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘法运算"
+        ]
+    },
+    "余数特征": {
+        "name": "余数特征",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "余数问题带余除法"
+        ]
+    },
+    "淘汰赛": {
+        "name": "淘汰赛",
+        "question_count": 39,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "体育比赛"
+        ]
+    },
+    "多量和差问题": {
+        "name": "多量和差问题",
+        "question_count": 16,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "和差问题"
+        ]
+    },
+    "基本型": {
+        "name": "基本型",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "原型题",
+            "变型题"
+        ],
+        "parents": [
+            "假设法解鸡兔同笼"
+        ]
+    },
+    "角": {
+        "name": "角",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "常规图形枚举计数"
+        ]
+    },
+    "两量差倍": {
+        "name": "两量差倍",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "非整数倍差倍不足",
+            "非整数倍差倍剩余",
+            "整数差倍",
+            "暗差型二量差倍问题"
+        ],
+        "parents": [
+            "差倍"
+        ]
+    },
+    "多人相遇与追及问题": {
+        "name": "多人相遇与追及问题",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "直线型行程问题"
+        ]
+    },
+    "数表": {
+        "name": "数表",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "智巧趣题"
+        ]
+    },
+    "减法竖式谜": {
+        "name": "减法竖式谜",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "竖式数字谜"
+        ]
+    },
+    "不同时出发": {
+        "name": "不同时出发",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "追及问题"
+        ]
+    },
+    "数学广角": {
+        "name": "数学广角",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "集合",
+            "简单的数独游戏"
+        ],
+        "parents": [
+            "知识点"
+        ]
+    },
+    "敲钟问题": {
+        "name": "敲钟问题",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "直线型两端都有"
+        ]
+    },
+    "直接运用分配律": {
+        "name": "直接运用分配律",
+        "question_count": 20,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘法巧算之分配律"
+        ]
+    },
+    "直线型行程问题": {
+        "name": "直线型行程问题",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多人相遇与追及问题",
+            "路程速度时间",
+            "两人相遇与追及问题"
+        ],
+        "parents": [
+            "行程模块"
+        ]
+    },
+    "非整数倍差倍剩余": {
+        "name": "非整数倍差倍剩余",
+        "question_count": 31,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "两量差倍"
+        ]
+    },
+    "小数的意义": {
+        "name": "小数的意义",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "小数"
+        ]
+    },
+    "数论模块": {
+        "name": "数论模块",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "高斯记号",
+            "奇数与偶数",
+            "整除",
+            "余数问题"
+        ],
+        "parents": [
+            "拓展思维"
+        ]
+    },
+    "学习能力": {
+        "name": "学习能力",
+        "question_count": 17,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "时间总和问题": {
+        "name": "时间总和问题",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "简单时间统筹问题"
+        ]
+    },
+    "已知两量之间倍数关系和一份量，求多份量": {
+        "name": "已知两量之间倍数关系和一份量，求多份量",
+        "question_count": 7,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "倍数问题"
+        ]
+    },
+    "中项定理应用": {
+        "name": "中项定理应用",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等差数列"
+        ]
+    },
+    "加法竖式谜": {
+        "name": "加法竖式谜",
+        "question_count": 78,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "竖式数字谜"
+        ]
+    },
+    "整数分配律": {
+        "name": "整数分配律",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整数乘法巧算之分配律",
+            "整数除法巧算之类分配律"
+        ],
+        "parents": [
+            "整数"
+        ]
+    },
+    "常见的量": {
+        "name": "常见的量",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "元、角、分",
+            "年、月、日"
+        ],
+        "parents": [
+            "知识点"
+        ]
+    },
+    "整数乘法巧算之分配律": {
+        "name": "整数乘法巧算之分配律",
+        "question_count": 7,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "直接运用分配律",
+            "拆数法构造分配律"
+        ],
+        "parents": [
+            "整数分配律"
+        ]
+    },
+    "统筹规划": {
+        "name": "统筹规划",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "调运中的统筹",
+            "简单时间统筹问题",
+            "地点上的统筹"
+        ],
+        "parents": [
+            "操作与策略"
+        ]
+    },
+    "乘法原理": {
+        "name": "乘法原理",
+        "question_count": 14,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "乘法原理里的其他类型",
+            "物品搭配"
+        ],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "元、角、分": {
+        "name": "元、角、分",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "常见的量"
+        ]
+    },
+    "直线型两端都没有": {
+        "name": "直线型两端都没有",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "间隔问题"
+        ]
+    },
+    "年龄轴": {
+        "name": "年龄轴",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题之当当型"
+        ]
+    },
+    "陷阱型不规则图形求周长": {
+        "name": "陷阱型不规则图形求周长",
+        "question_count": 44,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "不规则四边形"
+        ]
+    },
+    "数码综合问题": {
+        "name": "数码综合问题",
+        "question_count": 13,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "页码问题"
+        ]
+    },
+    "测量": {
+        "name": "测量",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "周长",
+            "面积"
+        ],
+        "parents": [
+            "知识点"
+        ]
+    },
+    "整数差倍": {
+        "name": "整数差倍",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "两量差倍"
+        ]
+    },
+    "梯形的面积公式": {
+        "name": "梯形的面积公式",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图形认知梯形"
+        ]
+    },
+    "四边形": {
+        "name": "四边形",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "公式法求梯形面积",
+            "公式法长方形正方形周长"
+        ],
+        "parents": [
+            "几何图形"
+        ]
+    },
+    "整除": {
+        "name": "整除",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整除性质的应用",
+            "整除特征"
+        ],
+        "parents": [
+            "数论模块"
+        ]
+    },
+    "特殊点或区域": {
+        "name": "特殊点或区域",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "标数法"
+        ]
+    },
+    "亏亏问题": {
+        "name": "亏亏问题",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏基本类型"
+        ]
+    },
+    "逻辑绘图": {
+        "name": "逻辑绘图",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数学游戏"
+        ]
+    },
+    "平行四边形": {
+        "name": "平行四边形",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图形认知"
+        ]
+    },
+    "树形图": {
+        "name": "树形图",
+        "question_count": 98,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数据整理"
+        ]
+    },
+    "非数字排列": {
+        "name": "非数字排列",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "字典排序法"
+        ]
+    },
+    "应用题模块": {
+        "name": "应用题模块",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "列方程解应用题",
+            "等差数列实际应用",
+            "间隔问题",
+            "归一归总问题",
+            "周期问题",
+            "还原问题",
+            "鸡兔同笼问题",
+            "页码问题",
+            "年龄问题",
+            "平均数问题",
+            "和差倍问题",
+            "盈亏问题",
+            "方阵问题"
+        ],
+        "parents": [
+            "拓展思维"
+        ]
+    },
+    "盈亏基本类型盈亏问题": {
+        "name": "盈亏基本类型盈亏问题",
+        "question_count": 97,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "盈亏基本类型"
+        ]
+    },
+    "数据分类": {
+        "name": "数据分类",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数据收集和整理"
+        ]
+    },
+    "特殊乘积": {
+        "name": "特殊乘积",
+        "question_count": 20,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数乘除法巧算"
+        ]
+    },
+    "小数加减": {
+        "name": "小数加减",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "小数"
+        ]
+    },
+    "整数乘除法巧算": {
+        "name": "整数乘除法巧算",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "特殊乘积",
+            "整数好朋友数",
+            "乘除法抵消"
+        ],
+        "parents": [
+            "整数乘除"
+        ]
+    },
+    "简单统计表": {
+        "name": "简单统计表",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数据整理"
+        ]
+    },
+    "盈亏基本类型": {
+        "name": "盈亏基本类型",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "恰好分完",
+            "盈亏基本类型盈亏问题",
+            "亏亏问题"
+        ],
+        "parents": [
+            "盈亏问题"
+        ]
+    },
+    "计算模块": {
+        "name": "计算模块",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "比较与估算",
+            "方程基础",
+            "单位换算",
+            "整数",
+            "数列与数表",
+            "分数",
+            "小数",
+            "定义新运算"
+        ],
+        "parents": [
+            "拓展思维"
+        ]
+    },
+    "数列操作周期问题": {
+        "name": "数列操作周期问题",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "求第几个数是多少问题",
+            "数的周期"
+        ],
+        "parents": [
+            "周期问题"
+        ]
+    },
+    "连续自然数长方形数表之已知数求位置": {
+        "name": "连续自然数长方形数表之已知数求位置",
+        "question_count": 16,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "长方形数表"
+        ]
+    },
+    "年龄和": {
+        "name": "年龄和",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题基本关系"
+        ]
+    },
+    "直接运算型": {
+        "name": "直接运算型",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "普通型"
+        ],
+        "parents": [
+            "定义新运算"
+        ]
+    },
+    "正方形": {
+        "name": "正方形",
+        "question_count": 60,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "常规图形枚举计数"
+        ]
+    },
+    "拓展思维": {
+        "name": "拓展思维",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "计数模块",
+            "几何模块",
+            "组合模块",
+            "计算模块",
+            "应用题模块",
+            "行程模块",
+            "数论模块"
+        ],
+        "parents": []
+    },
+    "字母表示数": {
+        "name": "字母表示数",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "等量代换"
+        ]
+    },
+    "除法竖式": {
+        "name": "除法竖式",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数除法运算"
+        ]
+    },
+    "追及与相遇结合": {
+        "name": "追及与相遇结合",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "两人相遇与追及问题"
+        ]
+    },
+    "平均速度": {
+        "name": "平均速度",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "路程速度时间"
+        ]
+    },
+    "年龄问题基本关系和差问题": {
+        "name": "年龄问题基本关系和差问题",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "年龄问题基本关系"
+        ]
+    },
+    "计数模块": {
+        "name": "计数模块",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "统计与概率",
+            "加乘原理",
+            "几何计数",
+            "容斥原理",
+            "标数法",
+            "枚举法综合"
+        ],
+        "parents": [
+            "拓展思维"
+        ]
+    },
+    "容斥原理": {
+        "name": "容斥原理",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量容斥的几何计数",
+            "二量容斥",
+            "三量容斥"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "归总问题": {
+        "name": "归总问题",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "归一归总问题"
+        ]
+    },
+    "数字个数应用": {
+        "name": "数字个数应用",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数字与页码的对应问题"
+        ]
+    },
+    "整数除法巧算之提取公除数（普通型）": {
+        "name": "整数除法巧算之提取公除数（普通型）",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数提取公因数"
+        ]
+    },
+    "公式类": {
+        "name": "公式类",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "加权平均数",
+            "直接求平均数"
+        ],
+        "parents": [
+            "平均数问题"
+        ]
+    },
+    "找矛盾": {
+        "name": "找矛盾",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "真假话"
+        ]
+    },
+    "乘除法应用": {
+        "name": "乘除法应用",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "归一归总问题"
+        ]
+    },
+    "多边形内角和": {
+        "name": "多边形内角和",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图形认知角"
+        ]
+    },
+    "混合运算": {
+        "name": "混合运算",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "整数四则混合运算"
+        ],
+        "parents": [
+            "数与运算"
+        ]
+    },
+    "路线遍历": {
+        "name": "路线遍历",
+        "question_count": 8,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "图论问题"
+        ]
+    },
+    "加法拆数（应用）": {
+        "name": "加法拆数（应用）",
+        "question_count": 80,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数拆分应用"
+        ]
+    },
+    "不同时出发相向而行": {
+        "name": "不同时出发相向而行",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "相遇问题"
+        ]
+    },
+    "地点上的统筹": {
+        "name": "地点上的统筹",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "统筹规划"
+        ]
+    }
+}

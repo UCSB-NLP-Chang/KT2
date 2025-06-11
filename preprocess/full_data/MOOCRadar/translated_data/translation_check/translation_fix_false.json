@@ -1,0 +1,737 @@
+[
+    {
+        "question": "柏拉图的知识论是一种有关____________的知识论。\n Option: {'A': '事务性的', 'B': '本质主义的', 'C': '具象性的', 'D': '社会性的'}",
+        "translated_question": "Plato's epistemology is a type of epistemology that concerns _____________. What is the answer?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol (____________). The English translation, however, maintains the blank and adds 'What is the answer?' which alters the original format. In this case, the English translation should present a statement without the blank, making it a complete sentence rather than a query about the answer. Thus, the translation does not conform to the expected format."
+    },
+    {
+        "question": "2、商鞅与吴起同为出身于____，并曾在____任职。\n Option: {'A': '魏国；卫国', 'B': '魏国；楚国', 'C': '卫国；魏国', 'D': '卫国；楚国'}",
+        "translated_question": "Shang Yang and Wu Qi both came from ____, and once served in ____. What are the two places?  \nOption: {'A': 'Wei State; State of Wei', 'B': 'Wei State; State of Chu', 'C': 'State of Wei; State of Wei', 'D': 'State of Wei; State of Chu'}",
+        "reason": "The Chinese question is a fill-in-the-blank format, indicated by the blanks (____), which means that the English translation should also be presented as a question without the blanks. The provided English translation retains the blanks, which does not conform to the specified criteria for a correct translation. Therefore, the translation is incorrect in format despite conveying similar content."
+    },
+    {
+        "question": "吕不韦在____经商时，结识了作为人质的秦国宗室，也就是始皇嬴政的父亲异人。\n Option: {'A': '楚国', 'B': '齐国', 'C': '魏国', 'D': '赵国'}",
+        "translated_question": "During which state was Lü Buwei engaged in business when he met the Qin royal family member who was a hostage, the father of the First Emperor Ying Zheng, named Yiren? Option: {'A': 'Chu State', 'B': 'Qi State', 'C': 'Wei State', 'D': 'Zhao State'}",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank (____), which means the English translation should be reformatted into a proper question format without the blank. The provided English translation has a similar structure but does not convert the blank into a question format. Instead, it retains the option structure, which does not fulfill the criteria for a correct translation. Thus, the translation is incorrect in format, even though it conveys the general meaning accurately."
+    },
+    {
+        "question": "公叔痤用计使国君对吴起生疑后，吴起逃离魏国，投奔：\n Option: {'A': '鲁国', 'B': '楚国', 'C': '秦国', 'D': '卫国'}",
+        "translated_question": "After Gong Shu Cuo used a scheme to make the king suspicious of Wu Qi, Wu Qi fled from Wei and sought refuge in which state?  \nOptions: {'A': 'Lu State', 'B': 'Chu State', 'C': 'Qin State', 'D': 'Yan State'}",
+        "reason": "The Chinese question is asking about the state Wu Qi fled to after leaving Wei, which is conveyed in the English translation. However, the English translation includes a discrepancy in the options provided; the Chinese question's options include '卫国' (Wei State), while the English translation has 'Yan State' instead of the correct 'Wei State'. Therefore, while the main question is accurately translated, the options do not match correctly, affecting the overall correctness of the translation."
+    },
+    {
+        "question": "第一届全国评酒会从一百多种酒中，共评出8种国家级名洒，其中白酒4种，分别是（）\n Option: {'A': '贵州茅台', 'B': '泸州老窖大曲', 'C': '陕西西凤酒', 'D': '山西汾酒', 'E': '四川五粮液'}",
+        "translated_question": "What are the names of the 4 types of Baijiu selected from the 8 national-level wines in the first National Wine Evaluation?",
+        "reason": "The Chinese question indicates that there are 4 types of Baijiu that were selected from a total of 8 national-level wines, and it is presented as a fill-in-the-blank question asking for those specific names. The English translation, however, asks for the names in a question format but does not explicitly mention that there are 4 types to be named. The original format implies a request for specific names, while the translation seems to ask for a more general identification of the names without the same emphasis on the quantity. Therefore, while the meaning is partly conveyed, the translation misses the specific requirement of naming exactly 4 types."
+    },
+    {
+        "question": "特香型白酒采用老五甑演变而来的混蒸续茬4甑操作法。\n Option: {'true': '', 'false': ''}",
+        "translated_question": "What is the mixed steaming and continuous operation method evolved from the old five steamer used in the production of fragrant white liquor?",
+        "reason": "The Chinese question presents a statement about a specific method used in the production of fragrant white liquor, specifically the mixed steaming and continuous operation method derived from the old five steamer. The translation presents this as a question, which is not appropriate since the Chinese text does not indicate that it is a question but rather a statement. It should not be framed as a question asking for information, which makes the translation incorrect."
+    },
+    {
+        "question": "明评法又可分为[填空1]和[填空2]。\n Option: None",
+        "translated_question": "What are the two categories into which the method of evaluation can be divided?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the placeholders [填空1] and [填空2], which suggests that it is asking for two specific categories. The English translation, however, does not retain the fill-in-the-blank format and instead rephrases it into a general question format, 'What are the two categories into which the method of evaluation can be divided?'. This means it is not a correct translation according to the given criteria, as it does not follow the required format for fill-in-the-blank questions."
+    },
+    {
+        "question": "一般品尝味的次数应当不超过（）。\n Option: {'A': '两次', 'B': '三次', 'C': '四次', 'D': '五次'}",
+        "translated_question": "How many times should the tastings of the flavor not exceed?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol （ ）, which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation retains the essence of the question but fails to account for the fill-in-the-blank format by not directly asking for a specific number of tastings, thus it does not conform to the specified criteria for a correct translation."
+    },
+    {
+        "question": "请测量自己的身高和体重并计算自己的体质指数（BMI）判断自己的属于哪种肥胖。 [填空1]\n Option: None",
+        "translated_question": "Please measure your height and weight and calculate your Body Mass Index (BMI) to determine what type of obesity you belong to.",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the placeholder '填空1', which suggests that the English translation should be reformatted into a question format without the blank. The provided English translation is a statement rather than a question, thus failing to conform to the criteria for a correct translation."
+    },
+    {
+        "question": "请测量自己的身高和体重并计算自己的肥胖度。 [填空1]\n Option: None",
+        "translated_question": "Please measure your height and weight and calculate your obesity level. What is your obesity level?",
+        "reason": "The Chinese question is a directive asking the person to measure their height and weight and calculate their obesity level. However, the English translation includes 'What is your obesity level?' which indicates a question format with a blank. The Chinese question does not have a blank present; instead, it is a statement directing the action without requiring a response in the same format. Therefore, the English translation does not accurately reflect the original intent of the Chinese question, which is more of an instruction rather than seeking an answer in a question format."
+    },
+    {
+        "question": "[填空1]、创建方案和[填空2]是确定目标的三步曲。\n Option: None",
+        "translated_question": "What are the three steps in determining a goal, including creating a plan and what else?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicating that there are three steps to determine a goal, with two of them explicitly mentioned. The English translation converts this into a question format, asking for the three steps and specifically mentioning 'creating a plan' as one of them. However, it does not accurately reflect the structure of the original question, which provides specific placeholders for the blanks. The English translation does not maintain the fill-in-the-blank format since it does not explicitly ask for two specific steps, but rather implies them. Therefore, it does not meet the criteria for a correct translation."
+    },
+    {
+        "question": "（单选）所谓教学目标就是指通过教学后，学习者在知识与技能、过程和方法、(    )等方面发生的预期的变化。\n Option: {'A': '.领悟与迁移', 'B': '.情感态度和价值观', 'C': '.认知和情感', 'D': '.理解和应用'}",
+        "translated_question": "What is the expected change in knowledge and skills, processes and methods, and what other aspect should be included after teaching?  \nOption: {'A': '.comprehension and transfer', 'B': '.emotional attitudes and values', 'C': '.cognition and emotion', 'D': '.understanding and application'}",
+        "reason": "The Chinese question is a multiple-choice question that indicates a missing aspect of expected changes after teaching, which is represented by the blank ( ). The English translation is phrased as a question about what other aspect should be included, which aligns with the structure of a multiple-choice question. However, it does not maintain the original format as a single-choice question (单选) and fails to reflect the specific context of 'expected changes' as indicated by the Chinese. Therefore, the translation is not entirely correct in terms of both meaning and format."
+    },
+    {
+        "question": "我国中学课程设置的主要类型是( )\n Option: {'A': '活动课程', 'B': '综合课程', 'C': '核心课程', 'D': '分科课程'}",
+        "translated_question": "The main types of secondary school curriculum in our country are ( ).",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol ( ). The English translation retains the blank, which does not conform to the requirement that the translation should be converted into a proper question format without the blank. Therefore, the English translation is not correct."
+    },
+    {
+        "question": "教学是培养智育的唯一途径。\n Option: {'true': '', 'false': ''}",
+        "translated_question": "Is teaching the only way to cultivate intellectual education? (True/False)",
+        "reason": "The Chinese statement is not a question but a declarative statement regarding teaching being the only way to cultivate intellectual education. The English translation transforms this statement into a question format, which is not appropriate because the original Chinese does not indicate a need for such a transformation. Instead, it should simply present the statement without converting it into a question. Hence, the translation is incorrect."
+    },
+    {
+        "question": "侵权责任法》规定的“民事权益”包括：（       ）\n Option: {'A': '生命权、健康权、姓名权、名誉权、荣誉权、肖像权、隐私权', 'B': '婚姻自主权、监护权、发现权、股权、继承权等人身、财产权益', 'C': '所有权、用益物权、担保物权', 'D': '著作权、专利权、商标专用权'}",
+        "translated_question": "The civil rights included in the Tort Liability Law are: (Choose one: A. Right to life, right to health, right to name, right to reputation, right to honor, right to portrait, right to privacy; B. Right to marital autonomy, guardianship rights, discovery rights, equity, inheritance rights and other personal and property rights; C. Ownership, beneficial rights, security rights; D. Copyright, patent rights, trademark exclusive rights)",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol (       ) that asks for the civil rights included in the Tort Liability Law, and it provides multiple options to choose from. The English translation correctly captures the meaning by stating, 'The civil rights included in the Tort Liability Law are:' followed by the options. However, it retains the format of a fill-in-the-blank question by not converting it into a proper question format, which is required. Therefore, while the content is correctly translated, it does not meet the requirement for format adjustment."
+    },
+    {
+        "question": "因紧急避险造成损害的，如果险情是由于人为的原因引起的，则（　   ）\n Option: {'A': '由紧急避险人和引起险情的人承担民事责任', 'B': '由紧急避险人承担民事责任', 'C': '由引起险情的人承担民事责任', 'D': '属于不可抗力，予以免责'}",
+        "translated_question": "If damages are caused by emergency avoidance, and the emergency situation is due to human reasons, what should be done? (请填入选项 A, B, C 或 D)",
+        "reason": "The Chinese question presents a legal scenario regarding liability in the case of emergency avoidance, and it is structured as a fill-in-the-blank question indicated by the blank symbol （　   ）. The English translation, however, does not convert the blank into a proper question format, instead it retains a statement format asking what should be done. The inclusion of '请填入选项 A, B, C 或 D' implies a fill-in-the-blank structure, which is not appropriately reflected in the English translation. Therefore, the translation does not meet the specified criteria."
+    },
+    {
+        "question": "甲4岁儿子乙在玩耍中将邻居丙的3岁小孩丁的眼睛刺伤，花去医药费1万元。该损失应由（       ）承担。\n Option: {'A': '甲和丙分担', 'B': '甲独立承担', 'C': '乙独立承担', 'D': '丙独立承担'}",
+        "translated_question": "The 4-year-old son B injured the eye of the 3-year-old child D of neighbor A while playing, incurring medical expenses of 10,000 yuan. Who should bear the loss? \nOptions: {'A': 'A and C share', 'B': 'B bears it alone', 'C': 'A bears it alone', 'D': 'C bears it alone'}",
+        "reason": "The Chinese question describes a situation involving a 4-year-old son (乙) injuring a 3-year-old child (丁) and the associated medical expenses. The English translation correctly conveys the essence of this situation by stating that the son B injured the eye of the child D and incurred medical expenses. However, the names and roles in the options are incorrectly translated: 'A' should refer to the neighbor (丙), 'B' should refer to the son (乙), and 'C' should refer to the injured child (丁). Therefore, the options provided in the English version do not correspond correctly to the roles defined in the Chinese question. As the options are crucial for understanding the question, this translation fails to accurately reflect the original meaning and relationships."
+    },
+    {
+        "question": "党的十八大以来，党中央从坚持和发展中国特色社会主义全局出发，提出并形成了全面建成小康社会、全面深化改革、全面依法治国、全面从严治党的战略布局，其中，战略举措是（）\n Option: {'A': '全面建成小康社会', 'B': '全面深化改革', 'C': '全面依法治国', 'D': '全面从严治党'}",
+        "translated_question": "The strategic measures proposed by the Central Committee since the 18th National Congress include: what are the strategic measures?",
+        "reason": "The Chinese question discusses the strategic layout formed by the Central Committee since the 18th National Congress and asks for the specific strategic measures, indicated by the blank ( ). The English translation, however, does not accurately capture the essence of the original question; instead of asking for specific options, it generally asks 'what are the strategic measures?', which is not aligned with the original question's structure. Additionally, the translation fails to include the options provided in the Chinese question, which further indicates an incorrect translation. Therefore, the translation is not correct in meaning or format."
+    },
+    {
+        "question": "建设中国特色社会主义事业的根本力量包括（）\n Option: {'A': '工人', 'B': '农民', 'C': '知识分子', 'D': '新的社会阶层'}",
+        "translated_question": "What are the fundamental forces for building the cause of socialism with Chinese characteristics?",
+        "reason": "The Chinese question includes a blank (represented by the parentheses) indicating that it is a fill-in-the-blank type question. The English translation, however, is presented as a general question without a blank. It should have followed the fill-in-the-blank format by implicitly indicating that the answer should be one of the options provided. Thus, the translation does not conform to the formatting rules for fill-in-the-blank questions."
+    },
+    {
+        "question": "第二次中东战争中,以色列军出动10个旅的兵力, 以坦克部队为先导分四路实施快速突击, 一周内占领(     )和加沙地区。 [填空1]\n Option: None",
+        "translated_question": "In the Second Middle East War, the Israeli army deployed 10 brigades of troops, leading with tank units to implement a rapid assault in four directions, occupying (     ) and the Gaza region within a week. What are the locations occupied?",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the blank symbol (     ), which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation retains the blank and adds 'What are the locations occupied?', which does not align with the original format. The translation implies a different structure that does not correctly represent the fill-in-the-blank nature of the original question."
+    },
+    {
+        "question": "越南战争中，美军种族矛盾、官兵矛盾、日益尖锐。据美军统计，在越南战争中被美军士兵打死的军官占军官死亡总数的18%，人数超过多少人？\n Option: {'A': '400人', 'B': '500人', 'C': '800人', 'D': '1000人'}",
+        "translated_question": "What is the number of officers killed by American soldiers during the Vietnam War, given that they accounted for 18% of the total officer deaths, and that this number exceeds a certain threshold?",
+        "reason": "The Chinese question is asking for the number of officers killed by American soldiers during the Vietnam War, specifying that this number exceeds a certain amount. The English translation maintains the core meaning, asking for the same number and indicating the 18% statistic, but it does not specify that the answer must be greater than a certain number (as it does in the Chinese question). This difference in phrasing indicates a lack of alignment in detail between the two versions. Therefore, while the essence is there, the translation does not fully capture the intent of the original question."
+    },
+    {
+        "question": "1961年5月,美国出动特种作战部队进入南越，开始发动由美国出钱出枪、由美国顾问指挥西贡军队进行的（）。 [填空1]\n Option: None",
+        "translated_question": "The operation that began in May 1961 when the United States deployed special operations forces to South Vietnam, funded by American resources and directed by American advisers in the Saigon army is ( ).",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the presence of the blank symbol （）. The English translation retains this blank, which is not acceptable according to the specified criteria that require converting the blank into a proper question format. Therefore, the translation does not meet the requirements for a correct translation despite accurately conveying the meaning."
+    },
+    {
+        "question": "侵越美军为切断南、北方的联系,对“胡志明小道”、北方的军事设施和河内、海防等重要城市实施轰炸，至1968年7月共投弹258万吨,为侵朝战争的（）倍。 [填空1]\n Option: None",
+        "translated_question": "How many times the 258 million tons of bombs dropped by the invading U.S. military is compared to the amount dropped in the Korean War?",
+        "reason": "The Chinese question is structured as a fill-in-the-blank question, indicated by '（ ）', which requires the English translation to be in a proper question format without the blank. The provided English translation, however, presents a statement rather than a direct question format, which is not suitable. Additionally, there is a misunderstanding in the quantity being discussed; the original Chinese mentions '258万吨' (2.58 million tons), but the English translation mistakenly refers to '258 million tons'. This error further complicates the translation accuracy."
+    },
+    {
+        "question": "海湾战争中，美军首次大规模使用 （）巡航导弹。 [填空1]\n Option: None",
+        "translated_question": "In the Gulf War, the US military first used large numbers of ( ) cruise missiles. What type of cruise missiles were they?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol （）. The English translation retains the blank but adds an additional question 'What type of cruise missiles were they?', which is not part of the original Chinese question. The correct translation should not include any additional questions and should directly ask for the missing information without the blank. This results in a misalignment between the formats of the two questions."
+    },
+    {
+        "question": "美国在伊拉克战争付出巨大代价，伤亡总数超过多少人？\n Option: {'A': '3万', 'B': '3.5万', 'C': '3.8万', 'D': '4万'}",
+        "translated_question": "What is the total number of casualties that the United States incurred in the Iraq War? Choose the number that exceeds which option: A) 30,000, B) 35,000, C) 38,000, D) 40,000.",
+        "reason": "The Chinese question asks for the total number of casualties the United States incurred in the Iraq War, specifically inquiring about a number that exceeds a certain threshold. The English translation maintains this meaning by asking for the total number of casualties and providing options that reflect the same figures. However, the phrase 'exceeds which option' in the English translation is somewhat misleading as the original question does not directly state 'exceeds', but rather implies a question about the total number of casualties exceeding a certain number without explicitly stating it. Therefore, while the general meaning is preserved, the phrasing creates ambiguity. The lack of clarity makes the translation not entirely accurate."
+    },
+    {
+        "question": "车臣战争中，以美国为首的西方国家开始不断指责俄军违反了《日内瓦公约》，声称对俄罗斯军事打击时。俄罗斯武装力量第一副总参谋长马尼洛夫对外宣布，在俄及其盟友遭到侵略的情况下，俄怎么样使用核武器？\n Option: {'A': '可以', 'B': '有权', 'C': '将会', 'D': '必须'}",
+        "translated_question": "In the Chechen War, Western countries led by the United States began to accuse the Russian military of violating the Geneva Conventions, claiming that during military strikes against Russia. The First Deputy Chief of the General Staff of the Russian Armed Forces, Manilov, announced that in the case of aggression against Russia and its allies, Russia __________ use nuclear weapons. \nOptions: {'A': 'can', 'B': 'has the right', 'C': 'will', 'D': 'must'}",
+        "reason": "The Chinese question appears to be a fill-in-the-blank question as indicated by the blank symbol (___), which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation retains the blank, which does not conform to the specified criteria for a correct translation. Additionally, the phrase 'claiming that during military strikes against Russia' is incomplete and does not accurately reflect the structure of the original Chinese sentence. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "阿富汗战争中，苏联在国际社会压力下,被迫于1982年6月同意在联合国主持下举行(   )间接会谈，但未能在实质性问题上达成协议。 [填空1]\n Option: None",
+        "translated_question": "In the Afghanistan War, under international pressure, the Soviet Union was forced to agree to hold indirect talks under the auspices of the United Nations in June 1982, but failed to reach an agreement on substantive issues. What were the indirect talks?",
+        "reason": "The Chinese question includes a fill-in-the-blank section indicated by the blank (   ), which suggests that the English translation should be reformatted into a proper question without the blank. However, the provided English translation incorrectly retains the essence of the original question by turning it into a question asking 'What were the indirect talks?', which does not capture the intended meaning of filling in a specific piece of information. Thus, the translation does not meet the criteria for correct translation."
+    },
+    {
+        "question": "系统论的原理告诉我们：整体大于[填空1]之和。一个产品及其有关问题并不是相关要素的简单相加，只有协调好各要素的关系才能充分发挥它的作用。\n Option: None",
+        "translated_question": "What is the whole greater than?",
+        "reason": "The Chinese question presents a fill-in-the-blank format regarding the principle of systems theory, specifically stating '整体大于[填空1]之和', which translates to 'the whole is greater than the sum of [blank]'. The English translation 'What is the whole greater than?' does not accurately reflect the original structure or meaning of the Chinese question, as it does not retain the fill-in-the-blank query. Instead, it poses a general question without an indication of what should be filled in, making it an incorrect translation."
+    },
+    {
+        "question": "用户和客户所定位的群体一样\n Option: {'true': '', 'false': ''}",
+        "translated_question": "Are the target groups identified by users and clients the same? (True/False)",
+        "reason": "The Chinese question presents a statement implying that the target groups identified by users and clients are the same, while the English translation rephrases it into a question format asking if they are the same, which is appropriate. However, the original Chinese statement does not explicitly call for a true/false response format, and the option provided as (True/False) implies a binary choice rather than the simple agreement or disagreement with the statement. Therefore, while the meaning is generally conveyed, the format is not fully aligned with the original intent."
+    },
+    {
+        "question": "造型美观是产品存在的根本，是消费者选择的依据。\n Option: {'true': '', 'false': ''}",
+        "translated_question": "Is aesthetic design fundamental to the existence of a product and the basis for consumers' choices? {'true': '', 'false': ''}",
+        "reason": "The Chinese question makes a statement about the importance of aesthetic design in relation to the existence of a product and consumer choice. The English translation, however, transforms this statement into a yes/no question, which is not an appropriate format because the original Chinese does not indicate a question but rather states a fact. Therefore, the translation does not accurately reflect the original meaning and format."
+    },
+    {
+        "question": "功能定义原则上使用一个[填空1]加一个[填空2]的方式来描述。例如手表的功能是显示时间，冰箱的功能是保持低温。\n Option: None",
+        "translated_question": "The principle of functional definition is described by using one element plus one element. For example, what is the function of a watch and what is the function of a refrigerator?",
+        "reason": "The Chinese question is structured as a statement explaining how the principle of functional definition is constructed, with examples given afterward. The English translation, however, turns it into a question format asking for the functions of a watch and a refrigerator, which diverges from the original intent of the Chinese statement. The translation should reflect the statement format rather than converting it into a question, and it does not properly address the fill-in-the-blank structure indicated in the Chinese text."
+    },
+    {
+        "question": "可以说形是态的[填空1]。态是形的精神保障。\n Option: None",
+        "translated_question": "Form can be said to be the [blank] of state. State is the spiritual guarantee of form.",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by [填空1], which requires the English translation to be in a question format without the blank. The provided English translation retains the blank, which does not conform to the specified criteria for a correct translation. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "我们讲民族背景，实质上是讲民族文化。中华民族背景可以说是多元文化的（）   ，美国的民族背景实质上是多元文化的（）\n Option: {'A': '融合. 聚合', 'B': '汇合. 堆砌', 'C': '堆砌. 融合', 'D': '汇合. 聚合'}",
+        "translated_question": "When we talk about ethnic background, we are essentially talking about ethnic culture. The background of the Chinese nation can be described as a multi-cultural (____), and the ethnic background of the United States is essentially a multi-cultural (____). What are the terms that can complete the sentences?",
+        "reason": "The Chinese question contains fill-in-the-blank sections indicated by the parentheses (）， which require the English translation to be reformatted into a proper question format without the blanks. The provided English translation retains the blanks, which does not conform to the specified criteria for a correct translation. Additionally, the phrase 'What are the terms that can complete the sentences?' suggests a response is needed, but it still does not correctly align with the fill-in-the-blank format. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "陆羽所著的《茶经》中，有专门关于泡茶用水的论述，书中认为最宜泡茶的水是 （ ）\n Option: {'A': '泉水', 'B': '井水', 'C': '江水', 'D': '河水'}",
+        "translated_question": "What is the most suitable water for brewing tea according to Lu Yu's \"The Classic of Tea\"?  \nOption: {'A': 'spring water', 'B': 'well water', 'C': 'river water', 'D': 'lake water'}",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol （ ），which implies that the English translation should be reformatted into a proper question format without the blank. The English translation provided does not maintain this format, as it has a question structure but does not have a blank. Additionally, the translation of the options includes 'lake water' instead of 'river water' for option D, which is a discrepancy in the content. Therefore, the translation is incorrect both in format and in content."
+    },
+    {
+        "question": "炒青、烘青、晒青是（ ）按干燥方式不同划分的三个种类。\n Option: {'A': '绿茶', 'B': '红茶', 'C': '青茶', 'D': '白茶'}",
+        "translated_question": "Stir-fried green tea, baked green tea, and sun-dried green tea are three types of tea classified by different drying methods. What type of tea are they? Options: {'A': 'Green tea', 'B': 'Black tea', 'C': 'Green tea', 'D': 'White tea'}",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol ( ). The English translation retains the meaning of the Chinese question but formats it incorrectly by including a question format 'What type of tea are they?' while also having a blank, which is not appropriate for the fill-in-the-blank format. Additionally, the options provided in the English translation include 'Green tea' twice and 'Black tea' instead of 'Oolong tea', which is the correct translation for '青茶'. Therefore, the translation is inaccurate in both format and content."
+    },
+    {
+        "question": "基本茶类分为不发酵的绿茶类及（ ）的黑茶类。\n Option: {'A': '重发酵', 'B': '后发酵', 'C': '轻发酵', 'D': '全发酵'}",
+        "translated_question": "Basic types of tea are divided into unfermented green tea and what type of fermentation is associated with black tea?",
+        "reason": "The Chinese question is asking about the type of fermentation associated with black tea, which suggests a fill-in-the-blank format where an answer should be provided. However, the English translation does not follow this format but instead poses a question about the type of fermentation. This indicates a misunderstanding of the format required. The original Chinese question implies a blank that should be replaced with a question format, but the translation does not effectively convert this fill-in-the-blank into a correct question format."
+    },
+    {
+        "question": "脑力劳动者崇尚雅致的（   ）泡茶，细品缓啜。\n Option: {'A': '茶杯', 'B': '茶盅', 'C': '茶碗', 'D': '茶壶'}",
+        "translated_question": "Intellectual workers advocate for elegant tea brewing. What should be used for brewing tea? {'A': 'teacup', 'B': 'tea bowl', 'C': 'tea cup', 'D': 'teapot'}",
+        "reason": "The Chinese question is a fill-in-the-blank question, as indicated by the blank symbol (   ), which means the English translation should also be reformatted into a proper question without the blank. The provided English translation states 'What should be used for brewing tea?' which correctly transforms the statement into a question format without retaining the blank. However, the translation does not accurately capture the full meaning of the original Chinese sentence, which emphasizes the elegance in the context of tea preparation. Therefore, while the format is correct, the translation lacks some nuance, resulting in an overall incorrect interpretation."
+    },
+    {
+        "question": "在哪一个英文平台上的“Authors”栏目下，不仅能提交论文，还能跟踪论文处理进度？\n Option: {'A': 'Elsevier ScienceDirect', 'B': 'Springer Link', 'C': 'Wiley Online Library', 'D': 'Oxford Journals Collection'}",
+        "translated_question": "On which English platform's \"Authors\" section can you not only submit papers but also track the processing progress of the papers?",
+        "reason": "The Chinese question asks about an English platform's 'Authors' section where one can submit papers and track their processing progress. The English translation, however, incorrectly uses 'cannot' instead of 'can,' which changes the meaning of the question. The correct translation should maintain the affirmative phrasing found in the Chinese version."
+    },
+    {
+        "question": "“开放新闻运动”是由_____发起的。\n Option: {'A': 'BBC', 'B': 'CNN', 'C': '卫报'}",
+        "translated_question": "“Open News Movement” was initiated by _____?",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the blank (_____). The English translation, however, ends with a question mark and retains the blank format, which is not correct. The English translation should instead ask 'Who initiated the “Open News Movement”?', converting the blank into a proper question format without retaining the blank itself. Therefore, the translation does not conform to the required format."
+    },
+    {
+        "question": "跨媒体叙事与多媒体叙事相比，最重要的特征是对受众的[填空1]不同。\n Option: None",
+        "translated_question": "What is the most important feature of cross-media narratives compared to multimedia narratives in terms of the audience's difference?",
+        "reason": "The Chinese question is a fill-in-the-blank question, as indicated by the placeholder [填空1]. The English translation, however, does not convert the blank into a proper question format. Instead, it retains the wording as if it were a statement, which does not align with the requirement to present it as a question without the blank. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "伯克利大学从1930-1990年代对200人的追踪调查发现，乐于助人的青少年（）\n Option: {'A': '未来会更成功', 'B': '未来的生活习惯更好', 'C': '有更强的社会竞争力', 'D': '以上三者都是'}",
+        "translated_question": "A study conducted by the University of California, Berkeley from the 1930s to the 1990s found that helpful teenagers are likely to ( ). What will they be more likely to achieve in the future? A: more successful, B: have better life habits, C: have stronger social competitiveness, D: all of the above?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the empty parentheses ( ). The English translation should reflect this format as a proper question without including a blank. However, the translation has transformed the original question into a different format by asking what helpful teenagers are likely to achieve in the future, which deviates from the original structure. Furthermore, the options in the English translation are not presented clearly as multiple choices following the question. Thus, the translation does not maintain the intended question format and meaning appropriately."
+    },
+    {
+        "question": "已知[Ni(CO)4]为反磁性，那么它是内轨型的吗？\n Option: {'A': '是', 'B': '不是'}",
+        "translated_question": "Is [Ni(CO)4] diamagnetic? Is it an inner transition metal?",
+        "reason": "The Chinese question asks whether [Ni(CO)4] is a diamagnetic substance and if it is an inner transition metal, which is accurately reflected in the English translation. However, the Chinese question does not pose a separate question about being an inner transition metal; instead, it asks if it is diamagnetic and if it is of a certain type (inner transition metal). The translation misrepresents the structure by separating these two ideas into distinct questions, which alters the original meaning. Therefore, the translation is incorrect in that it fails to maintain the original structure and meaning of the question."
+    },
+    {
+        "question": "当d电子数分别为( )的时候，无论是强场还是弱场配体与中心离子的d轨道发生作用后，d轨道当中的电子的排列方式都只有一种状态。\n Option: {'A': '1,2,3', 'B': '7,8,9', 'C': '4,5,6,7', 'D': '1,2,3,8,9,10'}",
+        "translated_question": "When the number of d electrons is what, regardless of whether it is a strong field or weak field, does the arrangement of electrons in the d orbitals after interacting with the central ion have only one configuration?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol ( ). The English translation should therefore rephrase the question to remove the blank and instead ask in a complete question format. The provided English translation retains the phrase 'what,' which does not conform to the requirement of being a complete question without the blank. Thus, the translation is incorrect in format."
+    },
+    {
+        "question": "现有100个相互接近的独立的相同声源同时发声，声强级达到100dB.欲使声强级降至到80dB,需要关闭的电源个数为：[填空1]\n Option: None",
+        "translated_question": "How many sound sources need to be turned off to reduce the sound intensity level from 100 dB to 80 dB?",
+        "reason": "The Chinese question indicates a fill-in-the-blank format with a missing blank (填空1), which requires the English translation to be in a question format without a blank. However, the provided English translation, while capturing the essence of the question, does not follow the required format as it does not ask for a specific answer but rather poses a general question. Therefore, the translation does not correctly adhere to the criteria for a fill-in-the-blank question."
+    },
+    {
+        "question": "在相同温度下，氮气和氧气相比，速率分布函数显得（  ）\n Option: {'A': '更宽更高', 'B': '更宽更矮', 'C': '更窄更高', 'D': '更窄更矮'}",
+        "translated_question": "At the same temperature, how does the speed distribution function of nitrogen compare to that of oxygen?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol (  ), which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation does not maintain the fill-in-the-blank format and instead asks a question about the comparison, which is not a direct translation of the original format. Therefore, the translation is incorrect in format."
+    },
+    {
+        "question": "“28”自行车车轮直径为71.12cm（相当于28英寸），内胎截面直径为3.0cm。在-3℃的天气里向内胎里打气。打气筒长30cm，截面半径1.5cm。打了20下，气打足了，问此时车胎内压强是多少？设车胎内最后气体温度为7摄氏度。请输入车胎内的压强（atm）[填空1];结果保留两位有效数字\n Option: None",
+        "translated_question": "What is the pressure inside the tire (in atm) after pumping it 20 times, assuming the final temperature of the gas inside the tire is 7 degrees Celsius? Please enter the pressure with the result retained to two significant figures.",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the phrase '请输入车胎内的压强（atm）[填空1];结果保留两位有效数字', which requires a reformatted question in English without the blank. The provided English translation, however, does not incorporate a specific question format that indicates a fill-in-the-blank scenario, such as 'What is the pressure inside the tire (in atm)?'. Instead, it presents a statement format that does not match the intention of the original question. Therefore, the translation is incorrect in format, even though the content is mostly accurate."
+    },
+    {
+        "question": "（接上题）利用第一和第二个数计算阿佛加德罗常数的值为：[填空1]×1023；保留两位有效数字\n Option: None",
+        "translated_question": "(Continuing from the previous question) Use the first and second numbers to calculate the value of Avogadro's constant as: What is the value that, when multiplied by 10²³, gives the result, retaining two significant figures?",
+        "reason": "The Chinese question contains a fill-in-the-blank format indicated by '填空1', which suggests that it is asking for a specific value. The English translation, however, does not follow the required format, as it includes 'What is the value that, when multiplied by 10²³, gives the result...' instead of simply asking for the value directly without the blank. This indicates a misinterpretation of the question type, and therefore the translation is incorrect in terms of format."
+    },
+    {
+        "question": "乙醛与丙酮在碱性条件下加热后生成的产物有(    )\n Option: {'A': '1种', 'B': '2种', 'C': '3种', 'D': '4种'}",
+        "translated_question": "What are the products generated after heating acetaldehyde and acetone under alkaline conditions?",
+        "reason": "The Chinese question asks about the number of products generated (with a blank) after heating acetaldehyde and acetone under alkaline conditions. However, the English translation poses it as a general question about the products themselves rather than focusing on the number of products, which is what the Chinese question implies. This results in a mismatch of meaning and format; the English translation should have been framed to specify the number of products instead of asking for the products themselves."
+    },
+    {
+        "question": "设(A=begin{pmatrix}0&1&11&0&12&3&4end{pmatrix}), 令P=____, PA有LU分解_____.\n Option: {'A': '$begin{pmatrix}0&amp;1&amp;01&amp;0&amp;00&amp;0&amp;1end{pmatrix}, begin{pmatrix}1&amp;&amp;0&amp;1&amp;-2&amp;-3&amp;1end{pmatrix}begin{pmatrix}1&amp;0&amp;1&amp;1&amp;1&amp;&amp;-1end{pmatrix}$', 'B': '$begin{pmatrix}0&amp;1&amp;01&amp;0&amp;00&amp;0&amp;1end{pmatrix}, begin{pmatrix}1&amp;&amp;0&amp;1&amp;2&amp;3&amp;1end{pmatrix}begin{pmatrix}1&amp;0&amp;1&amp;1&amp;1&amp;&amp;-1end{pmatrix}$', 'C': '$begin{pmatrix}0&amp;0&amp;10&amp;1&amp;01&amp;0&amp;0end{pmatrix}, begin{pmatrix}1&amp;&amp; frac{1}{2}&amp;1&amp;0&amp;-frac{2}{3}&amp;1end{pmatrix}begin{pmatrix}2&amp;3&amp;4&amp;-frac{3}{2}&amp;-1&amp;&amp;1end{pmatrix}$'}",
+        "translated_question": "Let \\( A = \\begin{pmatrix} 0 & 1 & 1 \\\\ 0 & 12 & 3 \\\\ 4 \\end{pmatrix} \\). What is \\( P \\) and what is the LU decomposition of \\( PA \\)?",
+        "reason": "The Chinese question seems to involve matrices and asks for the matrix \\( P \\) and the LU decomposition of the product \\( PA \\). However, the English translation incorrectly states the matrix \\( A \\) and does not capture the fill-in-the-blank format of the original question, which is indicated by the blanks for \\( P \\) and the LU decomposition. The translation should have formatted these as questions instead of retaining the blanks. Therefore, the translation does not accurately reflect the original question's structure or purpose."
+    },
+    {
+        "question": "计算行列式(begin{vmatrix}a&amp;a&amp;aa&amp;b&amp;ba&amp;b&amp;cend{vmatrix}).\n Option: {'A': '(a(a-b)(b-c))', 'B': '(abc)', 'C': '0', 'D': '(a(ab+bc+ca))'}",
+        "translated_question": "Calculate the determinant \\( \\begin{vmatrix} a & a & a \\\\ b & ba & b \\\\ c &  &  \\end{vmatrix} \\).",
+        "reason": "The Chinese question is asking to calculate the determinant of a matrix, but the English translation incorrectly presents the matrix with missing elements, specifically in the second row and third column. Moreover, it also translates '行列式' correctly as 'determinant'. However, the structure of the matrix is not accurately represented in the English translation, leading to a misrepresentation of the problem. Therefore, the translation is incorrect in terms of both content and format."
+    },
+    {
+        "question": "求((1,2,3,4),(2,1,3,5))张成三角形面积.\n Option: {'A': '4', 'B': '(frac{9}{2})', 'C': '9'}",
+        "translated_question": "Find the area of the triangle formed by the points \\((1, 2)\\), \\((2, 1)\\), and \\((3, 4)\\).",
+        "reason": "The Chinese question is asking for the area of a triangle formed by the points given in the coordinate pairs. However, the English translation contains an error in the coordinates; it states \\((1, 2)\\), \\((2, 1)\\), and \\((3, 4)\\) instead of the correct coordinates \\((1, 2)\\), \\((2, 1)\\), and \\((3, 5)\\). This discrepancy makes the translation incorrect as it alters the input data needed to solve the problem."
+    },
+    {
+        "question": "4. $ y=x^2 (x-1)^3,x in [0,1] $(填入一位小数)$x=$[填空1]\n Option: None",
+        "translated_question": "4. $ y=x^2 (x-1)^3, x \\in [0,1] $ (Fill in one decimal place) What is the value of $x$?",
+        "reason": "The Chinese question presents a mathematical expression and indicates that a value for \\( x \\) should be filled in, suggesting a fill-in-the-blank format. The English translation, however, converts this into a question asking 'What is the value of \\( x \\)?', which is not appropriate since it retains the blank format. Therefore, the translation does not conform to the requirements for a fill-in-the-blank question."
+    },
+    {
+        "question": "请自行验证下面函数在给定区间满足罗尔定理的条件，将满足定理的点$xi$填入框中1. $ y=x^2-4x-2,x in [0,4] $$x=$[填空1]\n Option: None",
+        "translated_question": "Please verify that the following function satisfies the conditions of Rolle's Theorem in the given interval, and what is the point $x_i$ that satisfies the theorem: 1. $y = x^2 - 4x - 2, x \\in [0, 4]$?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the prompt to fill in a value for $x_i$. The English translation, however, does not convert the blank into a proper question format but instead asks 'what is the point $x_i$ that satisfies the theorem', which implies a question format without a blank. This suggests a misunderstanding of the format required for the translation. Therefore, the translation is incorrect in terms of format."
+    },
+    {
+        "question": "$f(x) = x^2 + 1/x^2, x in mathbb{R}^+$$x=$[填空1]$f(x)=$[填空2]\n Option: None",
+        "translated_question": "If $x$ is in $\\mathbb{R}^+$, what is the value of $x$ and what is $f(x)$ if the function is defined as $f(x) = x^2 + \\frac{1}{x^2}$?",
+        "reason": "The Chinese question includes fill-in-the-blank sections indicated by [填空1] and [填空2], which suggests that the question is asking for specific values or results for $x$ and $f(x)$, respectively. The English translation, however, does not convert this format into a proper question without the blanks but instead presents it as a statement. The translation fails to adhere to the requirement of reformulating fill-in-the-blank questions into proper question format, thus making it incorrect."
+    },
+    {
+        "question": "$f(x) = x^2-2x$$x=$[填空1]$f(x)=$[填空2]\n Option: None",
+        "translated_question": "Given the function $f(x) = x^2 - 2x$, if $x$ is equal to what value, what is $f(x)$? What is $f(x)$ when $x$ is equal to what other value?",
+        "reason": "The Chinese question contains two fill-in-the-blank sections indicated by [填空1] and [填空2], which require direct questions without blanks in the English translation. However, the English translation maintains a question format but introduces confusion by repeating the phrase 'what value' and 'what other value', which does not align with the original structure of the Chinese question. The translation fails to clarify what specific values are being requested for $x$ and $f(x)$, and it does not follow the expected format for fill-in-the-blank questions. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "求下面函数的极值点并将其填入下面的括号中(不是整数的四舍五入写成两位小数)$f(x) = x^{frac{2}{3}}$$x=$[填空1]$f(x)=$[填空2]\n Option: None",
+        "translated_question": "Find the extreme points of the following function and provide the values (round non-integer values to two decimal places): $f(x) = x^{\\frac{2}{3}}$. What are the values of $x$ and $f(x)$ that you will fill in the blanks?",
+        "reason": "The Chinese question asks for the extreme points of a function and specifies that non-integer values should be rounded to two decimal places. The English translation correctly conveys this meaning and structure, but it retains the concept of blanks by asking 'What are the values of $x$ and $f(x)$ that you will fill in the blanks?' which indicates a fill-in-the-blank format rather than a direct question format. The translation does not strictly adhere to the requirement for a proper question format without blanks. Therefore, while the meaning is mostly correct, the format is not."
+    },
+    {
+        "question": "求下面函数的极值点并将其填入下面的括号中(不是整数的四舍五入写成两位小数)$f(x) = x^{frac{2}{3}}$$x=$和$f(x)=$[填空1]和[填空2]\n Option: None",
+        "translated_question": "What are the extreme points of the following function? Please round non-integer values to two decimal places: $f(x) = x^{\\frac{2}{3}}$. What are the values of $x$ and $f(x)$?",
+        "reason": "The Chinese question asks for the extreme points of a function and specifies that non-integer values should be rounded to two decimal places, indicating a fill-in-the-blank format with two blanks for the values of $x$ and $f(x)$. The English translation, however, does not convert the blanks into a proper question format and instead retains the structure of asking for values. It should have asked 'What are the extreme points of the following function?' without including the blanks. Thus, the translation does not meet the criteria for a correct translation."
+    },
+    {
+        "question": "基底函数前面的系数是_________。\n Option: {'A': '已知的', 'B': '未知的'}",
+        "translated_question": "What is the coefficient in front of the base function? (Fill in: 'known' or 'unknown')",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank space '_________'. The English translation should be converted into a question format without the blank. However, the translation provided maintains the wording 'What is the coefficient in front of the base function?', which does not align with the fill-in-the-blank format. Instead, it should have clearly indicated that the respondent is to choose between 'known' or 'unknown'. Therefore, the translation is incorrect in terms of format."
+    },
+    {
+        "question": "其位移模式是尽量取完全高阶多项式的项次__________\n Option: {'A': '是', 'B': '否', 'C': '不一定'}",
+        "translated_question": "Is the displacement pattern to take the terms of a complete high-order polynomial as much as possible? A, B, or C?",
+        "reason": "The Chinese question is in a fill-in-the-blank format, indicated by the blank space after '项次'. The English translation should reflect this by converting the statement into a question format without the blank, which it does by asking if the displacement pattern is to take the terms of a complete high-order polynomial as much as possible. However, it fails to convey the multiple-choice options correctly; it presents them as 'A, B, or C' instead of clearly indicating the options like in the Chinese version. This inconsistency in presenting the structure of the question makes the translation incorrect."
+    },
+    {
+        "question": "所采用的Kirchhoff假定主要是针对薄板的厚度方向的特征，即薄板中面法线变形后为__________\n Option: {'A': '曲线', 'B': '直法线'}",
+        "translated_question": "What is the characteristic of the normal line in the thin plate after deformation: is it 'curved' or 'straight'?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol '__________', which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation does not maintain the fill-in-the-blank format and instead poses a question about the characteristics of the normal line, which is a correct interpretation of the content but does not comply with the necessary format change. Therefore, the translation is not correct."
+    },
+    {
+        "question": "基于全量理论的结果与加载过程_____。\n Option: {'A': '无关', 'B': '有关'}",
+        "translated_question": "Is the result based on the full-scale theory related to the loading process?",
+        "reason": "The Chinese question presents a fill-in-the-blank format, indicated by the blank after '加载过程'. The English translation reformulates this into a question format, which is appropriate. However, the original Chinese question offers two options ('无关' and '有关'), suggesting a binary choice rather than a simple yes/no question format used in the English translation. The translation fails to accurately reflect the structure and intent of the original question, which is to select one of the options rather than asking if they are related."
+    },
+    {
+        "question": "Fill in the blank∣∣∣−1−12−4∣∣∣=[填空1].\n Option: None",
+        "translated_question": "What is the value of ∣∣−1−12−4∣∣?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the phrase 'Fill in the blank' and the presence of a blank (填空1) to be filled. The English translation, however, presents it as a question asking for the value of a mathematical expression without converting the blank into a question format. This does not align with the requirements for a correct translation of a fill-in-the-blank question."
+    },
+    {
+        "question": "For the circuit,U=[填空1]V\n Option: None",
+        "translated_question": "What is the value of U in the circuit if U = ___ V?",
+        "reason": "The Chinese question appears to be a fill-in-the-blank question, indicated by the presence of '[填空1]', which suggests a missing value for U. The English translation attempts to reformulate this into a question format, but it retains the blank ('___') instead of stating it as a complete question. The correct format should not include a blank but rather ask directly for the value of U. Therefore, the translation does not adhere to the specified criteria."
+    },
+    {
+        "question": "Solve the power absorbed by the circuits formed by NMOS in figure (a) two inputs NAND gate and figure (b) two inputs NOR gate, when both two inputs are logic “1”. The given conditions are voltage sourceUS=5V, MOSFET’s on resistanceRon=270Ωand load resistanceRL=100kΩ.For Figure (a),P=[填空1]mW:For Figure (b),P=[填空2]mW:\n Option: None",
+        "translated_question": "What is the power absorbed by the circuits formed by NMOS in figure (a) of a two-input NAND gate and figure (b) of a two-input NOR gate, when both inputs are logic \"1\"? The given conditions are voltage source US = 5V, MOSFET's on resistance Ron = 270Ω, and load resistance RL = 100kΩ. What is P for figure (a) in mW? What is P for figure (b) in mW?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the placeholders [填空1] and [填空2], which require the English translation to be reformatted into a proper question format without these blanks. The provided English translation, however, retains a question format that asks for P in both figures but does not appropriately replace the blanks with the question format. The format is incorrect since it still implies a blank rather than a direct question. Therefore, it does not conform to the criteria for a correct translation."
+    },
+    {
+        "question": "The relationship between the voltage and the current of the nonlinear resistor isu=2i+i3. Wheni=1A, find the static resistanceRs=[填空1]Ωand dynamic resistanceRd=[填空2]Ω; Wheni=2A, find the static resistanceRs=[填空3]Ωand dynamic resistanceRd=[填空4]Ω.\n Option: None",
+        "translated_question": "The relationship between the voltage and the current of the nonlinear resistor is \\( u = 2i + i^3 \\). When \\( i = 1A \\), what are the static resistance \\( R_s \\) and dynamic resistance \\( R_d \\)? When \\( i = 2A \\), what are the static resistance \\( R_s \\) and dynamic resistance \\( R_d \\)?",
+        "reason": "The Chinese question contains fill-in-the-blank sections indicated by the symbols [填空1], [填空2], [填空3], and [填空4] for static and dynamic resistance. The English translation, however, incorrectly formats these as questions without blanks, using 'what are' instead of providing a direct fill-in-the-blank format. Since the English translation does not accommodate the fill-in-the-blank nature of the Chinese question, it is not a correct translation."
+    },
+    {
+        "question": "As the circuit shown in the following figure, the volt-ampere characteristics of the two nonlinear resistors areThe current source IS = 8A, iS(t) = 0.2cos1000t A(can be seen as small signal). Findu=[填空1]+[填空2]cos1000t Vi1=[填空3]+[填空4]cos1000t Ai2=[填空5]+[填空6]cos1000t A in the circuit.\n Option: None",
+        "translated_question": "As the circuit shown in the following figure, the volt-ampere characteristics of the two nonlinear resistors are given. The current source IS = 8A, iS(t) = 0.2cos1000t A (can be seen as a small signal). What are the values of u, Vi1, and Ai2 in the circuit? Fill in the blanks: u = [blank1] + [blank2]cos1000t, Vi1 = [blank3] + [blank4]cos1000t, Ai2 = [blank5] + [blank6]cos1000t.",
+        "reason": "The Chinese question includes fill-in-the-blank components indicated by blanks (填空) and is structured to require specific values for variables in the circuit. The English translation, however, retains the fill-in-the-blank format by stating 'Fill in the blanks', which is not a correct conversion as it does not change the format to a question without blanks. Instead, it should have asked for the values directly without indicating blanks. Therefore, the translation does not meet the criteria for a correct translation."
+    },
+    {
+        "question": "Fill in the blankFor the hysteresis comparator, its hysteresis width=[填空1]Usat.\n Option: None",
+        "translated_question": "The hysteresis width for the hysteresis comparator is [ ] Usat.",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by '填空1', which means that the English translation should be reformatted into a proper question format without the blank. However, the provided English translation retains the blank format '[ ]', which does not conform to the specified criteria for a correct translation. Therefore, the translation is incorrect in format."
+    },
+    {
+        "question": "Fill in the blanksFor the zero state circuit below,iR(1s)=[填空1]A.\n Option: None",
+        "translated_question": "What is the value of iR(1s) for the zero state circuit below?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by '填空1', which implies that a specific value is required to complete the statement. The English translation, however, does not follow the format required for fill-in-the-blank questions. Instead, it is presented as a question asking for a value, which fails to meet the criteria for proper translation of a fill-in-the-blank question."
+    },
+    {
+        "question": "Fill in the blank and single option selectionwhich isthe capacitance required to increase the power factor to 0.9.\n Option: {'A': 'higher than', 'B': 'lower than', 'C': 'same as'}",
+        "translated_question": "The capacitance required to increase the power factor to 0.9 is ( ). Choose one option: {'A': 'higher than', 'B': 'lower than', 'C': 'same as'}.",
+        "reason": "The Chinese question is a fill-in-the-blank question, as indicated by the blank symbol and the instruction to fill it in. The English translation, however, retains the blank in the format 'is ( )', which is not appropriate for a fill-in-the-blank question. Instead, the translation should have reformatted the statement into a question without the blank, such as 'What is the capacitance required to increase the power factor to 0.9?'. Therefore, the translation does not conform to the specified criteria."
+    },
+    {
+        "question": "As the circuit shown in the figure, we know thatUS=10V. When the transformation ratio of the ideal transformer isn=[填空1], the load resistance of6Ωwould get the maximum power. And the value isPmax=[填空2]W.\n Option: None",
+        "translated_question": "As shown in the circuit in the figure, we know that US = 10V. When the transformation ratio of the ideal transformer is n, what is the value of n that would allow the load resistance of 6Ω to get the maximum power? What is the value of Pmax?",
+        "reason": "The Chinese question includes fill-in-the-blank sections indicated by the placeholders [填空1] and [填空2]. The English translation attempts to convert these into questions, which is appropriate for the format. However, it does not explicitly mention the need for the values to be filled in, thus it does not completely align with the Chinese format of being a fill-in-the-blank question. The translation conveys the meaning but fails to maintain the correct structure of the original question format. Therefore, the translation is not entirely correct."
+    },
+    {
+        "question": "As the circuit shown in the figure, the line voltage of balanced three phase source isU˙AB=380∠30oVand the impedances areZ1=50+j50Ω，ZA=ZB=ZC=50+j100Ω.The value of A phase currentI˙Ais [填空1]A and the phase angle of it is [填空2]degree;The value of B phase currentI˙Bis [填空3]A and the phase angle of it is [填空4]degree;The value of C phase currentI˙Cis [填空5]A and the phase angle of it is [填空6]degree.\n Option: None",
+        "translated_question": "In the circuit shown in the figure, the line voltage of the balanced three-phase source is \\( U_{AB} = 380 \\angle 30^\\circ V \\) and the impedances are \\( Z_1 = 50 + j50 \\, \\Omega \\), \\( Z_A = Z_B = Z_C = 50 + j100 \\, \\Omega \\). What is the value of the A phase current \\( I_A \\) in A and what is its phase angle in degrees? What is the value of the B phase current \\( I_B \\) in A and what is its phase angle in degrees? What is the value of the C phase current \\( I_C \\) in A and what is its phase angle in degrees?",
+        "reason": "The Chinese question contains multiple fill-in-the-blank segments, indicated by the placeholders for the phase currents and their corresponding angles. The English translation, however, reformats the question into a comprehensive inquiry without retaining the fill-in-the-blank format. It poses a series of questions regarding the values and angles of the phase currents for A, B, and C phases, which is more of a statement format rather than explicitly asking for individual fill-in-the-blank responses. Thus, it does not align with the required format for a correct translation."
+    },
+    {
+        "question": "序列最小最优化算法（SMO）的基本思路是：如果所有变量的解都满足此最优化问题的（）条件，那么得到解；否则，选择（）个变量，固定其他变量，针对其构建一个二次规划问题，称为子问题。\n Option: {'A': 'KTT，一个', 'B': 'KTT，两个', 'C': 'KKT，两个', 'D': 'KKT，一个'}",
+        "translated_question": "The basic idea of the Sequential Minimal Optimization (SMO) algorithm is: if the solutions of all variables satisfy the optimization problem's (KKT) condition, then a solution is obtained; otherwise, how many variables should be selected? Fix the other variables and construct a quadratic programming problem for them, called a subproblem.",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the presence of two blanks (分别是（ ）和（ ）) that need to be filled with options. However, the English translation does not maintain the fill-in-the-blank format and instead poses a different question about how many variables should be selected, which is not a direct translation of the original question. Therefore, the translation does not accurately reflect the original question's structure or intent."
+    },
+    {
+        "question": "在PHP中，标识符允许包含字母、[填空1]和[填空2]。\n Option: None",
+        "translated_question": "In PHP, identifiers are allowed to contain letters, what other characters can they include?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the placeholders for the blanks. The English translation, however, does not maintain the fill-in-the-blank format and instead asks a different type of question. The translation should have been converted into a statement or a question reflecting the need to fill in the specific characters. Therefore, the translation does not accurately convey the original meaning or format."
+    },
+    {
+        "question": "2. PHP中数组元素是由[填空1]和[填空2]组成的。\n Option: None",
+        "translated_question": "What are [blank1] and [blank2] that make up array elements in PHP?",
+        "reason": "The Chinese question is a fill-in-the-blank question that indicates two components that make up array elements in PHP, as suggested by the placeholders [填空1] and [填空2]. The English translation, however, does not follow the required format by retaining the blanks. Instead of asking 'What are [blank1] and [blank2]...', it should have been presented as a direct question without the blanks to match the format of a fill-in-the-blank question. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "在程序开发过程中，若Cookie的有效期到了，就不能取到Cookie信息。（ ）\n Option: {'true': '', 'false': ''}",
+        "translated_question": "In the process of program development, if the validity period of the Cookie has expired, the Cookie information cannot be retrieved. ( )  \nOption: {'true': '', 'false': ''}",
+        "reason": "The Chinese question appears to be a statement, as indicated by the presence of the blank symbol ( ）, which suggests it is a fill-in-the-blank format rather than a question. The English translation also retains the blank, which is not appropriate since it should be rephrased into a statement rather than maintaining a fill-in-the-blank format. Therefore, the translation does not conform to the required format."
+    },
+    {
+        "question": "第十三讲作业 1.读懂固定顶尖座装配图，填写下列问题的正确答案(1)φ25H7/m6是属于（[填空1] ），14 H7/h6是属于（ [填空2]）。a 间隙配合 b 过渡配合 c 过盈配合(2)装配图中不可以省略的是（ [填空3]）。a 铸造圆角 b 倒角 c 退刀槽 d 中心线\n Option: None",
+        "translated_question": "Lesson 13 Homework 1. Understand the assembly drawing of the fixed top seat and answer the following questions: (1) What type does φ25H7/m6 belong to? (a) Clearance fit (b) Transition fit (c) Interference fit (2) What cannot be omitted in the assembly drawing? (a) Casting fillet (b) Chamfer (c) Grooving (d) Centerline",
+        "reason": "The Chinese question contains several fill-in-the-blank components, indicated by the brackets ( [填空1], [填空2], [填空3] ), which means that the English translation should be reformatted to reflect questions without the blanks, as in 'What type does φ25H7/m6 belong to?' and 'What cannot be omitted in the assembly drawing?'. The provided English translation retains the question format accurately, but it does not reflect the fill-in-the-blank format appropriately by omitting the indication of blanks. Therefore, while the essence of the questions is captured, the format does not align with the requirements for fill-in-the-blank questions."
+    },
+    {
+        "question": "13. 我们要进行数据预处理，是因为原始数据大多都是“[填空1]”。\n Option: None",
+        "translated_question": "Why do we need to perform data preprocessing? It's because most of the raw data is incomplete.",
+        "reason": "The Chinese question indicates a fill-in-the-blank format with the phrase '[填空1]', which suggests that there is a specific term or concept that should be identified. The English translation, however, transforms the fill-in-the-blank into a statement about the data being 'incomplete'. This change from a fill-in-the-blank question to a definitive statement does not align with the original format, making the translation incorrect."
+    },
+    {
+        "question": "3. 数据预处理的技术手段包括[填空1]、[填空2]、[填空3]、[填空4]。\n Option: None",
+        "translated_question": "The technical means of data preprocessing include [blank 1], [blank 2], [blank 3], and [blank 4].",
+        "reason": "The Chinese question indicates a fill-in-the-blank format with four blanks, which translates into an English question format that retains the blanks. The English translation correctly reflects the structure of the Chinese question by using '[blank 1]', '[blank 2]', '[blank 3]', and '[blank 4]'. However, it is not reformatted into a question format, which is required when translating fill-in-the-blank questions. Therefore, while the content is correct, the format does not comply with the given criteria for a proper translation."
+    },
+    {
+        "question": "4. 给定一个在区间[0,1]取值的相似性度量，请使用两种方法将该相似度变换成区间[0,∞]中的相似度，结果分别为[填空1]、[填空2]。\n Option: None",
+        "translated_question": "4. Given a similarity measure that takes values in the interval [0, 1], what are the two methods to transform this similarity into a similarity in the interval [0, ∞]? The results are?",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the presence of two blanks ([填空1]、[填空2]). The English translation, however, does not maintain the blank format and instead asks 'what are the two methods' and 'The results are?' which does not conform to the requirement of converting the blanks into a proper question format. The translation fails to reflect the original format and intent of the Chinese question."
+    },
+    {
+        "question": "OLAP按照数据存储格式划分，实现方式有[填空1]、[填空2]和HOLAP三种\n Option: None",
+        "translated_question": "OLAP is categorized based on data storage formats, which include __________, __________, and HOLAP. What are the three types of implementation?",
+        "reason": "The Chinese question indicates that there are three types of implementation in OLAP categorized by data storage formats, and it is structured as a fill-in-the-blank question. The English translation maintains the fill-in-the-blank format with '__________' but then incorrectly adds 'What are the three types of implementation?' at the end, which implies a different structure. The correct translation should not include a follow-up question but rather remain focused on the fill-in-the-blank format, as per the original Chinese question."
+    },
+    {
+        "question": "数据仓库就是一个面向[填空1]、[填空2]、[填空3]、[填空4]的数据集合\n Option: None",
+        "translated_question": "A data warehouse is a collection of data oriented to [fill in the blank 1], [fill in the blank 2], [fill in the blank 3], and [fill in the blank 4].",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the placeholders [填空1], [填空2], [填空3], and [填空4]. The English translation retains the structure of fill-in-the-blank by stating 'fill in the blank 1', 'fill in the blank 2', etc., instead of converting it into a question format. Therefore, the English translation does not conform to the requirement of transforming the fill-in-the-blank format into a proper question format without the blanks."
+    },
+    {
+        "question": "某人对一地区人均工资x（千元）与该地区人均消费y（千元）进行统计调查，y与x有相关关系，得到回归直线方程，若该地区的人均消费水平为7.675千元，估计该地区的人均消费额占人均工资收入的百分比约为:[填空1]\n Option: None",
+        "translated_question": "What is the estimated percentage of the per capita consumption amount relative to the per capita wage income if the per capita consumption level in the area is 7.675 thousand yuan?",
+        "reason": "The Chinese question is a fill-in-the-blank type, as indicated by the placeholder '填空1', which suggests that a specific answer is to be provided. The English translation, however, presents the sentence as a statement and does not include the fill-in-the-blank format, which is required for a correct translation. This discrepancy indicates that the translation does not follow the appropriate format, even though it conveys the general meaning of the question."
+    },
+    {
+        "question": "使用F检验对多元线性回归方程进行线性关系的显著性检验，所求F值越大，说明线性关系越：[填空1]\n Option: None",
+        "translated_question": "Using the F-test to test the significance of the linear relationship in a multiple linear regression equation, the larger the F value, the stronger the linear relationship becomes. What does this imply about the linear relationship?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the placeholder '[填空1]', which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation does not maintain the fill-in-the-blank format and instead rephrases it as a question about the implication of the F value, which is not a direct translation of the original fill-in-the-blank context. Therefore, the translation does not meet the specified criteria."
+    },
+    {
+        "question": "回归分析按照涉及的自变量的多少，可分为[填空1] 和[填空2] ；按照自变量和因变量之间的关系类型，可分为[填空3] 和[填空4] 。\n Option: None",
+        "translated_question": "How can regression analysis be divided based on the number of independent variables involved, and how can it be divided based on the type of relationship between independent and dependent variables?",
+        "reason": "The Chinese question is structured as a fill-in-the-blank question, as indicated by the placeholders [填空1], [填空2], [填空3], and [填空4]. The English translation, however, reformulates the question into a general inquiry without providing the necessary blanks or options, which is not aligned with the original format. Therefore, the translation does not accurately reflect the original question format that requires specific answers to be filled in."
+    },
+    {
+        "question": "F检验运用服从F分布的统计量或方差比作为统计检验，通过[填空1] 度量回归方程的线性关系是否显著\n Option: None",
+        "translated_question": "What is used in the F-test to measure whether the linear relationship of the regression equation is significant?",
+        "reason": "The Chinese question indicates a fill-in-the-blank format with '通过[填空1]' suggesting that something is being measured. The English translation, however, is phrased as a direct question asking what is used in the F-test, but it does not fill in the blank or rephrase the original content into a question format without the blank. Therefore, it fails to adhere to the requirement of converting the fill-in-the-blank into a proper question format."
+    },
+    {
+        "question": "[填空1]涉及分类器/回归器提供的理解和洞察的水平。其是主观的，因此很难评估\n Option: None",
+        "translated_question": "The level of understanding and insight provided by classifiers/regressors is ( ).",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol [填空1], which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation retains the blank, which does not conform to the specified criteria for a correct translation. Instead of asking a full question, it leaves a blank that makes it incomplete."
+    },
+    {
+        "question": "回归分析是一种非常有用且灵活的分析方法，其作用主要表现在判别自变量是否能解释因变量的显著变化、判别自变量能够在多大程度上解释因变量、[填空1] 以及当评价一个特殊变量或一组变量对因变量的贡献时，对其自变量进行控制。\n Option: None",
+        "translated_question": "What are the main functions of regression analysis, particularly in determining whether independent variables can explain significant changes in dependent variables, to what extent they can explain them, and how to control for independent variables when evaluating the contribution of a specific variable or a set of variables to the dependent variable?",
+        "reason": "The Chinese question describes the functions of regression analysis and includes a fill-in-the-blank section indicated by '[填空1]'. The English translation, however, is presented as a question but does not reflect the fill-in-the-blank format accurately, as it includes a long explanation without a direct question format or addressing the missing content. The presence of '[填空1]' suggests that there should be a specific point or question, but the translation does not fulfill this requirement. Therefore, the translation does not meet the criteria for a correct translation."
+    },
+    {
+        "question": "6. 如果两个项集的提升度的值小于1，则说明两个项集正相关。\n Option: {'true': '', 'false': ''}",
+        "translated_question": "6. If the lift value of two itemsets is less than 1, it indicates that the two itemsets are positively correlated. (True/False)",
+        "reason": "The Chinese question states that if the lift value of two itemsets is less than 1, it suggests that the two itemsets are positively correlated. However, the correct interpretation is that a lift value less than 1 indicates a negative correlation, not a positive one. Therefore, the English translation conveys an incorrect meaning, despite the format being mostly correct for a true/false question."
+    },
+    {
+        "question": "21. 考虑下表所示二元分类问题的数据集,按照属性 A 和 B 划分时的信息增益。决策树归纳算法将会选[填空1]属性；计算按照属性 A 和 B 划分时 Gini 系数，决策树归纳算法将会选择_[填空2]属性。\n Option: None",
+        "translated_question": "21. Consider the dataset of the binary classification problem shown in the table below. What is the information gain when divided by attributes A and B? Which attribute will the decision tree induction algorithm choose? Calculate the Gini coefficient when divided by attributes A and B. Which attribute will the decision tree induction algorithm choose?",
+        "reason": "The Chinese question contains fill-in-the-blank elements indicated by [填空1] and [填空2], suggesting that the English translation should format these as questions without the blanks. However, the provided English translation includes statements rather than properly formatted questions. As such, the translation does not align with the expected format of the original Chinese question."
+    },
+    {
+        "question": "聚类质量评估包括[填空1]、[填空2]和[填空3]。\n Option: None",
+        "translated_question": "What are the components of clustering quality assessment?",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the placeholders [填空1]、[填空2] and [填空3]. The English translation, however, does not maintain the fill-in-the-blank format and instead asks a general question about the components of clustering quality assessment. This does not adhere to the requirement for fill-in-the-blank questions to be reformatted into a question without the blanks. Therefore, the translation is not correct."
+    },
+    {
+        "question": "请依次写出正确率、召回率和F值的公式。[填空1]\n Option: None",
+        "translated_question": "Please write out the formulas for accuracy, recall, and F-value in order. What are the specific formulas?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the notation '[填空1]', which implies that the response should consist of the specific formulas. However, the English translation does not transform this into a proper question format without the blank and instead adds an unnecessary phrase 'What are the specific formulas?'. This deviation from the required format indicates that the translation is not correct."
+    },
+    {
+        "question": "有一数据集，包含五个样本A、B、C、D、E，样本间距离如下表所示，使用AGNES算法进行聚类，以最小距离计算簇间的距离，最终要求的簇的数量k=2。最终的聚类结果为[填空1][填空2] 和[填空3] 。\n Option: None",
+        "translated_question": "What are the final clustering results for the two clusters? Please provide the results for the first cluster and the second cluster as well as the third cluster.",
+        "reason": "The Chinese question is a fill-in-the-blank question that asks for specific clustering results, indicated by the placeholders [填空1], [填空2], and [填空3]. The English translation, however, does not convert the fill-in-the-blank format into a proper question. Instead, it asks for the final clustering results in a general way, which does not align with the structure of the original question. Thus, the English translation fails to correctly represent the requirement of the original question."
+    },
+    {
+        "question": "多道批处理系统主要考虑的是____\n Option: {'A': '交互性', 'B': '及时性', 'C': '系统效率', 'D': '吞吐量'}",
+        "translated_question": "The multi-programming batch processing system mainly considers _____. \nOption: {'A': 'interactivity', 'B': 'timeliness', 'C': 'system efficiency', 'D': 'throughput'}",
+        "reason": "The Chinese question includes a blank (____) indicating it is a fill-in-the-blank type of question. However, the English translation retains the blank in the same format, which does not meet the requirement of converting it into a proper question format without the blank. Therefore, the English translation is not correct as it fails to properly format the question."
+    },
+    {
+        "question": "一般来讲，中断来源于____（）\n Option: {'A': '外部设备', 'B': '应用程序主动行为', 'C': '操作系统主动行为', 'D': '软件故障'}",
+        "translated_question": "Generally speaking, what do interruptions come from?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol （ ）. The English translation should reflect this format by converting it into a question without the blank. The provided English translation retains the question format, which aligns with the nature of the original question. Thus, while it accurately captures the essence of the question, it does not adjust for the fill-in-the-blank format, resulting in a mismatch."
+    },
+    {
+        "question": "题目包含多个选项，但学生只能选择一个答案。汽泡纸的出现和应用使得许多领域都能够采用单选题进行研究。好的单选题会包含干扰项，即迷惑学生的错误选项。\n Option: {'false': '错误', 'true': '正确'}",
+        "translated_question": "The question includes multiple options, but students can only choose one answer. The emergence and application of bubble wrap have allowed many fields to utilize multiple-choice questions for research. A good multiple-choice question will include distractors, which are incorrect options that confuse students. Is it true or false?",
+        "reason": "The Chinese question discusses the characteristics of multiple-choice questions and mentions distractors. The English translation accurately reflects the content and intent of the Chinese question. However, the Chinese text is more of a statement about the nature of multiple-choice questions and does not pose a question format, while the English translation ends with 'Is it true or false?', which implies a question format that is not present in the original Chinese text. Therefore, while the translation is mostly accurate in terms of content, it does not align with the format of the original statement."
+    },
+    {
+        "question": "金属和合金的热导率随温度变化规律为：[填空1]\n Option: None",
+        "translated_question": "What is the variation of the thermal conductivity of metals and alloys with temperature?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol [填空1], which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation, 'What is the variation of the thermal conductivity of metals and alloys with temperature?', does not retain a blank but instead asks a complete question. However, the translation does not accurately reflect the original question's intention, which is to state a fact or description about the variation rather than to ask for an explanation or variation directly. Therefore, while the format is correct, the content is not an accurate translation of the original question."
+    },
+    {
+        "question": "导热微分方程的单值性条件包括四项[填空1]、[填空1]、[填空1]、[填空1]。\n Option: None",
+        "translated_question": "What are the four conditions for the uniqueness of solutions to the heat conduction differential equation?",
+        "reason": "The Chinese question indicates that there are four specific conditions related to the uniqueness of solutions to the heat conduction differential equation, and it is structured as a fill-in-the-blank question asking for those four conditions. The English translation, however, rephrases it as a general question about the four conditions without the fill-in-the-blank format. Therefore, it does not accurately reflect the original structure of the Chinese question."
+    },
+    {
+        "question": "一维平板导热的一维是[填空1]。\n Option: None",
+        "translated_question": "What is the one-dimensional heat conduction of a one-dimensional flat plate?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by [填空1], which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation, however, does not follow this format as it presents a complete question without a blank. Therefore, the format is incorrect as it does not align with the original intent of the Chinese question."
+    },
+    {
+        "question": ".对流换热过程的定解条件中边界条件可以分为两类，即第一类边界条件   和__。（）\n Option: {'A': '第二类边界条件', 'B': '第三类边界条件', 'C': '辐射边界条件', 'D': '界面连续条件'}",
+        "translated_question": "In the boundary conditions of the steady-state heat transfer process, the boundary conditions can be divided into two categories, namely the first type of boundary conditions and the second type of boundary conditions. What is the second type of boundary condition?",
+        "reason": "The Chinese question is structured as a fill-in-the-blank question indicated by the blank symbol __ and the parentheses (），suggesting that an answer should be provided to complete the statement. The English translation, however, reformats this into a question asking for the second type of boundary condition, which is not a correct transformation of the original format. The translation does not maintain the original fill-in-the-blank nature of the question as required."
+    },
+    {
+        "question": "均匀热流：（）；均匀壁温：（）。[填空1]、[填空2]\n Option: None",
+        "translated_question": "What is the uniform heat flow? What is the uniform wall temperature?",
+        "reason": "The Chinese question contains fill-in-the-blank components indicated by the format '（）；' and requires the English translation to be reformatted into proper question format without the blanks. The provided English translation retains the fill-in-the-blank format, which does not meet the criteria for a correct translation. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "管束前后排间有干扰，对于排数小于[填空1]的叉排管束，需乘以管排修正系数。\n Option: None",
+        "translated_question": "For tube bundles with less than what number of rows, is it necessary to multiply by the tube row correction factor, given that there is interference between the front and rear rows of the tube bundle?",
+        "reason": "The Chinese question appears to be a fill-in-the-blank question where the blank indicates a missing number that should be specified. The English translation, however, does not conform to the required format since it includes a question structure but retains the concept of a blank by referring to 'what number of rows'. This structure does not adequately replace the fill-in-the-blank format as required. It should instead directly ask about the condition regarding tube bundles and specify the correlation without a blank."
+    },
+    {
+        "question": "在大容器饱和沸腾中，自然对流和核态沸腾的转折过热度为（[填空1]）℃。\n Option: None",
+        "translated_question": "What is the turning point of natural convection and nucleate boiling in a large container under saturated boiling in ℃?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol ([填空1]). The English translation, however, is framed as a question but does not incorporate a blank or specify that it is asking for a value, which deviates from the original format. The translation asks for the turning point but lacks the necessary indication that an answer is to be filled in, making it incorrect."
+    },
+    {
+        "question": "有效辐射是[填空1]和[填空2]之和。\n Option: None",
+        "translated_question": "What are the two quantities that make up effective radiation?",
+        "reason": "The Chinese question indicates that effective radiation is the sum of two quantities, which is a fill-in-the-blank format. The English translation, however, rephrases it as a question asking for the two quantities but does not maintain the format of summing them up. Therefore, it does not accurately reflect the original structure of the Chinese question."
+    },
+    {
+        "question": "定性判断图示电路不具备正常放大能力的理由是[填空1]A.VCC极性不正确 B.晶体管因基极电流过大而损坏 C.输出信号被短路\n Option: None",
+        "translated_question": "What is the qualitative reason for determining that the illustrated circuit does not have normal amplification capability?",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the phrase [填空1], which suggests that a specific answer is expected. The English translation reformulates this into a proper question format without the blank, asking for the qualitative reason. However, it does not include the multiple-choice options that are a part of the original question, which is a critical aspect of the translation. Thus, while the main question is translated correctly, the absence of the options means the translation is incomplete."
+    },
+    {
+        "question": "接4题，输入电阻Ri将_____，\n Option: {'A': '增大', 'B': '减小', 'C': '基本不变'}",
+        "translated_question": "When connecting 4 questions, what will happen to the input resistance Ri?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol '_____'. The English translation, however, is phrased as a standard question without the blank, which does not conform to the requirement of converting the fill-in-the-blank format appropriately. The translation fails to provide the necessary format because it does not reflect the original structure of the Chinese question."
+    },
+    {
+        "question": "接4题，输出电阻Ro将_____；\n Option: {'A': '增大', 'B': '减小', 'C': '基本不变'}",
+        "translated_question": "If you connect 4 questions, what will happen to the output resistance Ro?",
+        "reason": "The Chinese question contains a fill-in-the-blank format indicated by the blank symbol '_____'. The English translation, however, is phrased as a question without a blank, which misrepresents the original structure. The English version should have reflected the fill-in-the-blank nature of the question by asking what will happen to the output resistance Ro in a way that invites completion. This discrepancy indicates that the translation is not correct."
+    },
+    {
+        "question": "接4题，输入电阻将_____，\n Option: {'A': '增大', 'B': '减小', 'C': '基本不变'}",
+        "translated_question": "When connecting 4 questions, how will the input resistance change?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol (_____). The English translation should reformulate this into a proper question without the blank. However, the English translation does not maintain the format of a fill-in-the-blank question and instead asks about how the input resistance will change, which is not the same as providing options (A, B, C) to fill in the blank. Therefore, the translation does not meet the criteria for correctness."
+    },
+    {
+        "question": "接1题，输入电阻______，\n Option: {'A': '增大', 'B': '减小', 'C': '不变', 'D': '不可知'}",
+        "translated_question": "In question 1, the input resistance is ______. What should be filled in the blank?",
+        "reason": "The Chinese question contains a blank, indicated by the underline, which suggests it is a fill-in-the-blank question. The English translation, however, retains the blank in the form of '______'. According to the guidelines, the English translation should convert the fill-in-the-blank format into a proper question format without the blank. Therefore, the translation does not meet the criteria for a correct translation."
+    },
+    {
+        "question": "指出符合下列性能特点的电路各有哪些？低频特性最好的电路是____；\n Option: {'A': '', 'B': '', 'C': '', 'D': ''}",
+        "translated_question": "What are the circuits that meet the following performance characteristics? Which circuit has the best low-frequency characteristics?",
+        "reason": "The Chinese question is structured as a fill-in-the-blank question, indicated by the blank '____', which suggests that the English translation should be rephrased into a direct question without the blank. However, the provided English translation retains the question format and correctly conveys the meaning. Therefore, while the translation is accurate in meaning, it does not adhere to the requirement to convert the fill-in-the-blank format into a direct question without a blank. Thus, the translation is incorrect in terms of format."
+    },
+    {
+        "question": "4、设上图所示差分放大电路中的VT1、VT2特性相同，且UBE＝0.6V。VT1、VT2的集电极静态电流为[填空1]mA，静态电位为[填空2]V；uI＝10mV时，差模输入电压为[填空3]mV，共模输入电压为[填空4]mV。A．0.5B．1 C． 2D．3 E．5 F． 9.45 G． 10\n Option: None",
+        "translated_question": "4. Assuming that the characteristics of VT1 and VT2 in the differential amplifier circuit shown in the figure are the same, and UBE = 0.6V, what is the static collector current of VT1 and VT2 in mA? What is the static voltage in V? When uI = 10mV, what are the differential input voltage in mV and the common-mode input voltage in mV? A. 0.5 B. 1 C. 2 D. 3 E. 5 F. 9.45 G. 10",
+        "reason": "The Chinese question consists of a series of fill-in-the-blank questions indicated by the placeholders [填空1], [填空2], [填空3], and [填空4]. The English translation, however, incorrectly formats the fill-in-the-blank structure into separate questions instead of a continuous format that maintains the fill-in nature. It should be a series of questions without blanks, instead of asking separate questions about static collector current, static voltage, differential input voltage, and common-mode input voltage. Therefore, the translation does not adhere to the expected format."
+    },
+    {
+        "question": "由三个集电极PNP型管组成的电流源电路如下图所示。设各个集电结的结面积相同， β值也相同。则下列关系式中正确的是[填空1]。\n Option: None",
+        "translated_question": "What is the correct relationship in the given expressions related to the current source circuit composed of three PNP transistors?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the phrase '填空1', which means that an answer is expected in the blank. The English translation, however, does not convert the fill-in-the-blank format into a proper question format without the blank. Instead, it asks for a relationship in a general manner without directly prompting for an answer, which does not align with the requirements for a correct translation."
+    },
+    {
+        "question": "1、已知几个集成运放的参数如上表所示，试分别说明它们各属于哪种类型的运放：A1为[填空1]，A2为[填空2]，A3为[填空3]，A4为[填空4]。A．通用型B．高阻型C． 高速型D． 高精度型\n Option: None",
+        "translated_question": "1. Given the parameters of several integrated operational amplifiers shown in the table above, please specify which type of operational amplifier each belongs to: What type is A1? What type is A2? What type is A3? What type is A4? A. General type B. High impedance type C. High speed type D. High precision type.",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the placeholders [填空1], [填空2], [填空3], and [填空4]. The English translation, however, reformats the sentence into a question format but maintains the context of asking for the types of operational amplifiers, which is appropriate. However, it does not explicitly remove the blanks as they are represented by different question formats. Instead of simply asking for the type, it breaks it down into separate questions that do not align with the fill-in-the-blank structure of the original. Thus, while the translation captures the essence of the question, it does not conform to the requirements of converting the fill-in-the-blank into a proper question without blanks."
+    },
+    {
+        "question": "（1）电容[填空1]决定电路的下限频率；A．C1B．C2C． Ce（2）若T1和T2静态时发射极电流相等，且r′bb相等，则C′π较大的是[填空2]电路；则C′π所在回路的等效电阻较大的是[填空3]电路；上限频率较低的是[填空4]电路。A．第一级B．第二级C． 第三级\n Option: None",
+        "translated_question": "(1) Which capacitance determines the lower frequency limit of the circuit? A. C1 B. C2 C. Ce (2) If T1 and T2 have equal emitter currents in static state, and r'bb is equal, which circuit has a larger C'π? Which circuit has a larger equivalent resistance in the loop with C'π? Which circuit has a lower upper frequency limit?",
+        "reason": "The Chinese question contains fill-in-the-blank sections indicated by '填空' phrases, which suggest that the English translation should also be in a question format without the blanks. The English translation, however, presents the questions without clearly indicating the expected answers (which should replace the blanks). Therefore, while it conveys the general meaning, it does not follow the format necessary for fill-in-the-blank questions. The translation does not reformulate these as direct questions for each part as the original intended."
+    },
+    {
+        "question": "接1题，（2）当式Rs减小时，fL将[填空1]；当带上负载后，fL将[填空2]。当Rs为零时，fH将[填空3]；当Rb减小时，gm将[填空4]，将[填空5]\n Option: None",
+        "translated_question": "For question 1, when Rs decreases, what will happen to fL? When a load is added, what will happen to fL? When Rs is zero, what will happen to fH? When Rb decreases, what will happen to gm? What will happen to [blank]? What will happen to [blank]?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the presence of multiple blanks (填空1, 填空2, 填空3, 填空4, 填空5). The English translation should not include any blanks and should instead reformulate the question into a proper question format. However, the translation does retain the structure of fill-in-the-blank questions by asking what will happen to various terms, but it still includes '[blank]' in the last two questions. Therefore, the translation is not appropriate, as it does not fully comply with the requirement to remove blanks and present a complete question format."
+    },
+    {
+        "question": "判断下列分立元件两级反馈放大电路的输出信号极性与输入信号极性相同的电路有[填空1]。A．共射-共集放大电路B．共基-共射放大电路C． 共基-共集放大电路D．共源-共射放大电路E．共漏-共源放大电路\n Option: None",
+        "translated_question": "Which of the following discrete component two-stage feedback amplifier circuits have the same output signal polarity as the input signal? A. Common emitter - common collector amplifier circuit B. Common base - common emitter amplifier circuit C. Common base - common collector amplifier circuit D. Common source - common emitter amplifier circuit E. Common drain - common source amplifier circuit? Please fill in the answer.",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the phrase '填空1', which suggests that the English translation should be reformatted into a proper question format without the blank. The provided English translation ends with 'Please fill in the answer', which indicates a fill-in-the-blank format and does not adequately convert the question into a proper question structure. Therefore, the translation does not meet the criteria for a correct translation."
+    },
+    {
+        "question": "下图所示电路引入了级间深度负反馈，反馈系数等于[填空1]，电压放大倍数等于[填空2]。\n Option: None",
+        "translated_question": "What is the feedback coefficient and what is the voltage amplification factor for the inter-stage deep negative feedback circuit shown in the figure?",
+        "reason": "The Chinese question includes two fill-in-the-blank components indicated by '[填空1]' for the feedback coefficient and '[填空2]' for the voltage amplification factor. The English translation, however, does not follow the required format for fill-in-the-blank questions, as it presents the information as a question asking for both values without blanks. Instead, it should be two separate questions or should directly request the values without changing the format. Therefore, the translation does not conform to the specified criteria."
+    },
+    {
+        "question": "电路如下图所示，已知集成运放为理想运放，最大输出电压幅值为±14V。（1）电路引入了[填空1]（填入反馈组态）交流负反馈。A．电压串联B．电压并联C． 电流串联D． 电流并联（2）电路的电压放大倍数=[填空2]设 uI＝1V，则uO≈[填空3]V；若R1开路，则uO变为[填空4]V；若R1短路，则uO变为[填空5]V；若R2开路，则uO变为[填空6]V；若R2短路，则uO变为[填空7]V。A．1B．10C． 11D． 14\n Option: None",
+        "translated_question": "The circuit is shown in the figure below. Given that the integrated operational amplifier is an ideal op-amp with a maximum output voltage amplitude of ±14V. (1) What type of AC negative feedback configuration does the circuit introduce? A. Voltage series B. Voltage parallel C. Current series D. Current parallel (2) What is the voltage amplification of the circuit? If uI = 1V, what is uO approximately? If R1 is open, what does uO change to? If R1 is shorted, what does uO change to? If R2 is open, what does uO change to? If R2 is shorted, what does uO change to?",
+        "reason": "The Chinese question contains multiple fill-in-the-blank segments, indicated by the brackets for responses, meaning the English translation must convert these into proper question formats without the blanks. The English translation does not follow this requirement correctly as it retains the structure of a fill-in-the-blank question in the second part, specifically for the voltage amplification and changes in output voltage based on different resistor configurations. Therefore, the translation is not correct in terms of format."
+    },
+    {
+        "question": "（1）为了改变输入电阻和输出电阻，应引入[填空1]。A．直流负反馈B．交流负反馈（2）电路如下图所示，分析各电路因引入交流负反馈使输入电阻和输出电阻产生的变化是：1）电路(a)的输入电阻[填空2]，输出电阻[填空3]。2）电路(b)的输入电阻[填空4]，输出电阻[填空5]。3）电路(c)的输入电阻[填空6]，输出电阻[填空7]。4）电路(d)的输入电阻[填空8]，输出电阻[填空9]。A．增大B．减小（3）电路引入反馈后，以下说法正确的有：[填空10]。A．负反馈增大Ri，正反馈减小Ri；B．串联反馈增大Ri，并联反馈减小Ri；C． 并联负反馈增大Ri，并联正反馈减小Ri；D． 串联负反馈增大Ri，并联负反馈减小Ri。\n Option: None",
+        "translated_question": "(1) To change the input resistance and output resistance, what should we introduce? A. DC negative feedback B. AC negative feedback (2) The circuit is shown in the figure below. Analyze the changes in input resistance and output resistance due to the introduction of AC negative feedback: 1) What is the input resistance of circuit (a) and what is the output resistance? 2) What is the input resistance of circuit (b) and what is the output resistance? 3) What is the input resistance of circuit (c) and what is the output resistance? 4) What is the input resistance of circuit (d) and what is the output resistance? A. increase B. decrease (3) After introducing feedback into the circuit, which of the following statements are correct? A. Negative feedback increases Ri, positive feedback decreases Ri; B. Series feedback increases Ri, parallel feedback decreases Ri; C. Parallel negative feedback increases Ri, parallel positive feedback decreases Ri; D. Series negative feedback increases Ri, parallel negative feedback decreases Ri.",
+        "reason": "The Chinese question contains multiple fill-in-the-blank parts indicated by the blanks. The English translation, however, maintains the question format and does not retain any blanks. It asks for specific values (input and output resistances) without leaving a space for answers, which is inconsistent with the fill-in-the-blank format of the original Chinese question. Therefore, the translation does not correctly reflect the original intent of the question."
+    },
+    {
+        "question": "（1）单管共射放大电路若通过电阻引入负反馈，则[填空1]；两级共射放大电路若通过电阻引入负反馈，则[填空2]；三级共射放大电路若通过电阻引入负反馈，则[填空3]。A．一定会产生高频自激振荡B．有可能产生高频自激振荡C． 一定不会产生高频自激振荡（2）已知fc是使负反馈放大电路的环路增益下降到0dB时的频率，fo是使负反馈放大电路φA+φF=(2n+1)π的频率。当[填空4]时，电路会产生自激振荡；而当[填空5]时，电路不会产生自激振荡。A．fo小于fcB．fo大于fc\n Option: None",
+        "translated_question": "(1) If negative feedback is introduced through a resistor in a single-stage common-emitter amplifier, what will happen? If negative feedback is introduced through a resistor in a two-stage common-emitter amplifier, what will happen? If negative feedback is introduced through a resistor in a three-stage common-emitter amplifier, what will happen? A. It will definitely produce high-frequency self-oscillation B. It may produce high-frequency self-oscillation C. It will definitely not produce high-frequency self-oscillation.\n\n(2) It is known that fc is the frequency at which the loop gain of a negative feedback amplifier circuit drops to 0 dB, and fo is the frequency at which the negative feedback amplifier circuit satisfies φA + φF = (2n + 1)π. When does the circuit produce self-oscillation? When does the circuit not produce self-oscillation? A. When fo is less than fc B. When fo is greater than fc.",
+        "reason": "The Chinese question is structured as a series of fill-in-the-blank statements, indicated by [填空1], [填空2], [填空3], [填空4], and [填空5]. The English translation, however, converts these into questions by asking 'what will happen?' and 'when does the circuit produce self-oscillation?', which is not an appropriate transformation for fill-in-the-blank questions. Additionally, the options provided in the Chinese question are structured as responses to the fill-in-the-blank prompts, which are not reflected in the English translation. Therefore, the translation is not correct as it fails to maintain the original format and intent."
+    },
+    {
+        "question": "已知负反馈放大电路的试分析：（1）该电路为[填空1]级[填空2]耦合的放大电路；若该电路产生自激振荡，则应在[填空3]频段；A．1B．2C． 3D．直接E．阻容F． 高G．中H． 低（2）当信号频率f＝104Hz时，附加相移约为[填空4]度；当信号频率f＝105Hz时，附加相移约为[填空5]度；为了使放大电路能够稳定工作（即不产生自激振荡），反馈系数的上限值约为[填空6]dB。A．-45B．-90C． -180D．-270E．-60F．-40\n Option: None",
+        "translated_question": "Given the feedback amplifier circuit analysis: (1) What type of stage is this circuit and what type of coupling does it use? If the circuit generates self-excited oscillation, in which frequency band should it operate? A. 1 B. 2 C. 3 D. direct E. RC F. high G. medium H. low (2) When the signal frequency f = 10^4 Hz, what is the additional phase shift in degrees? When the signal frequency f = 10^5 Hz, what is the additional phase shift in degrees? To ensure that the amplifier circuit can operate stably (i.e., does not generate self-excited oscillation), what is the upper limit of the feedback coefficient in dB? A. -45 B. -90 C. -180 D. -270 E. -60 F. -40",
+        "reason": "The Chinese question consists of multiple fill-in-the-blank segments, which are indicated by the placeholders, such as [填空1], [填空2], etc. This means that the English translation should be formatted as questions, not retaining the blanks. However, the English translation provided does not follow this format, as it maintains a statement-like structure with questions embedded within it. Therefore, the translation does not accurately reflect the format required for the fill-in-the-blank nature of the Chinese question."
+    },
+    {
+        "question": "TiO2有三种结晶形态，其中高温稳定的晶型是（）\n Option: {'A': '锐钛矿', 'B': '板钛矿', 'C': '金红石'}",
+        "translated_question": "What is the high-temperature stable crystal form of TiO2 among the three crystalline forms?  \nOption: {'A': 'Rutile', 'B': 'Anatase', 'C': 'Brookite'}",
+        "reason": "The Chinese question is a fill-in-the-blank question asking for the high-temperature stable crystal form of TiO2 among its three crystalline forms, indicated by the blank symbol ( ). The English translation is correctly formatted as a question without a blank, asking for the same information. However, the options provided do not match the original Chinese options, as 'Anatase' and 'Brookite' are not correct translations of '板钛矿' and '金红石' respectively. Therefore, while the structure of the translation is correct, the content is inaccurate due to the incorrect options."
+    },
+    {
+        "question": "请写出以下表达式的运算类型：请填写以下答案之一（逗号、关系、逻辑、条件）：[填空1]：[填空2]：[填空3]：[填空4]\n Option: None",
+        "translated_question": "What are the types of operations for the following expressions? Please provide the answers: what is the first operation, what is the second operation, what is the third operation, what is the fourth operation? (comma, relation, logic, condition).",
+        "reason": "The Chinese question is a fill-in-the-blank question as it asks for specific answers to be filled in the blanks. The English translation, however, reformulates it into a question format that implies asking for specific operations without actually using blanks, which is not consistent with the original format. The original question expects answers to be provided in a list format, but the translation turns it into a more open-ended question. Therefore, the translation does not accurately reflect the original question's structure and intent."
+    },
+    {
+        "question": "在C++中,编译系统自动为一个类生成缺省构造函数的条件是\n Option: {'A': '该类没有定义任何有参构造函数', 'B': '该类没有定义任何无参构造函数', 'C': '该类没有定义任何构造函数', 'D': '该类没有定义任何成员函数'}",
+        "translated_question": "In C++, the condition for the compiler to automatically generate a default constructor for a class is:  \nOption: {'A': 'The class has not defined any parameterized constructor', 'B': 'The class has not defined any default constructor', 'C': 'The class has not defined any constructor', 'D': 'The class has not defined any member functions'}",
+        "reason": "The Chinese question is asking about the conditions under which a C++ compiler automatically generates a default constructor for a class. The English translation accurately reflects this meaning. However, there is a discrepancy in option B: the Chinese states that the class has not defined any '无参构造函数' (which means default constructor), but the English translation incorrectly refers to it as 'any default constructor', which could imply the existence of a parameterized constructor. Therefore, while the overall translation is mostly correct, this specific option is misleading. Thus, the translation is not fully accurate."
+    },
+    {
+        "question": "注册会计师对财务报表的（   ）发表意见。\n Option: {'A': '公允性', 'B': '真实性', 'C': '正确性', 'D': '完整性'}",
+        "translated_question": "The certified public accountant expresses an opinion on the financial statements regarding what?",
+        "reason": "The Chinese question appears to be a fill-in-the-blank style question indicated by the blank symbol （   ）, which requires a specific answer related to the options provided. The English translation, however, has converted it into a question format by asking 'regarding what?' instead of directly aligning with the fill-in-the-blank format. This does not properly reflect the structure of the original question as it does not specify what the opinion is about, leading to a loss of clarity regarding the options. Therefore, the translation is not accurate in terms of format and intent."
+    },
+    {
+        "question": "投资类资产包括（  ）。\n Option: {'A': '交易性金融资产', 'B': '持有至到期投资', 'C': '可供出售金融资产', 'D': '长期股权投资'}",
+        "translated_question": "What are investment assets?  \nOptions: {'A': 'Trading financial assets', 'B': 'Held-to-maturity investments', 'C': 'Available-for-sale financial assets', 'D': 'Long-term equity investments'}",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the blank symbol （  ）, which asks for examples or types of investment assets. The English translation, however, is phrased as a general question 'What are investment assets?' which does not accurately reflect the format of the original. The translation fails to convert the fill-in-the-blank format into a question that matches the original intent. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "应收账款周转率越高，企业的营运资金会过多地呆滞在应收账款上。（　  ）\n Option: {'true': '正确', 'false': '错误'}",
+        "translated_question": "Is it true that the higher the accounts receivable turnover ratio, the more operating capital a company will be excessively tied up in accounts receivable?",
+        "reason": "The Chinese question presents a statement regarding the relationship between accounts receivable turnover ratio and operating capital, followed by a blank which indicates it is a fill-in-the-blank question. However, the English translation is framed as a yes/no question rather than converting the statement into a question format without the blank. This does not conform to the translation guidelines provided. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "现金流量表将企业一定期间的现金流量分为三类，分别是（  ）。\n Option: {'A': '经营活动产生的现金流量', 'B': '投资活动产生的现金流动', 'C': '负债活动产生的现金流量', 'D': '筹资活动产生的现金流量'}",
+        "translated_question": "What are the three categories into which the cash flow statement divides a company's cash flow for a certain period?  \nOptions: {'A': 'cash flow from operating activities', 'B': 'cash flow from investing activities', 'C': 'cash flow from financing activities', 'D': 'cash flow from financing activities'}",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank （ ）, which requires the English translation to be formatted as a question without the blank. The provided English translation correctly reformulates the question by asking 'What are the three categories...?' However, there is an issue with the options provided. The option for 'C' in the English translation incorrectly states 'cash flow from financing activities' twice, which is inconsistent with the options in the Chinese question. Therefore, while the main question's format is correct, the options contain a translation error."
+    },
+    {
+        "question": "不属于高速成长阶段企业的典型财务特征的是（）。\n Option: {'A': '销售额和利润不断增加', 'B': '经营活动产生的现金流量在不断增加，但现金结余不大', 'C': '设备投资继续进行，但相对于创业期已减少', 'D': '经营活动现金流持续为负'}",
+        "translated_question": "What is a typical financial characteristic that does not belong to a company in a high growth phase?",
+        "reason": "The Chinese question includes a blank (represented by the parentheses) indicating it is a fill-in-the-blank type question. The English translation, however, is presented as a direct question without the blank, which is not appropriate in this context. Therefore, the translation does not conform to the required format."
+    },
+    {
+        "question": "投资决策的基本原则是（）\n Option: {'A': '收益大于成本', 'B': '净现值大于0', 'C': '在该领域具有竞争优势', 'D': '以上都正确'}",
+        "translated_question": "What are the basic principles of investment decision-making? \nOption: {'A': 'Return greater than cost', 'B': 'Net present value greater than 0', 'C': 'Having a competitive advantage in the field', 'D': 'All of the above are correct'}",
+        "reason": "The Chinese question indicates a fill-in-the-blank format as shown by the blank symbol （ ）, suggesting that it is asking for the principles of investment decision-making in a question format. However, the English translation does not maintain the fill-in-the-blank format and instead poses a general question, 'What are the basic principles of investment decision-making?'. The English translation does not conform to the requirement to transform the fill-in-the-blank into a question without the blank, making it incorrect in format. The options provided are translated correctly, but the overall structure of the question does not align with the original Chinese format."
+    },
+    {
+        "question": "若收入和利率的组合点位于IS曲线的右上方，同时又位于LM曲线的左上方，则在该点\n Option: {'A': 'Ａ、投资大于储蓄，同时货币需求大于货币供给', 'B': 'Ｂ、投资大于储蓄，同时货币需求小于货币供给', 'C': 'Ｃ、投资小于储蓄，同时货币需求大于货币供给', 'D': 'Ｄ、投资小于储蓄，同时货币需求小于货币供给'}",
+        "translated_question": "If the combination of income and interest rate is located above the IS curve and to the right of the LM curve, what does that imply at that point?",
+        "reason": "The Chinese question indicates a scenario involving the IS and LM curves in an economic context. It asks for implications based on the positions of income and interest rate relative to these curves. The English translation, however, inaccurately describes the position as 'to the right of the LM curve' instead of 'to the left of the LM curve', which changes the meaning of the question. This misrepresentation of the position is significant and renders the translation incorrect."
+    },
+    {
+        "question": "程方所分享的“创业五步曲”包括：了解、（ [填空1]）、（[填空2] ）、（ [填空3]）和（[填空4] ）。请用简体中文按顺序填写空格，每空两个字，请勿填入多余的符号或空格。\n Option: None",
+        "translated_question": "What are the four steps, in order, that complete the \"Five Steps of Entrepreneurship\" shared by Cheng Fang: understanding, (fill in the blank), (fill in the blank), (fill in the blank), and (fill in the blank)?",
+        "reason": "The Chinese question is a fill-in-the-blank question, as indicated by the presence of multiple blanks that need to be filled in. The English translation, however, retains the format of a fill-in-the-blank question but does not convert it into a proper question format without the blanks. It should have simply asked for the four steps without including the indication for filling in blanks. Therefore, the translation is incorrect in format despite capturing the overall meaning."
+    },
+    {
+        "question": "家庭储蓄更多的收入（）\n Option: {'A': '短期内总支出和实际GDP会下降，长期经济增长率也会下降', 'B': '短期内总支出和实际GDP会增加，长期经济增长率会下降', 'C': '短期内总支出和实际GDP会下降，长期经济增长率会增加', 'D': '短期内总支出和实际GDP会增加，长期经济增长率无变化'}",
+        "translated_question": "Household savings more income ( ). What will happen next?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol ( ). The English translation, however, does not reformulate the sentence properly into a question format without the blank. Instead, it retains the blank and adds an additional question 'What will happen next?', which diverges from the original structure. This does not align with the expected criteria for a correct translation."
+    },
+    {
+        "question": "一项成功的税收削减政策应该（）\n Option: {'A': '增加产出、增加就业，物价小幅上涨', 'B': '增加产出、增加就业，物价不变', 'C': '增加产出、减少就业，物价降低'}",
+        "translated_question": "A successful tax reduction policy should what?  \nOption: {'A': 'increase output, increase employment, with a slight rise in prices', 'B': 'increase output, increase employment, with prices remaining unchanged', 'C': 'increase output, decrease employment, with prices falling'}",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol （ ）, which requires the English translation to be reformatted into a proper question format without the blank. The provided English translation maintains the phrase 'should what?', which is not an appropriate conversion of the blank and does not conform to standard English question formats. Therefore, the translation is incorrect in format."
+    },
+    {
+        "question": "营销理论的基础是_________和生产目的论。\n Option: {'A': '价值来源论', 'B': '消费者主权论', 'C': '交换来源论', 'D': '价值实现论'}",
+        "translated_question": "What is the foundation of marketing theory, along with the theory of production purpose?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank (_________). The English translation should also follow this format by converting it into a proper question without the blank. However, the provided English translation changes the structure and does not indicate that there is an option to fill in, which does not conform to the criteria for correct translation. Thus, the translation fails to maintain the intended format."
+    },
+    {
+        "question": "促销策略从总的指导思想上可分为_________。\n Option: {'A': '组合策略', 'B': '单一策略', 'C': '推式策略', 'D': '拉式策略', 'E': '复合品牌策略'}",
+        "translated_question": "Promotional strategies can be divided into which categories from the overall guiding ideology?",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank (_________). The English translation should be reformatted into a proper question format without the blank. The provided English translation retains the implication of a blank but does not explicitly convert it into a question format that seeks an answer. Therefore, the translation does not conform to the criteria for a correct translation."
+    },
+    {
+        "question": "2. 自发投资支出增加 10 亿元，会使 IS 曲线 （   ）\n Option: {'A': '右移 10 亿元；', 'B': '左移 10 亿元；', 'C': '右移支出乘数乘以 10 亿元；', 'D': '左移支出乘数乘以 10 亿元'}",
+        "translated_question": "An increase of 10 billion yuan in autonomous investment expenditure will cause the IS curve to (   ). What will the IS curve be?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol (   ), which means the English translation should also be reformatted into a proper question format without the blank. The provided English translation retains the blank but adds an unnecessary question 'What will the IS curve be?', which is not present in the original Chinese question. This alteration changes the meaning and format of the question, making the translation incorrect."
+    },
+    {
+        "question": "经济的[填空1]、[填空2]，受众需求的[填空3]、[填空4]，决定了财经报道的特点。\n Option: None",
+        "translated_question": "What are the economic [blank 1] and [blank 2], and what are the audience demands for [blank 3] and [blank 4] that determine the characteristics of financial reporting?",
+        "reason": "The Chinese question is a fill-in-the-blank question, as indicated by the placeholders [填空1], [填空2], [填空3], and [填空4]. The English translation maintains the format of blanks, which is incorrect because it should be reformatted into a proper question without blanks. The translation also retains the structure of the Chinese question, but it does not meet the requirement for transformation from a fill-in-the-blank format to a direct question format. Therefore, the translation is not correct."
+    },
+    {
+        "question": "财经报道是财经记者主动、负责地[填空1]、[填空2]、[填空3]报道财经领域里的变动信息的复杂过程。\n Option: None",
+        "translated_question": "Financial reporting is a complex process in which financial journalists actively and responsibly engage in what activities to report changes in the financial field?",
+        "reason": "The Chinese question is structured as a fill-in-the-blank question with three placeholders for activities that financial journalists engage in. The English translation, however, converts the fill-in-the-blank format into a question about what those activities are, which does not adhere to the requirement of eliminating the blanks. The expected format in English should be a statement or a clarifying question that includes the essence of the original without suggesting blanks. Therefore, the translation does not maintain the intended structure and is incorrect."
+    },
+    {
+        "question": "独家新闻既指[填空1]，也指[填空2]。\n Option: None",
+        "translated_question": "What do exclusive news refer to in terms of both [blank1] and [blank2]?",
+        "reason": "The Chinese question is a fill-in-the-blank question, indicated by the blanks [填空1] and [填空2]. However, the English translation retains the blanks and is phrased as a question asking for both references of exclusive news. This format does not conform to the requirement that the English translation should be reformatted into a proper question format without the blanks. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "沟通简单地说就是（ ）。\n Option: {'A': '合作交流', 'B': '需求交流', 'C': '强化交流', 'D': '信息交流'}",
+        "translated_question": "Communication simply means what? What are the options? {'A': 'cooperative communication', 'B': 'demand communication', 'C': 'strengthened communication', 'D': 'information communication'}",
+        "reason": "The Chinese question is a fill-in-the-blank type asking for a definition of communication, indicated by the blank ( ). The English translation, however, reformats it into a question format with 'what?', which is correct. However, it includes an additional question about the options, which is not present in the original Chinese question. The original question does not explicitly ask for the options; it simply presents them. Therefore, the translation introduces a discrepancy in meaning."
+    },
+    {
+        "question": "机遇是值得（）考虑的\n Option: {'A': '严重', 'B': '慎重', 'C': '认真', 'D': '严肃'}",
+        "translated_question": "Opportunities are worth what type of consideration? {'A': 'serious', 'B': 'carefully', 'C': 'seriously', 'D': 'solemnly'}",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol （ ）, which means the English translation should be reformatted into a proper question format without the blank. The provided English translation correctly transforms the question into a format asking for the type of consideration but uses 'what type of consideration' instead of directly translating the meaning of '值得（）考虑的'. The options given in English do not match the intended meaning of the original Chinese options, leading to potential confusion. Therefore, while the format is correct, the specific wording and the options provided do not accurately reflect the Chinese question."
+    },
+    {
+        "question": "在很多时候，意外的成功根本就没有被（）\n Option: {'A': '在意', 'B': '认可', 'C': '发现', 'D': '认同'}",
+        "translated_question": "In many cases, unexpected success has not been recognized, acknowledged, discovered, or accepted?",
+        "reason": "The Chinese question is a fill-in-the-blank question as indicated by the blank symbol ( ). The English translation, however, does not conform to the required format as it presents multiple options in a question format, which is not the same as simply asking for a single missing word. The translation should have been a statement with a single blank converted into a question without the extra options. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "意外之事提供的创新机遇风险最（）\n Option: {'A': '大', 'B': '小', 'C': '多', 'D': '乱'}",
+        "translated_question": "The unexpected events provide innovative opportunities. What is the degree of risk like the most? (大, 小, 多, 乱)",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol （）. The English translation, however, asks 'What is the degree of risk like the most?' which does not conform to the format of a fill-in-the-blank question. Instead, it should present the question in a direct manner without the blank. The English translation also introduces some confusion with the phrasing 'like the most', which does not accurately reflect the original Chinese meaning. Therefore, the translation is incorrect in both format and clarity."
+    },
+    {
+        "question": "《资治通鉴》是一部____史书。\n Option: {'A': '纪传体', 'B': '编年体', 'C': '纪事本末体', 'D': '国别体'}",
+        "translated_question": "The \"Zizhi Tongjian\" is a _____ historical book. \nOption: {'A': 'biographical', 'B': 'chronological', 'C': 'annalistic', 'D': 'national'}",
+        "reason": "The Chinese question is a fill-in-the-blank type, indicated by the blank '____', which should be rephrased into a proper question format in the English translation. The provided English translation retains the blank, which does not conform to the required format for a correct translation. Therefore, the translation is incorrect."
+    },
+    {
+        "question": "“和平统一、一国两制”的核心是（）\n Option: {'A': '一个中国', 'B': '两制并存', 'C': '高度自治', 'D': '和平统一'}",
+        "translated_question": "The core of \"peaceful reunification and one country, two systems\" is ( )  \nOptions: {'A': 'one China', 'B': 'dual systems coexist', 'C': 'high degree of autonomy', 'D': 'peaceful reunification'}",
+        "reason": "The Chinese question is a fill-in-the-blank question indicated by the blank symbol ( ). Therefore, the English translation should be reformatted into a proper question format without the blank. The provided English translation retains the blank, which does not conform to the required criteria for a correct translation. Thus, the translation is incorrect due to the format issue."
+    },
+    {
+        "question": "“视窗界面”的特点是_____。\n Option: {'A': '缺乏焦点', 'B': '可以完成镜头内部叙事', 'C': '视觉冲击力强'}",
+        "translated_question": "The characteristic of the \"window interface\" is _____. \nOption: {'A': 'lack of focus', 'B': 'can complete internal narrative', 'C': 'strong visual impact'}",
+        "reason": "The Chinese question is a fill-in-the-blank question, as indicated by the blank symbol '_____'. The English translation, however, retains the blank as '_____', which does not conform to the requirement for a proper question format without the blank. Therefore, the translation does not meet the necessary criteria for a correct translation."
+    },
+    {
+        "question": "在二十世纪八十年代，韩国规定总资产超过多少韩元的企业集团被称为&ldquo;财阀&rdquo;？\n Option: {'A': '500亿', 'B': '4000亿', 'C': '5000亿', 'D': '400亿'}",
+        "translated_question": "In the 1980s, what was the threshold of total assets in Korean won for a business group to be called a \"chaebol\"?  \nOption: {'A': '50 billion', 'B': '400 billion', 'C': '500 billion', 'D': '40 billion'}",
+        "reason": "The English translation captures the essence of the Chinese question, which asks about the threshold of total assets that defines a business group as a 'chaebol' in South Korea during the 1980s. However, there are discrepancies in the numerical values provided in the options: '500亿' should correspond to '50 billion', '4000亿' to '400 billion', '5000亿' to '500 billion', and '400亿' to '40 billion'. The options in the English translation do not match the original Chinese values correctly, indicating an error in translation."
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "question": "相同的汉字代表相同的数字，不同的汉字代表不同的数字．请填入合适的数字，使乘法竖式成立，三位数“$$\\overline{学而思}$$”等于．\n\n\n\n\n学\n而\n思\n\n\nX\n\n\n9\n\n\n1\n3\n2\n3",
+        "translated_question": "What are the appropriate numbers to fill in to make the multiplication vertical format valid, where the three-digit number “$$\\overline{XueErSi}$$” is involved?",
+        "reason": "The Chinese question asks for filling in appropriate numbers to make a multiplication vertical format valid, with the condition that the three-digit number '学而思' is involved. The English translation captures the essence of the question by asking which numbers should be filled in to make the multiplication valid, and it mentions the three-digit number 'XueErSi'. However, the translation does not explicitly state that the same Chinese characters represent the same digits and different characters represent different digits, which is an important part of the original question. Therefore, the translation misses some crucial information from the Chinese question."
+    },
+    {
+        "question": "甲，乙两地相距$$350$$千米，一辆汽车在早上$$8$$点从甲地出发，以每小时$$40$$千米的速度开往乙地，$$2$$小时后另一辆汽车以每小时$$50$$千米的速度从乙地开往甲地．问：几点的时候两车在途中相遇？（ ）",
+        "translated_question": "At what time will the two cars meet on the way?",
+        "reason": "The Chinese question involves a scenario where two cars are traveling towards each other from two different locations and includes specific details about distances, speeds, and start times, followed by a question about the time of their meeting. The English translation only includes the final question and omits the detailed context provided in the Chinese version. Therefore, the English translation does not fully capture the content and context of the original Chinese question."
+    },
+    {
+        "question": "用竖式计算$$0.35+0.46=$$（ ）．",
+        "translated_question": "Use a vertical method to calculate $$0.35 + 0.46$$.",
+        "reason": "The Chinese question is a fill-in-the-blank question, as indicated by the blank symbol （ ）. The question asks for the result of the calculation using a vertical method and expects an answer to fill in the blank. The provided English translation omits the blank and does not convert the sentence into a question format as required. It simply instructs to use a vertical method without asking for the result, which does not align with the Chinese question's format and intent."
+    },
+    {
+        "question": "将$$13$$分拆成三个不同的非零自然数相加之和，但三个自然数只能从$$1\\sim 8$$中选取，共有种不同的分拆方式.",
+        "translated_question": "The number of different ways to split $$13$$ into the sum of three different non-zero natural numbers, where the natural numbers can only be chosen from $$1$$ to $$8$$, is .",
+        "reason": "The Chinese question presents a fill-in-the-blank problem asking for the number of different ways to split the number 13 into the sum of three different non-zero natural numbers chosen from 1 to 8. The English translation retains the fill-in-the-blank format by including a blank, which does not conform to the criteria for a correct translation. The translation should have been converted into a proper question format."
+    },
+    {
+        "question": "图中有条线段． question_491-image_0",
+        "translated_question": "There is a line segment in the figure.",
+        "reason": "The Chinese question is missing a blank due to a format error, but it is intended to ask about the number of line segments in the figure. The English translation 'There is a line segment in the figure.' incorrectly translates this as a statement rather than a question. Therefore, it does not convey the original meaning properly."
+    },
+    {
+        "question": "图中有个长方形（包括正方形）． question_492-image_0",
+        "translated_question": "There is a rectangle (including a square) in the figure.",
+        "reason": "The Chinese question is likely a fill-in-the-blank question that asks for the total number of rectangles (including squares) in the figure, but the blank is missing. The English translation, however, incorrectly provides a statement saying 'There is a rectangle (including a square) in the figure.' which doesn't match the intended question format of asking for a count."
+    },
+    {
+        "question": "下图中菱形的面积为平方厘米．（单位：厘米） question_698-image_0",
+        "translated_question": "The area of the rhombus in the figure is square centimeters. (Unit: centimeters)",
+        "reason": "The Chinese question is a statement with a missing blank, indicating it is likely a fill-in-the-blank question regarding the area of the rhombus. The English translation is a direct statement and does not reformat the missing blank into a question format. Therefore, the translation does not meet the criteria for a correct translation as it should have been converted into a question format, such as 'What is the area of the rhombus in the figure?'."
+    },
+    {
+        "question": "一辆快车从甲站开往乙站，每小时行驶$$65$$千米，一辆慢车同时从乙站开往甲站，每小时行驶$$60$$千米，相遇时快车比慢车多走$$10$$千米，甲、乙两站间的距离是千米．",
+        "translated_question": "What is the distance between Stations A and B in kilometers?",
+        "reason": "The Chinese question describes a scenario involving two trains traveling towards each other from different stations, with specific speeds and a condition about the distance traveled by the faster train compared to the slower one at the point of meeting. It is a fill-in-the-blank question that asks for the distance between the two stations. The English translation, however, directly asks for the distance between Stations A and B without any context or the specific condition mentioned in the Chinese question. This makes the translation incorrect as it omits essential details that are present in the original question."
+    },
+    {
+        "question": "$$215+23$$的结果是一个",
+        "translated_question": "The result of $$215 + 23$$ is a number.",
+        "reason": "The Chinese question is a statement indicating that the result of the operation $$215 + 23$$ is a certain type of value, likely intended to be completed with a specific term or adjective. The English translation, however, merely states that the result is a number, which seems incomplete and does not fully capture the intent of the Chinese statement. The Chinese sentence likely implies a fill-in-the-blank format, but the English translation presents it as a complete statement without any context of what should follow. Therefore, the translation does not accurately reflect the intent of the original text."
+    },
+    {
+        "question": "用红、绿两种颜色的小正方形瓷砖铺成一块正方形墙面：由外到内算起，这个墙面最外层铺的是红色瓷砖，第二层是绿色瓷砖，第三层是红色瓷砖，第四层是绿色瓷砖……这样依次铺下去，一共使用了$$400$$块瓷砖．那么两种瓷砖相差块．",
+        "translated_question": "What is the difference in the number of tiles between the two colors?",
+        "reason": "The Chinese question is a fill-in-the-blank question that describes a pattern of alternating colors of tiles used to cover a square wall. It specifies the sequence of colors and the total number of tiles used, asking for the difference in the number of tiles between the two colors. The English translation, however, is presented as a question asking for the difference without providing any context or sequence details from the original Chinese question. Therefore, the translation is incomplete and incorrect as it does not convey the full context required to answer the question."
+    },
+    {
+        "question": "如图，多边形的周长为厘米． question_2203-image_0",
+        "translated_question": "What is the perimeter of the polygon in the figure in centimeters?",
+        "reason": "The Chinese question is a statement indicating that the polygon's perimeter is a certain number of centimeters, with the expectation that the blank (which is missing) would be filled with the numerical value of the perimeter. The English translation, however, turns this into a question asking for the perimeter of the polygon. This is a discrepancy because the original Chinese implies that the value is given, rather than being asked for."
+    },
+    {
+        "question": "封闭图形一周的长度，是它的．",
+        "translated_question": "What does the length around a closed figure represent?",
+        "reason": "The Chinese question is a statement that is missing a blank, as indicated by the sentence structure, '封闭图形一周的长度，是它的,' suggesting it is a fill-in-the-blank type of question. The English translation, however, is a question format, 'What does the length around a closed figure represent?' This indicates a mismatch between the statement in Chinese and the question format in English. Therefore, the translation does not correctly represent the structure and intent of the original Chinese question."
+    },
+    {
+        "question": "小白兔乐乐喜欢吃胡萝卜、南瓜和菠菜三种食物．她在相邻的两天不会吃同一种．如果她第一天吃的是胡萝卜，第四天吃的也是胡萝卜，那么在这四天里她的食谱有多少种不同的安排方案？（ ）\n question_2434-image_0",
+        "translated_question": "How many different meal arrangements are there for Lele over these four days?",
+        "reason": "The Chinese question provides a specific scenario involving Lele the rabbit's eating habits over four days, including constraints about not eating the same food on consecutive days and starting and ending with the same food. However, the English translation is missing these details and only asks about the number of different meal arrangements over four days, which does not fully capture the constraints specified in the Chinese question. Therefore, the translation is incomplete and incorrect."
+    },
+    {
+        "question": "苹果和梨一共$$110$$ 个，苹果数量比梨数量的$$2$$倍还多$$20$$个，问苹果和梨各有多少个？（ ）",
+        "translated_question": "How many apples and how many pears are there?",
+        "reason": "The Chinese question provides specific information about the total number of apples and pears, as well as a relationship between their quantities, and then asks for the number of apples and pears. The English translation, however, only asks 'How many apples and how many pears are there?' without including the given conditions. Therefore, the English translation is incomplete and does not accurately convey the full meaning of the Chinese question."
+    },
+    {
+        "question": "如下图所示，一个大正方形被分成了$$A$$、$$B$$、$$C$$、$$D$$四块，已知$$A$$块周长为$$4$$厘米，$$B$$块的周长为$$10$$厘米，$$C$$块的周长为$$7$$厘米，请问：大长方形的周长为厘米．\n question_3113-image_0",
+        "translated_question": "What is the perimeter of the large square in centimeters?",
+        "reason": "The Chinese question provides specific information about the perimeters of four sections (A, B, C, D) within a larger square and asks about the perimeter of the large square. The English translation omits this context and directly asks for the perimeter of the large square, without mentioning the individual sections or their given perimeters. This omission results in a loss of information that might be relevant for solving the problem, making the translation incomplete."
+    },
+    {
+        "question": "下图是一块$$5\\times 5$$的区域，种有$$5$$棵树，现在要求在不种树的空地上搭帐篷，而且要求帐篷必须搭在树边，任意两个帐篷所占方格没有公共点，且每行帐篷数如最左边所示，每列帐篷数如最上边所示．请问第$$5$$行第$$3$$列是否有帐篷？（ ） question_3275-image_0",
+        "translated_question": "Is there a tent in row $$5$$, column $$3$$?",
+        "reason": "The Chinese question describes a scenario involving a 5x5 grid with specific conditions for placing tents adjacent to trees, with constraints on the number of tents per row and column. The question specifically asks whether there is a tent at the intersection of the 5th row and 3rd column, which is followed by a blank for the answer. The English translation only asks 'Is there a tent in row 5, column 3?' without any context or description of the grid or conditions, and it does not convert the fill-in-the-blank format into an appropriate question format. Therefore, the translation lacks essential context and does not faithfully convey the complete meaning of the Chinese question."
+    },
+    {
+        "question": "$$1$$只青蛙$$4$$条腿，只青蛙$$20$$条腿．",
+        "translated_question": "One frog has 4 legs, and the frogs have 20 legs in total.",
+        "reason": "The Chinese question seems to describe a scenario involving frogs and their legs. The first part, '1只青蛙4条腿', indicates that one frog has 4 legs. The second part, '只青蛙20条腿', seems to be missing something due to a format error, making it unclear. However, the English translation 'One frog has 4 legs, and the frogs have 20 legs in total' seems to make a reasonable assumption about the intended meaning, but without additional context, it is difficult to determine if the translation correctly conveys any missing elements or intended query from the Chinese statement. Given the potential ambiguity and missing elements, it is safer to consider the translation as potentially incorrect."
+    },
+    {
+        "question": "如图，空白区域的安全区、雷区已分别用“$$O$$”和“$$X$$”标出．剩余阴影部分，哪些方格肯定是安全区，请在上面画“$$O$$”，第$$1$$行第$$1$$列是（ ）．\n question_3435-image_0",
+        "translated_question": "What is marked in the first row and first column?",
+        "reason": "The Chinese question involves identifying certain areas as safe zones or minefields, indicated by 'O' and 'X', and asks specifically which shaded squares are definitely safe zones, instructing to mark them with 'O'. It also specifically asks about the first row and first column. The English translation only asks 'What is marked in the first row and first column?', which does not fully capture the context or instructions provided in the Chinese question. Therefore, the English translation is incomplete and incorrect."
+    },
+    {
+        "question": "在除法里，$$0$$不能作为（ ）．",
+        "translated_question": "In division, $$0$$ cannot be used as a ().",
+        "reason": "The Chinese question is a fill-in-the-blank question, as indicated by the blank symbol （ ）, suggesting that something cannot be used as in division. The English translation retains the blank, which does not conform to the requirement of converting it into a proper question format without the blank. Therefore, the translation is not correct according to the specified criteria."
+    },
+    {
+        "question": "等差数列计算：$$1 + 3 + 5 + \\ldots + 73 = $$．",
+        "translated_question": "Calculate the arithmetic series: $$1 + 3 + 5 + \\ldots + 73 = $$．",
+        "reason": "The Chinese question is a fill-in-the-blank question, as indicated by the presence of the equals sign followed by a blank space. This requires the English translation to be reformatted into a proper question format without the blank. However, the provided English translation retains the equals sign followed by a blank, which does not meet the specified criteria for a correct translation. It should have been translated into a question format like 'What is the sum of the arithmetic series: 1 + 3 + 5 + ... + 73?'."
+    },
+    {
+        "question": "图中有个长方形（包括正方形）． question_4040-image_0",
+        "translated_question": "There are rectangles (including squares) in the figure.",
+        "reason": "The Chinese question implies a count of rectangles (including squares) in the figure, which suggests it is seeking a specific number as an answer, indicating a fill-in-the-blank format. The English translation, however, does not convert this into a question format and lacks the specificity of asking for a number, which would be expected in a correct translation. Therefore, the translation is incorrect in format and meaning."
+    },
+    {
+        "question": "图中有个长方形（包括正方形）．\n question_4164-image_0",
+        "translated_question": "There is a rectangle (including squares) in the figure.",
+        "reason": "The Chinese question is likely intended to be a fill-in-the-blank question asking for the number of rectangles (including squares) in the figure, as suggested by the '有个长方形' (there are _ rectangles). The English translation provided is a statement and does not account for the expected numerical answer, nor does it reformat the statement into a question. Thus, the translation does not accurately reflect the intended meaning of the Chinese question."
+    },
+    {
+        "question": "图中的$$5$$个点一共可以画出$$6$$条直线，如果在图中再增加一个点，新产生直线的数量一共有种情况.\n question_4504-image_0",
+        "translated_question": "If we add one more point to the 5 points in the figure, creating a total of 6 points, how many possible scenarios are there for forming new lines?",
+        "reason": "The Chinese question is in a statement format, providing information about the number of lines that can be drawn with 5 points and asking about the number of scenarios for forming new lines if an additional point is added. The English translation correctly captures the essence of this by discussing the addition of a point to the existing 5 points and asking about the number of possible scenarios for new lines. However, the translation assumes a question format by asking 'how many possible scenarios', which deviates from the original statement format in Chinese that is missing a blank. This indicates that the Chinese question is likely a fill-in-the-blank question missing the blank, but the English translation does not convert it appropriately into a question format. Therefore, the translation is not fully correct."
+    },
+    {
+        "question": "如图，这是一块平行四边形菜地，它的面积是平方米。 question_4935-image_0",
+        "translated_question": "What is the area of the parallelogram-shaped vegetable field in square meters?",
+        "reason": "The Chinese question is a statement describing a parallelogram-shaped vegetable field and its area in square meters, implicitly expecting the reader to determine or find the area as a fill-in-the-blank question (the blank appears to be missing due to format error). The English translation, however, turns it into a direct question asking for the area, which is not the correct format because it changes the nature of the original statement. Therefore, the translation does not accurately reflect the format and intent of the Chinese question."
+    },
+    {
+        "question": "计算下列各题．$$1\\div 3+2\\div 6+3\\div 9+4\\div 12+5\\div 15+6\\div 18=$$．",
+        "translated_question": "Calculate the following problems. $$1 \\div 3 + 2 \\div 6 + 3 \\div 9 + 4 \\div 12 + 5 \\div 15 + 6 \\div 18 = $$",
+        "reason": "The Chinese question is a statement asking for the calculation of a specific expression. The English translation accurately conveys this request by instructing to 'Calculate the following problems'. However, the translation should convert the statement into a complete sentence by concluding it with a question or by indicating what is to be calculated, like specifying 'Calculate the sum'. Since the English translation leaves the calculation open-ended with an equals sign but no question or prompt, it does not fully adhere to the expected format."
+    },
+    {
+        "question": "下图是一块$$5\\times 5$$的区域，种有$$5$$棵树，现在要求在不种树的空地上搭帐篷，而且要求帐篷必须搭在树边，任意两个帐篷所占方格没有公共边，且每行帐篷数如最右边所示，每列帐篷数如最下边所示．请问第$$5$$行第$$3$$列是否有帐篷？（ ）．\n question_5273-image_0",
+        "translated_question": "Is there a tent in the $$5$$th row and $$3$$rd column?",
+        "reason": "The Chinese question provides detailed instructions for placing tents in a grid, including conditions for adjacent tents and specific numbers of tents per row and column, and then asks if there is a tent in the 5th row and 3rd column. The English translation only provides the final question without the context or conditions that are essential to understanding and solving the problem. Therefore, the translation is incomplete and incorrect."
+    },
+    {
+        "question": "在下面的减法算式中，每一个字母代表一个数字，不同的字母代表不同的数字，那么$$D+G$$的结果一定不是 question_6136-image_0",
+        "translated_question": "In the following subtraction equation, each letter represents a digit, and different letters represent different digits. The result of $$D + G$$ is definitely not equal to a certain value.",
+        "reason": "The Chinese question is a statement about a subtraction equation where each letter represents a digit, and different letters represent different digits. It specifically states that the result of $$D + G$$ is definitely not a specific value, which is indicated by the blank or missing part in the Chinese question. The English translation captures the general meaning but does not specify that the result is definitely not equal to a certain value, as it should be according to the Chinese statement. However, the translation does not fully convey the specifics due to the absence of the blank or specific value indication, which is crucial for the correct understanding."
+    },
+    {
+        "question": "某单位实行五天工作制，即星期一至星期五上班，星期六和星期日休息．现已知某月有$$31$$天，且该单位职工小王在该月休息了$$9$$天(该月没有其他节日)．则这个月的六号可能是下列四天中的哪一天？（ ）",
+        "translated_question": "Which day among the following four days could the sixth of this month be?",
+        "reason": "The Chinese question provides specific details about a work schedule, the number of days in a month, and the rest days taken by an employee named Xiao Wang. It then asks which day of the week the sixth of the month could possibly be, given these conditions. The English translation, however, is incomplete as it only asks which day the sixth of the month could be without providing the context given in the Chinese question. Additionally, the Chinese question is a multiple-choice question with options indicated by the blank (），which is not reflected in the English translation. Thus, the translation is incorrect due to missing context and improper format."
+    },
+    {
+        "question": "用$$2$$、$$3$$、$$5$$、$$6$$四个数字，在它们之间填上$$+$$、$$-$$、$$\\times $$、$$\\div $$或（ ），使得结果等于$$24$$（每个数字只能用一次）．",
+        "translated_question": "Using the numbers $$2$$, $$3$$, $$5$$, and $$6$$, fill in the operations $$+$$, $$-$$, $$\\times$$, or $$\\div$$ between them so that the result equals $$24$$ (each number can be used only once).",
+        "reason": "The Chinese question asks to use the numbers 2, 3, 5, and 6, and fill in with the operations +, -, ×, or ÷ between them to make the result equal to 24, with each number being used only once. The English translation accurately conveys this task by mentioning the use of these numbers and operations to achieve a result of 24. However, the Chinese question includes a blank represented by （ ）, which suggests another element that might be missing or should be noted in the English translation. This implies that parentheses are also allowed to be used in the Chinese version, which is not explicitly mentioned in the English translation. Therefore, the translation is not fully correct."
+    },
+    {
+        "question": "大壮在抄写一个数的时候太粗心了，把这个数末位的$$0$$漏掉了，结果写出来这个数比原来小了$$504$$，(1)原数是错数的倍．(2)原来这个数是.",
+        "translated_question": "What is the original number a multiple of the incorrect number? (2) What was the original number?",
+        "reason": "The Chinese question consists of two parts: (1) stating that the original number is a multiple of the incorrect number, and (2) asking for the original number. The English translation starts with 'What is the original number a multiple of the incorrect number?', which incorrectly suggests it is a question, while it should be a statement as indicated by the Chinese text. The second part of the translation, 'What was the original number?', correctly translates the question format for part (2). However, due to the incorrect format of part (1), the overall translation is not accurate."
+    },
+    {
+        "question": "大伙儿又到了鹿苑．艾迪数了数，梅花鹿和长颈鹿一共有$$24$$只，并且梅花鹿的总数比长颈鹿的$$3$$倍少$$4$$只．那么艾迪分别看到了多少只梅花鹿和长颈鹿？梅花鹿：只长颈鹿：只",
+        "translated_question": "How many spotted deer and giraffes did Eddie see?",
+        "reason": "The Chinese question provides specific information about the total number of spotted deer and giraffes, as well as a relationship between their quantities. It then asks for the number of each animal seen by Eddie, which is a more detailed question than simply asking 'How many spotted deer and giraffes did Eddie see?'. The English translation omits the details about their total number and the relationship, failing to capture the full context of the Chinese question."
+    },
+    {
+        "question": "$$74\\div 8=9\\cdots \\cdots $$．",
+        "translated_question": "$$74 \\div 8 = 9 \\cdots \\cdots$$",
+        "reason": "The Chinese question presents a mathematical division operation with a remainder, using the notation '9⋯⋯' which implies 9 remainder. The English translation retains the exact same mathematical expression, '74 ÷ 8 = 9 ⋯⋯', without converting the implicit fill-in-the-blank nature related to the remainder into a question format. This suggests the English translation is incomplete as it does not fully convey the expected answer or inquiry about the remainder, making it not entirely correct."
+    },
+    {
+        "question": "甲、乙两位火炬手负责把火炬从$$A$$地传递到$$B$$地．先由甲从$$A$$地出发，并在途中将火炬传递给乙；乙接过火炬后继续慢跑前往$$B$$地．已知$$A$$、$$B$$两地相距$$2400$$米，并且甲比乙多跑了$$600$$米．请问：甲跑了多少米？（ ）",
+        "translated_question": "How many meters did athlete A run?",
+        "reason": "The Chinese question provides a detailed scenario involving two torchbearers, A and B, who are responsible for carrying a torch from point A to point B. It states that A runs a certain distance before passing the torch to B, and B continues to jog to point B. The total distance from A to B is 2400 meters, and it also mentions that A runs 600 meters more than B. The question asks how many meters A ran. However, the English translation only asks 'How many meters did athlete A run?' without providing the necessary context or details given in the Chinese question. Therefore, the translation is incomplete and does not accurately reflect the original text."
+    },
+    {
+        "question": "有甲、乙两堆棋子，其中甲堆棋子多于乙堆．现在按如下方法移动棋子：第一次从甲堆中拿出和乙堆一样多的棋子放到乙堆；第二次从乙堆中拿出和甲堆剩下的同样多的棋子放到甲堆；第三次又从甲堆中拿出和乙堆剩下的同样多的棋子放到乙堆．照此移法，移动完三次后，甲、乙两堆棋子数恰好都是$$32$$个．问甲、乙两堆棋子原来各有多少个？甲：个乙：个",
+        "translated_question": "How many pieces did piles A and B originally have?",
+        "reason": "The Chinese question provides a detailed scenario involving the movement of pieces between two piles, A and B, and specifies conditions after three moves. It then asks for the original number of pieces in each pile. The English translation, however, only contains the final question without the detailed context or conditions provided in the Chinese version. Therefore, the translation is incomplete and does not accurately convey the full meaning of the Chinese question."
+    },
+    {
+        "question": "question_7072-image_0 正确答案是．",
+        "translated_question": "The correct answer is ______.",
+        "reason": "The Chinese question seems to be a statement indicating 'The correct answer is .' with a missing blank or a placeholder for the answer. In the English translation, the blank is represented as '______', which suggests it is a fill-in-the-blank format. However, the Chinese question does not provide a complete sentence or context, and the English translation attempts to maintain a blank for the answer. Since the translation must convert fill-in-the-blank statements into questions, and the given Chinese text is not directly translatable into a question without additional context, the translation is considered incorrect due to missing context and improper format conversion."
+    },
+    {
+        "question": "东东今年$$10$$岁，爸爸妈妈的年龄和是$$80$$岁，那么年后他们三人的年龄和是$$120$$岁．",
+        "translated_question": "In $$n$$ years, the sum of their ages will be $$120$$.",
+        "reason": "The Chinese question provides information about Dongdong's current age (10 years) and the sum of his parents' ages (80 years), then asks about the sum of their ages in 'n' years being 120. The English translation directly states the result in 'n' years without mentioning the current ages or the sum of the parents' ages. The translation does not correctly convey the complete information from the Chinese question, missing the context of Dongdong's and his parents' current ages and their sum."
+    },
+    {
+        "question": "善良的公主被邪恶的女巫追到了魔法森林深处，在一个三岔路口，每一个路口都写着一句话．\n第一个路口：“这条路能通往你的城堡．”\n第二个路口：“第一个路口不能通往你的城堡．”\n第三个路口：“这条路不能通往你的城堡．”\n女巫就要追来了，三句话只有一句真话，也只有一条路能让公主回到城堡，公主该选择第个路口．（填写数字）",
+        "translated_question": "Which path should the princess choose?",
+        "reason": "The Chinese question provides a scenario where the princess is at a three-way junction with each path having a statement. The task is to determine which path will lead to the castle considering only one statement is true. The English translation 'Which path should the princess choose?' does not include the specific context or the statements at each junction, nor does it specify that only one statement is true and only one path leads to the castle. Furthermore, the Chinese question indicates a fill-in-the-blank format by '填写数字', which is not reflected in the English translation. As such, the translation is incomplete and incorrect."
+    },
+    {
+        "question": "博士的生日日期是$$10$$月$$23$$日，已知$$2018$$年$$9$$月$$1$$日是星期六，那么博士$$2019$$年生日在星期．（填数字）",
+        "translated_question": "On what day of the week will Doctor's birthday fall in 2019? (Fill in the number)",
+        "reason": "The Chinese question provides information about Doctor's birthday and asks on which day of the week Doctor's birthday will fall in 2019, and specifies to fill in the number corresponding to the day of the week. The English translation correctly conveys the question but incorrectly includes 'Fill in the number', which is a directive specific to the fill-in-the-blank format in the Chinese question. The English translation should be formatted as a question without this directive, as the translation should not include instructions for filling in blanks."
+    },
+    {
+        "question": "$$2017$$年$$2$$月$$1$$日是星期三．$$2018$$年$$2$$月$$1$$日是星期．（填数字）",
+        "translated_question": "What day of the week is February 1, $$2018$$?",
+        "reason": "The Chinese question provides a specific date, February 1, 2017, which is a Wednesday, and asks for the day of the week on February 1, 2018, with an instruction to fill in a number. This indicates it is a fill-in-the-blank question requiring an answer in numerical format. The English translation, however, reformulates it into a direct question asking 'What day of the week is February 1, 2018?' without addressing the instruction to fill in a number. Therefore, the translation does not accurately convey the format and specific instruction of the original Chinese question."
+    },
+    {
+        "question": "王老师带了$$400$$元，买了$$9$$个相同的玩具，她可能买了（ ）．",
+        "translated_question": "How much could Teacher Wang have spent in total?",
+        "reason": "The Chinese question is a fill-in-the-blank question that describes a scenario where Teacher Wang has 400 yuan and buys 9 identical toys, asking what Teacher Wang might have bought. The English translation, however, asks 'How much could Teacher Wang have spent in total?' which does not accurately reflect the original question's intent. The English translation changes the focus of the question from what was bought to how much was spent, which is not consistent with the original Chinese question."
+    },
+    {
+        "question": "把$$7$$只小猫分别关进$$3$$个笼子里，不管怎么放，总有一个笼子里至少有只猫．",
+        "translated_question": "When placing $$7$$ kittens into $$3$$ cages, no matter how they are distributed, there will always be at least one cage with at least one kitten.",
+        "reason": "The Chinese question states that when distributing 7 kittens into 3 cages, there will always be at least one cage with at least one kitten. However, the original Chinese text implies a stronger statement that there will always be at least one cage with more than one kitten, due to the wording '至少有只猫'. The English translation only states that there will be at least one cage with at least one kitten, which is a weaker condition and could be misleading. Therefore, the English translation does not accurately convey the stronger implication found in the Chinese question."
+    },
+    {
+        "question": "爸爸、妈妈、爷爷和强强今年的年龄和是$$146$$岁，年后他们的年龄和是$$170$$岁．",
+        "translated_question": "How old will they be in total in the future year when their ages sum to $$170$$ years?",
+        "reason": "The Chinese question states that the sum of the ages of dad, mom, grandpa, and Qiangqiang is 146 years this year, and it will be 170 years in a future year. However, the English translation asks about the total sum of their ages in a future year when it becomes 170 years, which does not match the original Chinese statement. The Chinese question provides specific information about the current and future sum of their ages, without explicitly asking a question about when or how their ages will sum to 170 years. Therefore, the translation is incorrect in its interpretation."
+    }
+]

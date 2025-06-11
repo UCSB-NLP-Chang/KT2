@@ -1,0 +1,937 @@
+{
+    "染色计数问题": {
+        "name": "染色计数问题",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "标准标数法": {
+        "name": "标准标数法",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "最短路线"
+        ],
+        "parents": [
+            "标数法"
+        ]
+    },
+    "格点构造数图形": {
+        "name": "格点构造数图形",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "分类枚举法数图形"
+        ]
+    },
+    "乘法原理里的其他类型": {
+        "name": "乘法原理里的其他类型",
+        "question_count": 43,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "乘法原理"
+        ]
+    },
+    "乘法拆数（应用）": {
+        "name": "乘法拆数（应用）",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数拆分应用"
+        ]
+    },
+    "加法拆数（指定个数）": {
+        "name": "加法拆数（指定个数）",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "简单拆分"
+        ]
+    },
+    "拆数数字可重复": {
+        "name": "拆数数字可重复",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "枚举法"
+        ]
+    },
+    "三量容斥": {
+        "name": "三量容斥",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "容斥原理"
+        ]
+    },
+    "有序枚举": {
+        "name": "有序枚举",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "枚举法"
+        ]
+    },
+    "多量容斥的几何计数": {
+        "name": "多量容斥的几何计数",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "容斥原理"
+        ]
+    },
+    "枚举法": {
+        "name": "枚举法",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "拆数数字可重复",
+            "有序枚举"
+        ],
+        "parents": [
+            "枚举法综合"
+        ]
+    },
+    "分类枚举法数图形": {
+        "name": "分类枚举法数图形",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "格点构造数图形",
+            "常规图形枚举计数"
+        ],
+        "parents": [
+            "几何计数"
+        ]
+    },
+    "整数分拆": {
+        "name": "整数分拆",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "简单拆分",
+            "整数拆分应用"
+        ],
+        "parents": [
+            "枚举法综合"
+        ]
+    },
+    "加乘原理": {
+        "name": "加乘原理",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "加乘原理综合",
+            "乘法原理",
+            "染色计数问题",
+            "排队问题",
+            "组数问题"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "物品搭配": {
+        "name": "物品搭配",
+        "question_count": 31,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "乘法原理"
+        ]
+    },
+    "对应法数图形": {
+        "name": "对应法数图形",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "乘法计数"
+        ],
+        "parents": [
+            "几何计数"
+        ]
+    },
+    "字典排序法": {
+        "name": "字典排序法",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "非数字排列",
+            "组数"
+        ],
+        "parents": [
+            "枚举法综合"
+        ]
+    },
+    "一般组数问题": {
+        "name": "一般组数问题",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组数问题"
+        ]
+    },
+    "简单拆分": {
+        "name": "简单拆分",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "加法拆数（不完全相同数）",
+            "加法拆数（指定个数）"
+        ],
+        "parents": [
+            "整数分拆"
+        ]
+    },
+    "数字组数（不可重复）": {
+        "name": "数字组数（不可重复）",
+        "question_count": 35,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组数"
+        ]
+    },
+    "加法拆数（不完全相同数）": {
+        "name": "加法拆数（不完全相同数）",
+        "question_count": 15,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "简单拆分"
+        ]
+    },
+    "有特殊要求的组数问题": {
+        "name": "有特殊要求的组数问题",
+        "question_count": 11,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组数问题"
+        ]
+    },
+    "添线、删线法": {
+        "name": "添线、删线法",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "几何计数"
+        ]
+    },
+    "常规图形枚举计数": {
+        "name": "常规图形枚举计数",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "角",
+            "认识线段",
+            "正方形"
+        ],
+        "parents": [
+            "分类枚举法数图形"
+        ]
+    },
+    "整数拆分应用": {
+        "name": "整数拆分应用",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "乘法拆数（应用）",
+            "加法拆数（应用）"
+        ],
+        "parents": [
+            "整数分拆"
+        ]
+    },
+    "几何计数": {
+        "name": "几何计数",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "添线、删线法",
+            "对应法数图形",
+            "分类枚举法数图形"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "枚举法综合": {
+        "name": "枚举法综合",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "字典排序法",
+            "整数分拆",
+            "枚举法"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "卡片组数": {
+        "name": "卡片组数",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组数"
+        ]
+    },
+    "标数法": {
+        "name": "标数法",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "特殊点或区域",
+            "标准标数法"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "统计与概率": {
+        "name": "统计与概率",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "认识线段": {
+        "name": "认识线段",
+        "question_count": 39,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "常规图形枚举计数"
+        ]
+    },
+    "乘法计数": {
+        "name": "乘法计数",
+        "question_count": 30,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "对应法数图形"
+        ]
+    },
+    "组数": {
+        "name": "组数",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "卡片组数",
+            "数字组数（不可重复）"
+        ],
+        "parents": [
+            "字典排序法"
+        ]
+    },
+    "加乘原理综合": {
+        "name": "加乘原理综合",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "组数问题": {
+        "name": "组数问题",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "有特殊要求的组数问题",
+            "一般组数问题"
+        ],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "二量容斥": {
+        "name": "二量容斥",
+        "question_count": 139,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "容斥原理"
+        ]
+    },
+    "最短路线": {
+        "name": "最短路线",
+        "question_count": 107,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "标准标数法"
+        ]
+    },
+    "排队问题": {
+        "name": "排队问题",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "角": {
+        "name": "角",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "常规图形枚举计数"
+        ]
+    },
+    "乘法原理": {
+        "name": "乘法原理",
+        "question_count": 14,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "乘法原理里的其他类型",
+            "物品搭配"
+        ],
+        "parents": [
+            "加乘原理"
+        ]
+    },
+    "特殊点或区域": {
+        "name": "特殊点或区域",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "标数法"
+        ]
+    },
+    "非数字排列": {
+        "name": "非数字排列",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "字典排序法"
+        ]
+    },
+    "正方形": {
+        "name": "正方形",
+        "question_count": 60,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "常规图形枚举计数"
+        ]
+    },
+    "计数模块": {
+        "name": "计数模块",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "统计与概率",
+            "加乘原理",
+            "几何计数",
+            "容斥原理",
+            "标数法",
+            "枚举法综合"
+        ],
+        "parents": []
+    },
+    "容斥原理": {
+        "name": "容斥原理",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "多量容斥的几何计数",
+            "二量容斥",
+            "三量容斥"
+        ],
+        "parents": [
+            "计数模块"
+        ]
+    },
+    "加法拆数（应用）": {
+        "name": "加法拆数（应用）",
+        "question_count": 80,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "整数拆分应用"
+        ]
+    }
+}
