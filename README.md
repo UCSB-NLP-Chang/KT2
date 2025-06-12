@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the paper:
 
-**A Hierarchical Probabilistic Framework for Incremental Knowledge Tracing in Classroom Settings**
+[**A Hierarchical Probabilistic Framework for Incremental Knowledge Tracing in Classroom Settings**](https://arxiv.org/abs/2506.09393)
 
 This framework introduces a probabilistic approach that models student knowledge over a structured KC tree, with support for real-time updates via expectation-maximization (EM) and graph-based propagation. The method is designed for classroom scenarios and emphasizes interpretability, modularity, and incremental updates.
 
@@ -61,13 +61,13 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 If you find this project helpful or use it in your research, please consider citing:
 ```
-@misc{kt2_arxiv2025,
-title={A Hierarchical Probabilistic Framework for Incremental Knowledge Tracing in Classroom Settings},
-author={Gao et al.},
-year={2025},
-eprint={arXiv:XXXX.XXXXX},
-archivePrefix={arXiv},
-primaryClass={cs.LG}
+@misc{gao2025kt2,
+      title={A Hierarchical Probabilistic Framework for Incremental Knowledge Tracing in Classroom Settings}, 
+      author={Xinyi Gao and Qiucheng Wu and Yang Zhang and Xuechen Liu and Kaizhi Qian and Ying Xu and Shiyu Chang},
+      year={2025},
+      eprint={2506.09393},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.09393}, 
 }
 ```
-A final citation with the official arXiv link will be added here once available.
